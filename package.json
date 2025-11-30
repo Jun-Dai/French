@@ -1,0 +1,17 @@
+{
+  "name": "french-idioms",
+  "version": "1.0.0",
+  "description": "French idioms collection and parser",
+  "main": "idioms.js",
+  "scripts": {
+    "idioms": "node idioms.js"
+  },
+  "keywords": [
+    "french",
+    "idioms",
+    "language",
+    "learning"
+  ],
+  "author": "",
+  "license": "MIT"
+}
