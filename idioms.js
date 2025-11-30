@@ -231,6 +231,10 @@ function main() {
       jsonOutput = true;
     } else if (arg === '--anki') {
       ankiOutput = true;
+    } else if (arg === '--full') {
+      template = '**{i}**\n{l}\n{m}\n\nDifficulty: {d}/100 | Frequency: {f}/100\nRegister: {r} | Context: {ctx} | Category: {cat}\n\nExamples:\nA: {a}\n   {A}\n\nB: {b}\n   {B}\n\nC: {c}\n   {C}\n\n---\n';
+    } else if (arg === '--def' || arg === '--with-def') {
+      template = '{i} — {m} ({l})';
     } else if (arg === '-h' || arg === '--help') {
       console.log(`
 Usage: npm run idioms [options]
@@ -269,6 +273,8 @@ Options:
   --count                  Show count of matching idioms
   --json                   Output as JSON
   --anki                   Output in Anki flashcard format
+  --full                   Print full details for each idiom
+  --def, --with-def        Print idiom with definition and literal translation
   -h, --help               Show this help message
 
 Examples:
@@ -277,6 +283,8 @@ Examples:
   npm run idioms -f diff:40-60 -s freq
   npm run idioms -p '{i} - {a} ({A})'
   npm run idioms -f category:emotions -s diff -p '{i} (diff: {d})'
+  npm run idioms --def
+  npm run idioms -f diff:70-100 --full
       `);
       process.exit(0);
     }
@@ -299,14 +307,17 @@ Examples:
   // Apply sorting
   idioms = sortIdioms(idioms, sortBy);
 
-  // Show count if requested
+  // Determine if we should print idioms or just count
+  const shouldPrintIdioms = template !== null || jsonOutput || ankiOutput;
+
+  // Show count
   if (showCount) {
     console.log(`Count: ${idioms.length}`);
-    if (idioms.length === 0) return;
+    if (!shouldPrintIdioms || idioms.length === 0) return;
     console.log('');
   }
 
-  // Output
+  // Output idioms if requested
   if (jsonOutput) {
     console.log(JSON.stringify(idioms, null, 2));
   } else if (ankiOutput) {
@@ -316,7 +327,7 @@ Examples:
       const back = `${idiom.meaning}\n\nExample: ${idiom.examples.b?.french || idiom.examples.a?.french || ''}\nTranslation: ${idiom.examples.b?.english || idiom.examples.a?.english || ''}`;
       console.log(`${front};${back.replace(/\n/g, '<br>')}`);
     }
-  } else {
+  } else if (shouldPrintIdioms) {
     console.log(formatOutput(idioms, template));
   }
 }
