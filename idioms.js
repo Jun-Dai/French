@@ -234,9 +234,6 @@ function generateLatex(idioms) {
 \\usepackage{enumitem}
 \\usepackage{titlesec}
 
-% Set main font (using default if specific font not available)
-\\setmainfont{Latin Modern Roman}
-
 % Page setup
 \\pagestyle{fancy}
 \\fancyhf{}
