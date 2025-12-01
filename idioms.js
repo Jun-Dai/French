@@ -232,13 +232,10 @@ function generateLatex(idioms) {
 \\usepackage{fancyhdr}
 \\usepackage{xcolor}
 \\usepackage{enumitem}
+\\usepackage{titlesec}
 
-% Try to use a nice font, fall back to defaults if not available
-\\IfFontExistsTF{Linux Libertine O}{
-  \\setmainfont{Linux Libertine O}
-}{
-  \\setmainfont{Latin Modern Roman}
-}
+% Set main font (using default if specific font not available)
+\\setmainfont{Latin Modern Roman}
 
 % Page setup
 \\pagestyle{fancy}
@@ -253,7 +250,6 @@ function generateLatex(idioms) {
 \\definecolor{metacolor}{RGB}{52, 73, 94}
 
 % Custom section formatting
-\\usepackage{titlesec}
 \\titleformat{\\section}
   {\\Large\\bfseries\\color{idiomcolor}}
   {}{0em}{}[\\vspace{-0.5em}\\rule{\\textwidth}{0.4pt}]
@@ -362,9 +358,31 @@ function generatePDF(idioms, outputPath) {
 
     // Compile LaTeX (run twice for TOC)
     console.log('Running XeLaTeX (first pass)...');
-    execSync(`xelatex -interaction=nonstopmode -output-directory=${tempDir} ${texPath}`, {
-      stdio: 'ignore'
-    });
+    try {
+      execSync(`xelatex -interaction=nonstopmode -output-directory=${tempDir} ${texPath}`, {
+        stdio: 'pipe'
+      });
+    } catch (compileError) {
+      // Save .tex file for debugging
+      const debugTexPath = outputPath.replace(/\.pdf$/, '.tex');
+      fs.copyFileSync(texPath, debugTexPath);
+
+      console.error('\nXeLaTeX compilation failed!');
+      console.error(`LaTeX source saved to: ${debugTexPath}`);
+      console.error('\nTo see detailed errors, run:');
+      console.error(`  xelatex ${debugTexPath}`);
+
+      // Try to extract useful error from log
+      const logPath = path.join(tempDir, 'idioms.log');
+      if (fs.existsSync(logPath)) {
+        const log = fs.readFileSync(logPath, 'utf8');
+        const errorMatch = log.match(/! (.+?)[\r\n]/);
+        if (errorMatch) {
+          console.error(`\nLaTeX Error: ${errorMatch[1]}`);
+        }
+      }
+      throw compileError;
+    }
 
     console.log('Running XeLaTeX (second pass for table of contents)...');
     execSync(`xelatex -interaction=nonstopmode -output-directory=${tempDir} ${texPath}`, {
@@ -378,7 +396,7 @@ function generatePDF(idioms, outputPath) {
     console.log(`  Total pages: ~${Math.ceil(idioms.length / 2)}`);
 
   } catch (error) {
-    console.error('Error generating PDF:', error.message);
+    console.error('\nFailed to generate PDF.');
     process.exit(1);
   } finally {
     // Cleanup temp files
