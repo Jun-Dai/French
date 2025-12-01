@@ -17923,3 +17923,1343 @@ ait des équations complexes avec aisance."
       c:
         french: "Réduisant à néant des années de travail, l'incendie dévasta tout."
         english: "Reducing years of work to nothing, the fire devastated everything."
+  # PRESERVATION & LOSS MORE IDIOMS
+  - idiom: "préserver"
+    literal: "to preserve"
+    meaning: "to preserve"
+    difficulty: 32
+    frequency: 34
+    context: "general"
+    register: "neutral"
+    category: "preservation"
+    examples:
+      a:
+        french: "Il faut préserver l'environnement."
+        english: "We must preserve the environment."
+      b:
+        french: "Elle préserve les traditions."
+        english: "She preserves traditions."
+      c:
+        french: "Préservant le patrimoine, ils assurèrent sa transmission."
+        english: "Preserving the heritage, they ensured its transmission."
+
+  - idiom: "sauvegarder"
+    literal: "to safeguard"
+    meaning: "to safeguard"
+    difficulty: 39
+    frequency: 41
+    context: "general"
+    register: "neutral"
+    category: "preservation"
+    examples:
+      a:
+        french: "Il faut sauvegarder nos acquis."
+        english: "We must safeguard our gains."
+      b:
+        french: "Elle sauvegarde ses données."
+        english: "She safeguards her data."
+      c:
+        french: "Sauvegardant les documents, il évita leur perte."
+        english: "Safeguarding the documents, he avoided their loss."
+
+  - idiom: "perdre"
+    literal: "to lose"
+    meaning: "to lose"
+    difficulty: 18
+    frequency: 16
+    context: "general"
+    register: "neutral"
+    category: "loss"
+    examples:
+      a:
+        french: "J'ai perdu mes clés."
+        english: "I lost my keys."
+      b:
+        french: "Il a perdu son emploi."
+        english: "He lost his job."
+      c:
+        french: "Perdant tout dans l'incendie, il dut recommencer à zéro."
+        english: "Losing everything in the fire, he had to start from zero."
+
+  - idiom: "se voir privé de"
+    literal: "to see oneself deprived of"
+    meaning: "to be deprived of"
+    difficulty: 44
+    frequency: 46
+    context: "general"
+    register: "neutral"
+    category: "loss"
+    examples:
+      a:
+        french: "Il s'est vu privé de ses droits."
+        english: "He was deprived of his rights."
+      b:
+        french: "Elle se voit privée de liberté."
+        english: "She's being deprived of freedom."
+      c:
+        french: "Se voyant privé de tout, il perdit espoir."
+        english: "Being deprived of everything, he lost hope."
+
+  # ACQUISITION & DIVESTMENT IDIOMS
+  - idiom: "acquérir"
+    literal: "to acquire"
+    meaning: "to acquire"
+    difficulty: 35
+    frequency: 37
+    context: "general"
+    register: "neutral"
+    category: "acquisition"
+    examples:
+      a:
+        french: "Il a acquis une nouvelle compétence."
+        english: "He acquired a new skill."
+      b:
+        french: "Elle acquiert de l'expérience."
+        english: "She's acquiring experience."
+      c:
+        french: "Acquérant des connaissances, il devint expert."
+        english: "Acquiring knowledge, he became an expert."
+
+  - idiom: "se procurer"
+    literal: "to procure oneself"
+    meaning: "to obtain"
+    difficulty: 41
+    frequency: 43
+    context: "general"
+    register: "neutral"
+    category: "acquisition"
+    examples:
+      a:
+        french: "Il faut se procurer ce document."
+        english: "We must obtain this document."
+      b:
+        french: "Elle s'est procuré les billets."
+        english: "She obtained the tickets."
+      c:
+        french: "Se procurant les ressources nécessaires, il lança le projet."
+        english: "Obtaining the necessary resources, he launched the project."
+
+  - idiom: "se défaire de"
+    literal: "to undo oneself of"
+    meaning: "to get rid of"
+    difficulty: 48
+    frequency: 50
+    context: "general"
+    register: "neutral"
+    category: "divestment"
+    examples:
+      a:
+        french: "Il se défait de ses vieux livres."
+        english: "He's getting rid of his old books."
+      b:
+        french: "Elle se défait de ses mauvaises habitudes."
+        english: "She's getting rid of her bad habits."
+      c:
+        french: "Se défaisant de tout le superflu, il vécut simplement."
+        english: "Getting rid of all the superfluous, he lived simply."
+
+  - idiom: "céder"
+    literal: "to cede"
+    meaning: "to relinquish, give up"
+    difficulty: 38
+    frequency: 40
+    context: "general"
+    register: "neutral"
+    category: "divestment"
+    examples:
+      a:
+        french: "Il a cédé ses parts."
+        english: "He relinquished his shares."
+      b:
+        french: "Elle cède son entreprise."
+        english: "She's giving up her business."
+      c:
+        french: "Cédant ses biens, il se retira."
+        english: "Relinquishing his assets, he retired."
+
+  # ACCUMULATION & DISSIPATION IDIOMS
+  - idiom: "accumuler"
+    literal: "to accumulate"
+    meaning: "to accumulate"
+    difficulty: 33
+    frequency: 35
+    context: "general"
+    register: "neutral"
+    category: "accumulation"
+    examples:
+      a:
+        french: "Il accumule les erreurs."
+        english: "He's accumulating mistakes."
+      b:
+        french: "Elle accumule de l'argent."
+        english: "She's accumulating money."
+      c:
+        french: "Accumulant les richesses, il devint avare."
+        english: "Accumulating wealth, he became miserly."
+
+  - idiom: "amasser"
+    literal: "to amass"
+    meaning: "to amass"
+    difficulty: 46
+    frequency: 48
+    context: "general"
+    register: "neutral"
+    category: "accumulation"
+    examples:
+      a:
+        french: "Il amasse une fortune."
+        english: "He's amassing a fortune."
+      b:
+        french: "Elle amasse des preuves."
+        english: "She's amassing evidence."
+      c:
+        french: "Amassant patiemment, il constitua une collection unique."
+        english: "Amassing patiently, he built a unique collection."
+
+  - idiom: "dissiper"
+    literal: "to dissipate"
+    meaning: "to squander, dissipate"
+    difficulty: 50
+    frequency: 52
+    context: "general"
+    register: "formal"
+    category: "dissipation"
+    examples:
+      a:
+        french: "Il a dissipé sa fortune."
+        english: "He squandered his fortune."
+      b:
+        french: "Elle dissipe son énergie."
+        english: "She's dissipating her energy."
+      c:
+        french: "Dissipant son héritage, il finit ruiné."
+        english: "Squandering his inheritance, he ended up ruined."
+
+  - idiom: "dilapider"
+    literal: "to dilapidate"
+    meaning: "to squander, waste"
+    difficulty: 57
+    frequency: 59
+    context: "general"
+    register: "formal"
+    category: "dissipation"
+    examples:
+      a:
+        french: "Il a dilapidé l'argent public."
+        english: "He squandered public money."
+      b:
+        french: "Elle dilapide ses ressources."
+        english: "She's wasting her resources."
+      c:
+        french: "Dilapidant tout, il ne lui resta rien."
+        english: "Squandering everything, he had nothing left."
+
+  # CONSOLIDATION & FRAGMENTATION IDIOMS
+  - idiom: "consolider"
+    literal: "to consolidate"
+    meaning: "to consolidate"
+    difficulty: 42
+    frequency: 44
+    context: "general"
+    register: "neutral"
+    category: "consolidation"
+    examples:
+      a:
+        french: "Il faut consolider nos acquis."
+        english: "We must consolidate our gains."
+      b:
+        french: "Elle consolide sa position."
+        english: "She's consolidating her position."
+      c:
+        french: "Consolidant son pouvoir, il élimina ses rivaux."
+        english: "Consolidating his power, he eliminated his rivals."
+
+  - idiom: "renforcer"
+    literal: "to reinforce"
+    meaning: "to strengthen"
+    difficulty: 34
+    frequency: 36
+    context: "general"
+    register: "neutral"
+    category: "consolidation"
+    examples:
+      a:
+        french: "Il faut renforcer la sécurité."
+        english: "We must strengthen security."
+      b:
+        french: "Elle renforce ses compétences."
+        english: "She's strengthening her skills."
+      c:
+        french: "Renforçant les défenses, ils se préparèrent à l'attaque."
+        english: "Strengthening the defenses, they prepared for the attack."
+
+  - idiom: "fragmenter"
+    literal: "to fragment"
+    meaning: "to fragment"
+    difficulty: 47
+    frequency: 49
+    context: "general"
+    register: "neutral"
+    category: "fragmentation"
+    examples:
+      a:
+        french: "Le pouvoir s'est fragmenté."
+        english: "Power has fragmented."
+      b:
+        french: "Le marché se fragmente."
+        english: "The market is fragmenting."
+      c:
+        french: "Se fragmentant en groupes rivaux, le mouvement perdit sa force."
+        english: "Fragmenting into rival groups, the movement lost its strength."
+
+  - idiom: "morceler"
+    literal: "to parcel out"
+    meaning: "to break up, divide"
+    difficulty: 54
+    frequency: 56
+    context: "general"
+    register: "formal"
+    category: "fragmentation"
+    examples:
+      a:
+        french: "Le territoire a été morcelé."
+        english: "The territory was broken up."
+      b:
+        french: "On morcelle le projet."
+        english: "The project is being divided."
+      c:
+        french: "Morcelant l'empire, les héritiers le divisèrent."
+        english: "Breaking up the empire, the heirs divided it."
+
+  # UNIFICATION & DIVISION MORE IDIOMS
+  - idiom: "unifier"
+    literal: "to unify"
+    meaning: "to unify"
+    difficulty: 40
+    frequency: 42
+    context: "general"
+    register: "neutral"
+    category: "unification"
+    examples:
+      a:
+        french: "Il faut unifier le pays."
+        english: "We must unify the country."
+      b:
+        french: "Il a unifié les différentes factions."
+        english: "He unified the different factions."
+      c:
+        french: "Unifiant les tribus, il créa une nation."
+        english: "Unifying the tribes, he created a nation."
+
+  - idiom: "rassembler"
+    literal: "to gather"
+    meaning: "to bring together"
+    difficulty: 31
+    frequency: 33
+    context: "general"
+    register: "neutral"
+    category: "unification"
+    examples:
+      a:
+        french: "Il rassemble ses forces."
+        english: "He's gathering his forces."
+      b:
+        french: "Elle rassemble les gens."
+        english: "She brings people together."
+      c:
+        french: "Rassemblant ses supporters, il lança sa campagne."
+        english: "Bringing together his supporters, he launched his campaign."
+
+  - idiom: "diviser"
+    literal: "to divide"
+    meaning: "to divide"
+    difficulty: 26
+    frequency: 24
+    context: "general"
+    register: "neutral"
+    category: "division"
+    examples:
+      a:
+        french: "Il faut diviser le travail."
+        english: "We must divide the work."
+      b:
+        french: "Cela divise la communauté."
+        english: "This divides the community."
+      c:
+        french: "Divisant l'opposition, il gagna facilement."
+        english: "Dividing the opposition, he won easily."
+
+  - idiom: "scinder"
+    literal: "to split"
+    meaning: "to split"
+    difficulty: 51
+    frequency: 53
+    context: "general"
+    register: "formal"
+    category: "division"
+    examples:
+      a:
+        french: "Le parti s'est scindé en deux."
+        english: "The party split in two."
+      b:
+        french: "Il faut scinder le projet."
+        english: "We must split the project."
+      c:
+        french: "Se scindant après le conflit, le groupe ne se réunit jamais."
+        english: "Splitting after the conflict, the group never reunited."
+
+  # INTEGRATION & SEPARATION MORE IDIOMS
+  - idiom: "intégrer"
+    literal: "to integrate"
+    meaning: "to integrate"
+    difficulty: 37
+    frequency: 39
+    context: "general"
+    register: "neutral"
+    category: "integration"
+    examples:
+      a:
+        french: "Il faut intégrer ces données."
+        english: "We must integrate this data."
+      b:
+        french: "Elle s'intègre bien."
+        english: "She's integrating well."
+      c:
+        french: "Intégrant les nouveaux membres, l'équipe grandit."
+        english: "Integrating new members, the team grew."
+
+  - idiom: "incorporer"
+    literal: "to incorporate"
+    meaning: "to incorporate"
+    difficulty: 43
+    frequency: 45
+    context: "general"
+    register: "neutral"
+    category: "integration"
+    examples:
+      a:
+        french: "Il faut incorporer ces éléments."
+        english: "We must incorporate these elements."
+      b:
+        french: "Elle incorpore de nouvelles idées."
+        english: "She incorporates new ideas."
+      c:
+        french: "Incorporant les suggestions, il améliora le projet."
+        english: "Incorporating the suggestions, he improved the project."
+
+  - idiom: "séparer"
+    literal: "to separate"
+    meaning: "to separate"
+    difficulty: 23
+    frequency: 21
+    context: "general"
+    register: "neutral"
+    category: "separation"
+    examples:
+      a:
+        french: "Il faut séparer les combattants."
+        english: "We must separate the fighters."
+      b:
+        french: "Elle sépare le travail de la vie privée."
+        english: "She separates work from private life."
+      c:
+        french: "Séparant les groupes, il évita le conflit."
+        english: "Separating the groups, he avoided conflict."
+
+  - idiom: "isoler"
+    literal: "to isolate"
+    meaning: "to isolate"
+    difficulty: 30
+    frequency: 32
+    context: "general"
+    register: "neutral"
+    category: "separation"
+    examples:
+      a:
+        french: "Il faut isoler le problème."
+        english: "We must isolate the problem."
+      b:
+        french: "Il s'isole de plus en plus."
+        english: "He's isolating himself more and more."
+      c:
+        french: "Isolant le malade, ils stoppèrent la contagion."
+        english: "Isolating the patient, they stopped the contagion."
+
+  # CONNECTION & DISCONNECTION IDIOMS
+  - idiom: "relier"
+    literal: "to connect"
+    meaning: "to link, connect"
+    difficulty: 36
+    frequency: 38
+    context: "general"
+    register: "neutral"
+    category: "connection"
+    examples:
+      a:
+        french: "Il faut relier les points."
+        english: "We must connect the dots."
+      b:
+        french: "Cette route relie les deux villes."
+        english: "This road connects the two cities."
+      c:
+        french: "Reliant les faits, il comprit le mystère."
+        english: "Connecting the facts, he understood the mystery."
+
+  - idiom: "établir un lien"
+    literal: "to establish a link"
+    meaning: "to establish a connection"
+    difficulty: 41
+    frequency: 43
+    context: "general"
+    register: "neutral"
+    category: "connection"
+    examples:
+      a:
+        french: "Il faut établir un lien."
+        english: "We must establish a connection."
+      b:
+        french: "Elle établit un lien entre les événements."
+        english: "She establishes a connection between the events."
+      c:
+        french: "Établissant un lien, ils collaborèrent."
+        english: "Establishing a connection, they collaborated."
+
+  - idiom: "couper les liens"
+    literal: "to cut the links"
+    meaning: "to sever ties"
+    difficulty: 45
+    frequency: 47
+    context: "general"
+    register: "neutral"
+    category: "disconnection"
+    examples:
+      a:
+        french: "Il a coupé les liens."
+        english: "He severed ties."
+      b:
+        french: "Elle coupe les liens avec son passé."
+        english: "She's severing ties with her past."
+      c:
+        french: "Coupant les liens, il partit pour toujours."
+        english: "Severing ties, he left forever."
+
+  - idiom: "rompre le contact"
+    literal: "to break the contact"
+    meaning: "to break off contact"
+    difficulty: 48
+    frequency: 50
+    context: "general"
+    register: "neutral"
+    category: "disconnection"
+    examples:
+      a:
+        french: "Il a rompu le contact."
+        english: "He broke off contact."
+      b:
+        french: "Elle rompt le contact avec lui."
+        english: "She's breaking off contact with him."
+      c:
+        french: "Rompant le contact, il coupa toute communication."
+        english: "Breaking off contact, he cut all communication."
+
+# ============================================================
+# FINAL_BATCH27: Momentum & inertia, transformation & stasis, evolution & regression
+# ============================================================
+
+  - idiom: "prendre de l'élan"
+    literal: "to take momentum"
+    meaning: "to gain momentum, to build up speed"
+    difficulty: 38
+    frequency: 42
+    context: "general"
+    register: "neutral"
+    category: "momentum"
+    examples:
+      a:
+        french: "Il faut prendre de l'élan avant de sauter."
+        english: "You need to gain momentum before jumping."
+      b:
+        french: "Le projet prend de l'élan avec ces nouvelles recrues."
+        english: "The project is gaining momentum with these new hires."
+      c:
+        french: "Prenant de l'élan, l'économie affichait des signes de reprise."
+        english: "Gaining momentum, the economy showed signs of recovery."
+
+  - idiom: "être dans une dynamique"
+    literal: "to be in a dynamic"
+    meaning: "to be in a positive momentum, to have forward motion"
+    difficulty: 42
+    frequency: 45
+    context: "general"
+    register: "neutral"
+    category: "momentum"
+    examples:
+      a:
+        french: "L'équipe est dans une bonne dynamique."
+        english: "The team has good momentum."
+      b:
+        french: "Nous sommes dans une dynamique de croissance."
+        english: "We're in a growth trajectory."
+      c:
+        french: "Étant dans une dynamique positive, ils poursuivirent leurs efforts."
+        english: "Being in positive momentum, they continued their efforts."
+
+  - idiom: "perdre son élan"
+    literal: "to lose one's momentum"
+    meaning: "to lose momentum, to stall"
+    difficulty: 40
+    frequency: 48
+    context: "general"
+    register: "neutral"
+    category: "momentum"
+    examples:
+      a:
+        french: "Le coureur a perdu son élan."
+        english: "The runner lost his momentum."
+      b:
+        french: "Le mouvement a perdu son élan après cette défaite."
+        english: "The movement lost momentum after this defeat."
+      c:
+        french: "Perdant leur élan, ils durent recommencer depuis le début."
+        english: "Losing their momentum, they had to start over from the beginning."
+
+  - idiom: "s'enliser"
+    literal: "to get stuck in the mud"
+    meaning: "to get bogged down, to stagnate"
+    difficulty: 44
+    frequency: 46
+    context: "general"
+    register: "neutral"
+    category: "inertia"
+    examples:
+      a:
+        french: "La voiture s'est enlisée dans la boue."
+        english: "The car got stuck in the mud."
+      b:
+        french: "Les négociations s'enlisent depuis des mois."
+        english: "The negotiations have been bogged down for months."
+      c:
+        french: "S'enlisant dans la bureaucratie, le projet ne progressait plus."
+        english: "Getting bogged down in bureaucracy, the project was no longer progressing."
+
+  - idiom: "piétiner"
+    literal: "to trample"
+    meaning: "to mark time, to make no progress"
+    difficulty: 41
+    frequency: 44
+    context: "general"
+    register: "neutral"
+    category: "inertia"
+    examples:
+      a:
+        french: "L'enquête piétine."
+        english: "The investigation is going nowhere."
+      b:
+        french: "Le projet piétine faute de financement."
+        english: "The project is stalled for lack of funding."
+      c:
+        french: "Piétinant depuis des semaines, l'affaire nécessitait une nouvelle approche."
+        english: "Having stalled for weeks, the matter required a new approach."
+
+  - idiom: "être au point mort"
+    literal: "to be at dead center"
+    meaning: "to be at a standstill, deadlocked"
+    difficulty: 39
+    frequency: 43
+    context: "general"
+    register: "neutral"
+    category: "inertia"
+    examples:
+      a:
+        french: "Les discussions sont au point mort."
+        english: "The discussions are at a standstill."
+      b:
+        french: "L'économie est au point mort."
+        english: "The economy is stagnant."
+      c:
+        french: "Étant au point mort, la situation exigeait une intervention urgente."
+        english: "Being deadlocked, the situation required urgent intervention."
+
+  - idiom: "se transformer"
+    literal: "to transform oneself"
+    meaning: "to transform, to change fundamentally"
+    difficulty: 30
+    frequency: 32
+    context: "general"
+    register: "neutral"
+    category: "transformation"
+    examples:
+      a:
+        french: "La chenille se transforme en papillon."
+        english: "The caterpillar transforms into a butterfly."
+      b:
+        french: "La ville s'est transformée en vingt ans."
+        english: "The city has transformed in twenty years."
+      c:
+        french: "Se transformant graduellement, l'entreprise devint méconnaissable."
+        english: "Transforming gradually, the company became unrecognizable."
+
+  - idiom: "muer"
+    literal: "to molt"
+    meaning: "to undergo metamorphosis, to change profoundly"
+    difficulty: 52
+    frequency: 58
+    context: "general"
+    register: "formal"
+    category: "transformation"
+    examples:
+      a:
+        french: "Le serpent mue régulièrement."
+        english: "The snake molts regularly."
+      b:
+        french: "Sa voix commence à muer."
+        english: "His voice is starting to break."
+      c:
+        french: "Muant progressivement, la société s'adapta aux nouvelles réalités."
+        english: "Transforming progressively, society adapted to new realities."
+
+  - idiom: "faire peau neuve"
+    literal: "to make new skin"
+    meaning: "to turn over a new leaf, to reinvent oneself"
+    difficulty: 36
+    frequency: 40
+    context: "general"
+    register: "informal"
+    category: "transformation"
+    examples:
+      a:
+        french: "Après sa cure, il a fait peau neuve."
+        english: "After his treatment, he turned over a new leaf."
+      b:
+        french: "L'entreprise fait peau neuve avec ce nouveau PDG."
+        english: "The company is reinventing itself with this new CEO."
+      c:
+        french: "Faisant peau neuve, elle abandonna ses anciennes habitudes."
+        english: "Turning over a new leaf, she abandoned her old habits."
+
+  - idiom: "rester figé"
+    literal: "to remain frozen"
+    meaning: "to remain frozen, to be stuck in place"
+    difficulty: 38
+    frequency: 42
+    context: "general"
+    register: "neutral"
+    category: "stasis"
+    examples:
+      a:
+        french: "Il est resté figé de surprise."
+        english: "He remained frozen in surprise."
+      b:
+        french: "La situation reste figée depuis des années."
+        english: "The situation has remained frozen for years."
+      c:
+        french: "Restant figée dans le passé, l'institution refusait tout changement."
+        english: "Remaining frozen in the past, the institution refused all change."
+
+  - idiom: "stagner"
+    literal: "to stagnate"
+    meaning: "to stagnate, to remain unchanged"
+    difficulty: 37
+    frequency: 39
+    context: "general"
+    register: "neutral"
+    category: "stasis"
+    examples:
+      a:
+        french: "L'eau stagne dans cette mare."
+        english: "The water stagnates in this pond."
+      b:
+        french: "Les ventes stagnent depuis six mois."
+        english: "Sales have stagnated for six months."
+      c:
+        french: "Stagnant à ce niveau, l'économie nécessitait des réformes."
+        english: "Stagnating at this level, the economy needed reforms."
+
+  - idiom: "se fossiliser"
+    literal: "to fossilize oneself"
+    meaning: "to become fossilized, to become obsolete"
+    difficulty: 48
+    frequency: 52
+    context: "general"
+    register: "formal"
+    category: "stasis"
+    examples:
+      a:
+        french: "Les os se fossilisent avec le temps."
+        english: "Bones fossilize over time."
+      b:
+        french: "Ces pratiques se sont fossilisées."
+        english: "These practices have become fossilized."
+      c:
+        french: "Se fossilisant progressivement, l'organisation perdit toute capacité d'adaptation."
+        english: "Becoming gradually fossilized, the organization lost all capacity to adapt."
+
+  - idiom: "évoluer"
+    literal: "to evolve"
+    meaning: "to evolve, to develop, to progress"
+    difficulty: 28
+    frequency: 30
+    context: "general"
+    register: "neutral"
+    category: "evolution"
+    examples:
+      a:
+        french: "Les espèces évoluent lentement."
+        english: "Species evolve slowly."
+      b:
+        french: "La technologie évolue rapidement."
+        english: "Technology evolves rapidly."
+      c:
+        french: "Évoluant constamment, l'entreprise restait compétitive."
+        english: "Evolving constantly, the company remained competitive."
+
+  - idiom: "progresser"
+    literal: "to progress"
+    meaning: "to progress, to advance, to improve"
+    difficulty: 26
+    frequency: 28
+    context: "general"
+    register: "neutral"
+    category: "evolution"
+    examples:
+      a:
+        french: "Tu progresses en français."
+        english: "You're progressing in French."
+      b:
+        french: "L'enquête progresse lentement."
+        english: "The investigation is progressing slowly."
+      c:
+        french: "Progressant régulièrement, ils atteignirent leur objectif."
+        english: "Progressing steadily, they reached their goal."
+
+  - idiom: "franchir un cap"
+    literal: "to cross a cape"
+    meaning: "to reach a milestone, to turn a corner"
+    difficulty: 40
+    frequency: 44
+    context: "general"
+    register: "neutral"
+    category: "evolution"
+    examples:
+      a:
+        french: "Il a franchi un cap important dans sa carrière."
+        english: "He reached an important milestone in his career."
+      b:
+        french: "L'entreprise vient de franchir le cap du million d'utilisateurs."
+        english: "The company just crossed the one million user mark."
+      c:
+        french: "Franchissant ce cap décisif, elle entra dans une nouvelle phase."
+        english: "Crossing this decisive milestone, she entered a new phase."
+
+  - idiom: "régresser"
+    literal: "to regress"
+    meaning: "to regress, to go backward, to deteriorate"
+    difficulty: 36
+    frequency: 38
+    context: "general"
+    register: "neutral"
+    category: "regression"
+    examples:
+      a:
+        french: "Ses compétences ont régressé."
+        english: "His skills have regressed."
+      b:
+        french: "L'économie régresse depuis la crise."
+        english: "The economy has been regressing since the crisis."
+      c:
+        french: "Régressant rapidement, la situation devenait alarmante."
+        english: "Regressing rapidly, the situation was becoming alarming."
+
+  - idiom: "faire marche arrière"
+    literal: "to go in reverse"
+    meaning: "to backtrack, to reverse course"
+    difficulty: 32
+    frequency: 35
+    context: "general"
+    register: "neutral"
+    category: "regression"
+    examples:
+      a:
+        french: "Il faut faire marche arrière."
+        english: "We need to reverse course."
+      b:
+        french: "Le gouvernement a fait marche arrière sur cette réforme."
+        english: "The government backtracked on this reform."
+      c:
+        french: "Faisant marche arrière, ils abandonnèrent leur stratégie initiale."
+        english: "Backtracking, they abandoned their initial strategy."
+
+  - idiom: "revenir en arrière"
+    literal: "to come back behind"
+    meaning: "to go back, to backtrack"
+    difficulty: 30
+    frequency: 33
+    context: "general"
+    register: "neutral"
+    category: "regression"
+    examples:
+      a:
+        french: "On ne peut pas revenir en arrière."
+        english: "We can't go back."
+      b:
+        french: "Il veut revenir en arrière sur sa décision."
+        english: "He wants to backtrack on his decision."
+      c:
+        french: "Revenant en arrière, ils corrigèrent leur erreur."
+        english: "Going back, they corrected their mistake."
+
+  - idiom: "prendre racine"
+    literal: "to take root"
+    meaning: "to take root, to become established"
+    difficulty: 38
+    frequency: 42
+    context: "general"
+    register: "neutral"
+    category: "establishment"
+    examples:
+      a:
+        french: "La plante a pris racine."
+        english: "The plant has taken root."
+      b:
+        french: "Cette idée a pris racine dans l'opinion publique."
+        english: "This idea has taken root in public opinion."
+      c:
+        french: "Prenant racine progressivement, le mouvement devint incontournable."
+        english: "Taking root gradually, the movement became unavoidable."
+
+  - idiom: "s'implanter"
+    literal: "to implant oneself"
+    meaning: "to become established, to set up shop"
+    difficulty: 36
+    frequency: 38
+    context: "general"
+    register: "neutral"
+    category: "establishment"
+    examples:
+      a:
+        french: "L'entreprise s'est implantée en Asie."
+        english: "The company established itself in Asia."
+      b:
+        french: "Cette coutume s'est implantée ici."
+        english: "This custom became established here."
+      c:
+        french: "S'implantant solidement, la marque conquit le marché."
+        english: "Becoming firmly established, the brand conquered the market."
+
+  - idiom: "jeter des bases solides"
+    literal: "to lay solid foundations"
+    meaning: "to lay solid foundations, to establish a firm basis"
+    difficulty: 42
+    frequency: 46
+    context: "general"
+    register: "formal"
+    category: "establishment"
+    examples:
+      a:
+        french: "Il faut jeter des bases solides."
+        english: "We must lay solid foundations."
+      b:
+        french: "Ce traité a jeté les bases solides d'une coopération durable."
+        english: "This treaty laid the solid foundations for lasting cooperation."
+      c:
+        french: "Jetant des bases solides, ils assurèrent la pérennité du projet."
+        english: "Laying solid foundations, they ensured the project's sustainability."
+
+  - idiom: "déraciner"
+    literal: "to uproot"
+    meaning: "to uproot, to displace, to eradicate"
+    difficulty: 40
+    frequency: 44
+    context: "general"
+    register: "neutral"
+    category: "displacement"
+    examples:
+      a:
+        french: "L'orage a déraciné plusieurs arbres."
+        english: "The storm uprooted several trees."
+      b:
+        french: "La guerre les a déracinés."
+        english: "The war uprooted them."
+      c:
+        french: "Déracinant ces traditions ancestrales, la modernité bouleversa la société."
+        english: "Uprooting these ancestral traditions, modernity disrupted society."
+
+  - idiom: "arracher"
+    literal: "to tear out"
+    meaning: "to tear out, to extract forcibly"
+    difficulty: 34
+    frequency: 36
+    context: "general"
+    register: "neutral"
+    category: "displacement"
+    examples:
+      a:
+        french: "Le dentiste lui a arraché une dent."
+        english: "The dentist pulled out his tooth."
+      b:
+        french: "Ils lui ont arraché une confession."
+        english: "They extracted a confession from him."
+      c:
+        french: "Arrachant ces concessions douloureuses, il sauva l'accord."
+        english: "Extracting these painful concessions, he saved the agreement."
+
+  - idiom: "extirper"
+    literal: "to extirpate"
+    meaning: "to eradicate, to root out completely"
+    difficulty: 50
+    frequency: 54
+    context: "general"
+    register: "formal"
+    category: "displacement"
+    examples:
+      a:
+        french: "Il faut extirper cette mauvaise herbe."
+        english: "This weed must be eradicated."
+      b:
+        french: "On ne peut pas extirper ces croyances."
+        english: "These beliefs cannot be rooted out."
+      c:
+        french: "Extirpant toute corruption, le nouveau régime établit des règles strictes."
+        english: "Rooting out all corruption, the new regime established strict rules."
+
+  - idiom: "prendre forme"
+    literal: "to take form"
+    meaning: "to take shape, to materialize"
+    difficulty: 34
+    frequency: 36
+    context: "general"
+    register: "neutral"
+    category: "materialization"
+    examples:
+      a:
+        french: "Le projet commence à prendre forme."
+        english: "The project is starting to take shape."
+      b:
+        french: "Ses idées prennent forme peu à peu."
+        english: "His ideas are gradually taking shape."
+      c:
+        french: "Prenant forme lentement, le plan devint enfin réalisable."
+        english: "Taking shape slowly, the plan finally became feasible."
+
+  - idiom: "se concrétiser"
+    literal: "to concretize oneself"
+    meaning: "to materialize, to come to fruition"
+    difficulty: 38
+    frequency: 40
+    context: "general"
+    register: "neutral"
+    category: "materialization"
+    examples:
+      a:
+        french: "Ses rêves se sont concrétisés."
+        english: "His dreams materialized."
+      b:
+        french: "Le projet se concrétise enfin."
+        english: "The project is finally coming to fruition."
+      c:
+        french: "Se concrétisant progressivement, l'accord fut signé en décembre."
+        english: "Materializing gradually, the agreement was signed in December."
+
+  - idiom: "voir le jour"
+    literal: "to see the day"
+    meaning: "to see the light of day, to come into being"
+    difficulty: 36
+    frequency: 38
+    context: "general"
+    register: "neutral"
+    category: "materialization"
+    examples:
+      a:
+        french: "Le bébé a vu le jour hier."
+        english: "The baby was born yesterday."
+      b:
+        french: "Ce projet ne verra jamais le jour."
+        english: "This project will never see the light of day."
+      c:
+        french: "Voyant enfin le jour, l'invention révolutionna l'industrie."
+        english: "Finally seeing the light of day, the invention revolutionized the industry."
+
+  - idiom: "se dissiper"
+    literal: "to dissipate oneself"
+    meaning: "to dissipate, to vanish, to fade away"
+    difficulty: 42
+    frequency: 45
+    context: "general"
+    register: "formal"
+    category: "dissolution"
+    examples:
+      a:
+        french: "Le brouillard se dissipe."
+        english: "The fog is dissipating."
+      b:
+        french: "Ses doutes se sont dissipés."
+        english: "His doubts have vanished."
+      c:
+        french: "Se dissipant rapidement, l'illusion laissa place à la réalité."
+        english: "Dissipating quickly, the illusion gave way to reality."
+
+  - idiom: "s'évaporer"
+    literal: "to evaporate"
+    meaning: "to evaporate, to vanish into thin air"
+    difficulty: 38
+    frequency: 41
+    context: "general"
+    register: "neutral"
+    category: "dissolution"
+    examples:
+      a:
+        french: "L'eau s'évapore au soleil."
+        english: "The water evaporates in the sun."
+      b:
+        french: "Ses espoirs se sont évaporés."
+        english: "His hopes evaporated."
+      c:
+        french: "S'évaporant mystérieusement, l'argent disparut sans trace."
+        english: "Evaporating mysteriously, the money disappeared without a trace."
+
+  - idiom: "se volatiliser"
+    literal: "to volatilize oneself"
+    meaning: "to vanish into thin air, to disappear completely"
+    difficulty: 40
+    frequency: 43
+    context: "general"
+    register: "informal"
+    category: "dissolution"
+    examples:
+      a:
+        french: "Il s'est volatilisé."
+        english: "He vanished into thin air."
+      b:
+        french: "L'argent s'est volatilisé."
+        english: "The money disappeared completely."
+      c:
+        french: "Se volatilisant sans explication, il laissa tout le monde perplexe."
+        english: "Vanishing without explanation, he left everyone puzzled."
+
+  - idiom: "germer"
+    literal: "to germinate"
+    meaning: "to germinate, to sprout, to emerge"
+    difficulty: 40
+    frequency: 44
+    context: "general"
+    register: "neutral"
+    category: "emergence"
+    examples:
+      a:
+        french: "Les graines commencent à germer."
+        english: "The seeds are starting to germinate."
+      b:
+        french: "Une idée germe dans son esprit."
+        english: "An idea is sprouting in his mind."
+      c:
+        french: "Germant lentement, le projet finit par s'imposer."
+        english: "Germinating slowly, the project eventually took hold."
+
+  - idiom: "éclore"
+    literal: "to hatch"
+    meaning: "to hatch, to blossom, to emerge"
+    difficulty: 44
+    frequency: 48
+    context: "general"
+    register: "formal"
+    category: "emergence"
+    examples:
+      a:
+        french: "Les œufs vont bientôt éclore."
+        english: "The eggs will soon hatch."
+      b:
+        french: "Son talent a éclos tardivement."
+        english: "His talent blossomed late."
+      c:
+        french: "Éclosant au printemps, les fleurs embellissaient le jardin."
+        english: "Blossoming in spring, the flowers beautified the garden."
+
+  - idiom: "bourgeonner"
+    literal: "to bud"
+    meaning: "to bud, to begin to develop"
+    difficulty: 46
+    frequency: 50
+    context: "general"
+    register: "formal"
+    category: "emergence"
+    examples:
+      a:
+        french: "Les arbres bourgeonnent au printemps."
+        english: "Trees bud in spring."
+      b:
+        french: "De nouvelles initiatives bourgeonnent partout."
+        english: "New initiatives are budding everywhere."
+      c:
+        french: "Bourgeonnant dans toutes les régions, le mouvement prit de l'ampleur."
+        english: "Budding in all regions, the movement gained momentum."
+
+  - idiom: "se flétrir"
+    literal: "to wither"
+    meaning: "to wither, to fade, to decline"
+    difficulty: 46
+    frequency: 50
+    context: "general"
+    register: "formal"
+    category: "decline"
+    examples:
+      a:
+        french: "Les fleurs se flétrissent sans eau."
+        english: "Flowers wither without water."
+      b:
+        french: "Sa beauté s'est flétrie avec l'âge."
+        english: "Her beauty has faded with age."
+      c:
+        french: "Se flétrissant progressivement, l'empire perdit sa splendeur."
+        english: "Withering gradually, the empire lost its splendor."
+
+  - idiom: "se faner"
+    literal: "to wilt"
+    meaning: "to wilt, to fade away"
+    difficulty: 42
+    frequency: 46
+    context: "general"
+    register: "neutral"
+    category: "decline"
+    examples:
+      a:
+        french: "Les roses se sont fanées."
+        english: "The roses have wilted."
+      b:
+        french: "Son enthousiasme s'est fané."
+        english: "His enthusiasm has faded."
+      c:
+        french: "Se fanant rapidement, l'espoir disparut."
+        english: "Wilting quickly, hope disappeared."
+
+  - idiom: "dépérir"
+    literal: "to waste away"
+    meaning: "to waste away, to decline, to deteriorate"
+    difficulty: 48
+    frequency: 52
+    context: "general"
+    register: "formal"
+    category: "decline"
+    examples:
+      a:
+        french: "La plante dépérit sans soleil."
+        english: "The plant is wasting away without sunlight."
+      b:
+        french: "Il dépérit de chagrin."
+        english: "He's wasting away from grief."
+      c:
+        french: "Dépérissant lentement, l'industrie nécessitait des réformes urgentes."
+        english: "Declining slowly, the industry needed urgent reforms."
+
+  - idiom: "renaître de ses cendres"
+    literal: "to be reborn from one's ashes"
+    meaning: "to rise from the ashes, to make a comeback"
+    difficulty: 38
+    frequency: 42
+    context: "general"
+    register: "neutral"
+    category: "rebirth"
+    examples:
+      a:
+        french: "Comme le phénix, il renaît de ses cendres."
+        english: "Like the phoenix, he rises from the ashes."
+      b:
+        french: "L'entreprise a réussi à renaître de ses cendres."
+        english: "The company managed to rise from the ashes."
+      c:
+        french: "Renaissant de leurs cendres, ils reconstruisirent tout."
+        english: "Rising from the ashes, they rebuilt everything."
+
+  - idiom: "avoir une seconde vie"
+    literal: "to have a second life"
+    meaning: "to get a second lease on life, to be given new purpose"
+    difficulty: 36
+    frequency: 40
+    context: "general"
+    register: "neutral"
+    category: "rebirth"
+    examples:
+      a:
+        french: "Après sa greffe, il a eu une seconde vie."
+        english: "After his transplant, he got a second lease on life."
+      b:
+        french: "Ce vieux bâtiment a une seconde vie comme musée."
+        english: "This old building has a second life as a museum."
+      c:
+        french: "Ayant une seconde vie, l'objet retrouva son utilité."
+        english: "Getting a second life, the object regained its usefulness."
+
+  - idiom: "refaire surface"
+    literal: "to resurface"
+    meaning: "to resurface, to reappear, to make a comeback"
+    difficulty: 38
+    frequency: 42
+    context: "general"
+    register: "neutral"
+    category: "rebirth"
+    examples:
+      a:
+        french: "Le sous-marin a refait surface."
+        english: "The submarine resurfaced."
+      b:
+        french: "Cette vieille affaire refait surface."
+        english: "This old case is resurfacing."
+      c:
+        french: "Refaisant surface après des années, il surprit tout le monde."
+        english: "Resurfacing after years, he surprised everyone."
+
+  - idiom: "reprendre du poil de la bête"
+    literal: "to regrow the beast's hair"
+    meaning: "to bounce back, to regain strength"
+    difficulty: 42
+    frequency: 46
+    context: "general"
+    register: "informal"
+    category: "rebirth"
+    examples:
+      a:
+        french: "Après sa maladie, il a repris du poil de la bête."
+        english: "After his illness, he bounced back."
+      b:
+        french: "L'économie reprend du poil de la bête."
+        english: "The economy is bouncing back."
+      c:
+        french: "Reprenant du poil de la bête, ils redoublèrent d'efforts."
+        english: "Bouncing back, they redoubled their efforts."
+
+  - idiom: "se ressaisir"
+    literal: "to seize oneself again"
+    meaning: "to pull oneself together, to recover"
+    difficulty: 38
+    frequency: 41
+    context: "general"
+    register: "neutral"
+    category: "recovery"
+    examples:
+      a:
+        french: "Il faut te ressaisir maintenant."
+        english: "You need to pull yourself together now."
+      b:
+        french: "Après le choc, elle s'est vite ressaisie."
+        english: "After the shock, she quickly recovered."
+      c:
+        french: "Se ressaisissant rapidement, il reprit le contrôle."
+        english: "Pulling himself together quickly, he regained control."
+
+  - idiom: "reprendre le dessus"
+    literal: "to retake the upper hand"
+    meaning: "to get the upper hand again, to recover"
+    difficulty: 36
+    frequency: 39
+    context: "general"
+    register: "neutral"
+    category: "recovery"
+    examples:
+      a:
+        french: "Il a fini par reprendre le dessus."
+        english: "He eventually got the upper hand again."
+      b:
+        french: "L'équipe reprend le dessus."
+        english: "The team is recovering."
+      c:
+        french: "Reprenant le dessus après cette défaite, ils remportèrent le championnat."
+        english: "Getting the upper hand again after this defeat, they won the championship."
