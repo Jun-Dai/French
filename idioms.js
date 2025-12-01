@@ -183,10 +183,14 @@ function formatOutput(idioms, template) {
     // Handle escape sequences first
     let formatted = template.replace(/\\n/g, '\n').replace(/\\t/g, '\t');
 
+    // Check if literal and meaning are the same (case-insensitive)
+    const literalSameAsMeaning = idiom.literal && idiom.meaning &&
+      idiom.literal.toLowerCase() === idiom.meaning.toLowerCase();
+
     // Create a mapping of placeholders to values
     const values = {
       'i': idiom.idiom || '',
-      'l': idiom.literal || '',
+      'l': literalSameAsMeaning ? '' : (idiom.literal || ''), // Omit literal if same as meaning
       'm': idiom.meaning || '',
       'd': String(idiom.difficulty || ''),
       'f': String(idiom.frequency || ''),
@@ -205,6 +209,13 @@ function formatOutput(idioms, template) {
     formatted = formatted.replace(/\{([^}]+)\}/g, (match, key) => {
       return values[key] !== undefined ? values[key] : match;
     });
+
+    // Clean up artifacts from empty placeholders
+    formatted = formatted
+      .replace(/\(\s*\)/g, '')          // Remove empty parentheses
+      .replace(/\s+—\s*$/g, '')          // Remove trailing em-dash
+      .replace(/\s+—\s+\s/g, ' — ')      // Clean up double spaces around em-dash
+      .replace(/\n\s*\n\s*\n/g, '\n\n'); // Remove triple newlines
 
     output.push(formatted);
   }
@@ -235,7 +246,7 @@ function generateLatex(idioms) {
 
 % Compact spacing
 \\setlength{\\parindent}{0pt}
-\\setlength{\\parskip}{0.3em}
+\\setlength{\\parskip}{0.4em}
 
 % Page setup
 \\pagestyle{fancy}
@@ -257,13 +268,26 @@ function generateLatex(idioms) {
 {\\centering\\small ${idioms.length} expressions idiomatiques (B2--C2+) --- \\today\\par}
 \\vspace{1em}
 
-${idioms.map((idiom, idx) => `\\noindent\\textbf{\\color{idiomcolor}${escapeLatex(idiom.idiom)}} {\\small\\color{literalcolor}\\textit{${escapeLatex(idiom.literal)}}} --- ${escapeLatex(idiom.meaning)}
+${idioms.map((idiom, idx) => {
+  // Check if literal and meaning are the same (case-insensitive)
+  const literalSameAsMeaning = idiom.literal && idiom.meaning &&
+    idiom.literal.toLowerCase() === idiom.meaning.toLowerCase();
 
-{\\scriptsize\\color{metacolor}Diff: ${idiom.difficulty} | Freq: ${idiom.frequency} | ${escapeLatex(idiom.register)}${idiom.category ? ` | ${escapeLatex(idiom.category)}` : ''}}
+  const literalPart = literalSameAsMeaning ? '' :
+    ` {\\small\\color{literalcolor}\\textit{${escapeLatex(idiom.literal)}}}`;
 
-{\\small\\textit{${escapeLatex(idiom.examples.a?.french || '')}}} {\\scriptsize ${escapeLatex(idiom.examples.a?.english || '')}}
+  return `\\noindent\\textbf{\\color{idiomcolor}${escapeLatex(idiom.idiom)}}${literalPart}\\hfill{\\scriptsize\\color{metacolor}Diff: ${idiom.difficulty} | Freq: ${idiom.frequency} | ${escapeLatex(idiom.register)}${idiom.category ? ` | ${escapeLatex(idiom.category)}` : ''}}
 
-`).join('')}
+${escapeLatex(idiom.meaning)}
+
+${idiom.examples.a ? `{\\small\\textit{${escapeLatex(idiom.examples.a.french)}}} {\\scriptsize ${escapeLatex(idiom.examples.a.english)}}` : ''}
+
+${idiom.examples.b ? `{\\small\\textit{${escapeLatex(idiom.examples.b.french)}}} {\\scriptsize ${escapeLatex(idiom.examples.b.english)}}` : ''}
+
+${idiom.examples.c ? `{\\small\\textit{${escapeLatex(idiom.examples.c.french)}}} {\\scriptsize ${escapeLatex(idiom.examples.c.english)}}` : ''}
+
+`;
+}).join('')}
 
 \\end{document}`;
 
