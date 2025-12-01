@@ -16002,3 +16002,1924 @@ ait des équations complexes avec aisance."
       c:
         french: "Minimisant l'importance de la crise, il rassura les investisseurs."
         english: "Downplaying the importance of the crisis, he reassured investors."
+  # EXAGGERATION & UNDERSTATEMENT IDIOMS
+  - idiom: "en rajouter"
+    literal: "to add more of it"
+    meaning: "to exaggerate, lay it on thick"
+    difficulty: 45
+    frequency: 47
+    context: "general"
+    register: "informal"
+    category: "exaggeration"
+    examples:
+      a:
+        french: "Il en rajoute."
+        english: "He's exaggerating."
+      b:
+        french: "N'en rajoute pas."
+        english: "Don't lay it on thick."
+      c:
+        french: "En rajoutant sur ses exploits, il perdit toute crédibilité."
+        english: "Exaggerating about his feats, he lost all credibility."
+
+  - idiom: "faire une montagne de"
+    literal: "to make a mountain of"
+    meaning: "to make a mountain out of a molehill"
+    difficulty: 50
+    frequency: 52
+    context: "general"
+    register: "informal"
+    category: "exaggeration"
+    examples:
+      a:
+        french: "Il fait une montagne de tout."
+        english: "He makes a mountain out of everything."
+      b:
+        french: "Ne fais pas une montagne de ce problème."
+        english: "Don't make a mountain out of this problem."
+      c:
+        french: "Faisant une montagne d'un détail mineur, elle créa une crise."
+        english: "Making a mountain out of a minor detail, she created a crisis."
+
+  - idiom: "minimiser quelque chose"
+    literal: "to minimize something"
+    meaning: "to downplay, understate"
+    difficulty: 38
+    frequency: 40
+    context: "general"
+    register: "neutral"
+    category: "understatement"
+    examples:
+      a:
+        french: "Il minimise le problème."
+        english: "He's downplaying the problem."
+      b:
+        french: "Elle minimise ses accomplissements."
+        english: "She understates her accomplishments."
+      c:
+        french: "Minimisant les dégâts, il rassura la population."
+        english: "Downplaying the damage, he reassured the population."
+
+  - idiom: "ne pas en faire tout un plat"
+    literal: "not to make a whole dish of it"
+    meaning: "not to make a big deal of it"
+    difficulty: 54
+    frequency: 56
+    context: "general"
+    register: "informal"
+    category: "understatement"
+    examples:
+      a:
+        french: "N'en fais pas tout un plat."
+        english: "Don't make a big deal of it."
+      b:
+        french: "Il n'en fait jamais tout un plat."
+        english: "He never makes a big deal of it."
+      c:
+        french: "N'en faisant pas tout un plat, elle garda sa modestie."
+        english: "Not making a big deal of it, she kept her modesty."
+
+  # ATTENTION-SEEKING & DISCRETION IDIOMS
+  - idiom: "se faire remarquer"
+    literal: "to make oneself noticed"
+    meaning: "to draw attention to oneself"
+    difficulty: 36
+    frequency: 38
+    context: "general"
+    register: "neutral"
+    category: "attention-seeking"
+    examples:
+      a:
+        french: "Il cherche à se faire remarquer."
+        english: "He's trying to draw attention to himself."
+      b:
+        french: "Elle se fait toujours remarquer."
+        english: "She always draws attention to herself."
+      c:
+        french: "Se faisant remarquer par son comportement, il attira les critiques."
+        english: "Drawing attention to himself with his behavior, he attracted criticism."
+
+  - idiom: "faire du bruit"
+    literal: "to make noise"
+    meaning: "to make a fuss"
+    difficulty: 32
+    frequency: 34
+    context: "general"
+    register: "informal"
+    category: "attention-seeking"
+    examples:
+      a:
+        french: "Il fait beaucoup de bruit."
+        english: "He's making a lot of fuss."
+      b:
+        french: "Cette affaire a fait du bruit."
+        english: "This affair made a fuss."
+      c:
+        french: "Faisant du bruit pour attirer l'attention, il dérangea tout le monde."
+        english: "Making a fuss to attract attention, he disturbed everyone."
+
+  - idiom: "rester discret"
+    literal: "to remain discreet"
+    meaning: "to keep a low profile"
+    difficulty: 34
+    frequency: 36
+    context: "general"
+    register: "neutral"
+    category: "discretion"
+    examples:
+      a:
+        french: "Il faut rester discret."
+        english: "We must keep a low profile."
+      b:
+        french: "Elle reste toujours discrète."
+        english: "She always keeps a low profile."
+      c:
+        french: "Restant discret, il évita les problèmes."
+        english: "Keeping a low profile, he avoided problems."
+
+  - idiom: "passer inaperçu"
+    literal: "to pass unnoticed"
+    meaning: "to go unnoticed"
+    difficulty: 42
+    frequency: 44
+    context: "general"
+    register: "neutral"
+    category: "discretion"
+    examples:
+      a:
+        french: "Il passe inaperçu."
+        english: "He goes unnoticed."
+      b:
+        french: "L'erreur est passée inaperçue."
+        english: "The error went unnoticed."
+      c:
+        french: "Passant inaperçu, il observa discrètement."
+        english: "Going unnoticed, he observed discreetly."
+
+  # ASSERTIVENESS & TIMIDITY IDIOMS
+  - idiom: "s'affirmer"
+    literal: "to affirm oneself"
+    meaning: "to assert oneself"
+    difficulty: 37
+    frequency: 39
+    context: "general"
+    register: "neutral"
+    category: "assertiveness"
+    examples:
+      a:
+        french: "Il faut s'affirmer."
+        english: "You must assert yourself."
+      b:
+        french: "Elle s'affirme de plus en plus."
+        english: "She's asserting herself more and more."
+      c:
+        french: "S'affirmant face aux critiques, elle défendit ses idées."
+        english: "Asserting herself in the face of criticism, she defended her ideas."
+
+  - idiom: "imposer son point de vue"
+    literal: "to impose one's point of view"
+    meaning: "to impose one's viewpoint"
+    difficulty: 41
+    frequency: 43
+    context: "general"
+    register: "neutral"
+    category: "assertiveness"
+    examples:
+      a:
+        french: "Il impose son point de vue."
+        english: "He imposes his viewpoint."
+      b:
+        french: "Elle impose toujours son point de vue."
+        english: "She always imposes her viewpoint."
+      c:
+        french: "Imposant son point de vue, il domina la discussion."
+        english: "Imposing his viewpoint, he dominated the discussion."
+
+  - idiom: "manquer d'assurance"
+    literal: "to lack assurance"
+    meaning: "to lack confidence"
+    difficulty: 35
+    frequency: 37
+    context: "general"
+    register: "neutral"
+    category: "timidity"
+    examples:
+      a:
+        french: "Il manque d'assurance."
+        english: "He lacks confidence."
+      b:
+        french: "Elle manque d'assurance."
+        english: "She lacks confidence."
+      c:
+        french: "Manquant d'assurance, il hésita à prendre la parole."
+        english: "Lacking confidence, he hesitated to speak up."
+
+  - idiom: "être timide"
+    literal: "to be timid"
+    meaning: "to be shy"
+    difficulty: 23
+    frequency: 21
+    context: "general"
+    register: "neutral"
+    category: "timidity"
+    examples:
+      a:
+        french: "Il est très timide."
+        english: "He's very shy."
+      b:
+        french: "Elle est timide avec les inconnus."
+        english: "She's shy with strangers."
+      c:
+        french: "Étant timide, il parlait peu en public."
+        english: "Being shy, he spoke little in public."
+
+  # EXTROVERSION & INTROVERSION IDIOMS
+  - idiom: "être extraverti"
+    literal: "to be extroverted"
+    meaning: "to be outgoing"
+    difficulty: 33
+    frequency: 35
+    context: "general"
+    register: "neutral"
+    category: "extroversion"
+    examples:
+      a:
+        french: "Il est très extraverti."
+        english: "He's very outgoing."
+      b:
+        french: "Elle est extravertie."
+        english: "She's outgoing."
+      c:
+        french: "Étant extraverti, il se faisait facilement des amis."
+        english: "Being outgoing, he made friends easily."
+
+  - idiom: "aller vers les autres"
+    literal: "to go toward others"
+    meaning: "to reach out to others"
+    difficulty: 30
+    frequency: 32
+    context: "general"
+    register: "neutral"
+    category: "extroversion"
+    examples:
+      a:
+        french: "Il faut aller vers les autres."
+        english: "You must reach out to others."
+      b:
+        french: "Elle va facilement vers les autres."
+        english: "She easily reaches out to others."
+      c:
+        french: "Allant vers les autres, il élargit son réseau."
+        english: "Reaching out to others, he expanded his network."
+
+  - idiom: "être introverti"
+    literal: "to be introverted"
+    meaning: "to be introverted"
+    difficulty: 34
+    frequency: 36
+    context: "general"
+    register: "neutral"
+    category: "introversion"
+    examples:
+      a:
+        french: "Il est introverti."
+        english: "He's introverted."
+      b:
+        french: "Elle est très introvertie."
+        english: "She's very introverted."
+      c:
+        french: "Étant introverti, il préférait la solitude."
+        english: "Being introverted, he preferred solitude."
+
+  - idiom: "rester dans son coin"
+    literal: "to stay in one's corner"
+    meaning: "to keep to oneself"
+    difficulty: 44
+    frequency: 46
+    context: "general"
+    register: "informal"
+    category: "introversion"
+    examples:
+      a:
+        french: "Il reste dans son coin."
+        english: "He keeps to himself."
+      b:
+        french: "Elle reste toujours dans son coin."
+        english: "She always keeps to herself."
+      c:
+        french: "Restant dans son coin, il évitait les interactions."
+        english: "Keeping to himself, he avoided interactions."
+
+  # SOCIABILITY & ALOOFNESS IDIOMS
+  - idiom: "être sociable"
+    literal: "to be sociable"
+    meaning: "to be sociable"
+    difficulty: 26
+    frequency: 24
+    context: "general"
+    register: "neutral"
+    category: "sociability"
+    examples:
+      a:
+        french: "Il est très sociable."
+        english: "He's very sociable."
+      b:
+        french: "Elle est sociable."
+        english: "She's sociable."
+      c:
+        french: "Étant sociable, il participait à toutes les soirées."
+        english: "Being sociable, he attended all parties."
+
+  - idiom: "avoir le contact facile"
+    literal: "to have easy contact"
+    meaning: "to be approachable"
+    difficulty: 46
+    frequency: 48
+    context: "general"
+    register: "neutral"
+    category: "sociability"
+    examples:
+      a:
+        french: "Il a le contact facile."
+        english: "He's approachable."
+      b:
+        french: "Elle a le contact facile."
+        english: "She's approachable."
+      c:
+        french: "Ayant le contact facile, elle créa rapidement des liens."
+        english: "Being approachable, she quickly created bonds."
+
+  - idiom: "garder ses distances"
+    literal: "to keep one's distances"
+    meaning: "to keep one's distance"
+    difficulty: 40
+    frequency: 42
+    context: "general"
+    register: "neutral"
+    category: "aloofness"
+    examples:
+      a:
+        french: "Il garde ses distances."
+        english: "He keeps his distance."
+      b:
+        french: "Elle garde toujours ses distances."
+        english: "She always keeps her distance."
+      c:
+        french: "Gardant ses distances, il maintint une relation professionnelle."
+        english: "Keeping his distance, he maintained a professional relationship."
+
+  - idiom: "être distant"
+    literal: "to be distant"
+    meaning: "to be aloof"
+    difficulty: 31
+    frequency: 33
+    context: "general"
+    register: "neutral"
+    category: "aloofness"
+    examples:
+      a:
+        french: "Il est très distant."
+        english: "He's very aloof."
+      b:
+        french: "Elle reste distante."
+        english: "She remains aloof."
+      c:
+        french: "Étant distant, il créait peu de liens."
+        english: "Being aloof, he created few bonds."
+
+  # WARMTH & COLDNESS IDIOMS
+  - idiom: "être chaleureux"
+    literal: "to be warm"
+    meaning: "to be warm"
+    difficulty: 29
+    frequency: 27
+    context: "general"
+    register: "neutral"
+    category: "warmth"
+    examples:
+      a:
+        french: "Il est très chaleureux."
+        english: "He's very warm."
+      b:
+        french: "Elle est chaleureuse."
+        english: "She's warm."
+      c:
+        french: "Étant chaleureux, il mettait les gens à l'aise."
+        english: "Being warm, he put people at ease."
+
+  - idiom: "avoir bon cœur"
+    literal: "to have good heart"
+    meaning: "to be kind-hearted"
+    difficulty: 36
+    frequency: 38
+    context: "general"
+    register: "neutral"
+    category: "warmth"
+    examples:
+      a:
+        french: "Il a bon cœur."
+        english: "He's kind-hearted."
+      b:
+        french: "Elle a bon cœur."
+        english: "She's kind-hearted."
+      c:
+        french: "Ayant bon cœur, elle aidait toujours les autres."
+        english: "Being kind-hearted, she always helped others."
+
+  - idiom: "être froid"
+    literal: "to be cold"
+    meaning: "to be cold"
+    difficulty: 28
+    frequency: 26
+    context: "general"
+    register: "neutral"
+    category: "coldness"
+    examples:
+      a:
+        french: "Il est très froid."
+        english: "He's very cold."
+      b:
+        french: "Elle est froide avec les inconnus."
+        english: "She's cold with strangers."
+      c:
+        french: "Étant froid, il gardait ses émotions pour lui."
+        english: "Being cold, he kept his emotions to himself."
+
+  - idiom: "avoir un cœur de pierre"
+    literal: "to have a heart of stone"
+    meaning: "to have a heart of stone"
+    difficulty: 49
+    frequency: 51
+    context: "general"
+    register: "neutral"
+    category: "coldness"
+    examples:
+      a:
+        french: "Il a un cœur de pierre."
+        english: "He has a heart of stone."
+      b:
+        french: "Elle a un cœur de pierre."
+        english: "She has a heart of stone."
+      c:
+        french: "Ayant un cœur de pierre, il ne montrait aucune compassion."
+        english: "Having a heart of stone, he showed no compassion."
+
+  # FRIENDLINESS & HOSTILITY MORE IDIOMS
+  - idiom: "être amical"
+    literal: "to be friendly"
+    meaning: "to be friendly"
+    difficulty: 25
+    frequency: 23
+    context: "general"
+    register: "neutral"
+    category: "friendliness"
+    examples:
+      a:
+        french: "Il est amical."
+        english: "He's friendly."
+      b:
+        french: "Elle est très amicale."
+        english: "She's very friendly."
+      c:
+        french: "Étant amical, il créa une bonne ambiance."
+        english: "Being friendly, he created a good atmosphere."
+
+  - idiom: "accueillir à bras ouverts"
+    literal: "to welcome with open arms"
+    meaning: "to welcome with open arms"
+    difficulty: 48
+    frequency: 50
+    context: "general"
+    register: "neutral"
+    category: "friendliness"
+    examples:
+      a:
+        french: "Ils l'ont accueilli à bras ouverts."
+        english: "They welcomed him with open arms."
+      b:
+        french: "Elle accueille tout le monde à bras ouverts."
+        english: "She welcomes everyone with open arms."
+      c:
+        french: "Accueillant les nouveaux à bras ouverts, elle facilita leur intégration."
+        english: "Welcoming newcomers with open arms, she facilitated their integration."
+
+  - idiom: "être hostile"
+    literal: "to be hostile"
+    meaning: "to be hostile"
+    difficulty: 32
+    frequency: 34
+    context: "general"
+    register: "neutral"
+    category: "hostility"
+    examples:
+      a:
+        french: "Il est hostile à cette idée."
+        english: "He's hostile to this idea."
+      b:
+        french: "Elle est hostile."
+        english: "She's hostile."
+      c:
+        french: "Étant hostile, il créa des tensions."
+        english: "Being hostile, he created tensions."
+
+  - idiom: "montrer les crocs"
+    literal: "to show the fangs"
+    meaning: "to bare one's teeth"
+    difficulty: 53
+    frequency: 55
+    context: "general"
+    register: "informal"
+    category: "hostility"
+    examples:
+      a:
+        french: "Il montre les crocs."
+        english: "He's baring his teeth."
+      b:
+        french: "Elle montre les crocs."
+        english: "She's baring her teeth."
+      c:
+        french: "Montrant les crocs, il fit comprendre qu'il ne céderait pas."
+        english: "Baring his teeth, he made it clear he wouldn't give in."
+
+  # POLITENESS & RUDENESS MORE IDIOMS
+  - idiom: "être poli"
+    literal: "to be polite"
+    meaning: "to be polite"
+    difficulty: 20
+    frequency: 18
+    context: "general"
+    register: "neutral"
+    category: "politeness"
+    examples:
+      a:
+        french: "Il est toujours poli."
+        english: "He's always polite."
+      b:
+        french: "Sois poli!"
+        english: "Be polite!"
+      c:
+        french: "Étant poli, il gagna le respect de tous."
+        english: "Being polite, he gained everyone's respect."
+
+  - idiom: "avoir de la classe"
+    literal: "to have class"
+    meaning: "to have class"
+    difficulty: 43
+    frequency: 45
+    context: "general"
+    register: "informal"
+    category: "politeness"
+    examples:
+      a:
+        french: "Il a de la classe."
+        english: "He has class."
+      b:
+        french: "Elle a beaucoup de classe."
+        english: "She has a lot of class."
+      c:
+        french: "Ayant de la classe, elle se conduisait toujours dignement."
+        english: "Having class, she always conducted herself with dignity."
+
+  - idiom: "être impoli"
+    literal: "to be impolite"
+    meaning: "to be rude"
+    difficulty: 24
+    frequency: 22
+    context: "general"
+    register: "neutral"
+    category: "rudeness"
+    examples:
+      a:
+        french: "Il est impoli."
+        english: "He's rude."
+      b:
+        french: "C'est impoli de faire ça."
+        english: "It's rude to do that."
+      c:
+        french: "Étant impoli, il offensa ses hôtes."
+        english: "Being rude, he offended his hosts."
+
+  - idiom: "manquer de tact"
+    literal: "to lack tact"
+    meaning: "to lack tact"
+    difficulty: 39
+    frequency: 41
+    context: "general"
+    register: "neutral"
+    category: "rudeness"
+    examples:
+      a:
+        french: "Il manque de tact."
+        english: "He lacks tact."
+      b:
+        french: "Elle manque de tact."
+        english: "She lacks tact."
+      c:
+        french: "Manquant de tact, il blessa les sentiments."
+        english: "Lacking tact, he hurt feelings."
+  # COMPOSURE & PANIC IDIOMS
+  - idiom: "garder la tête froide"
+    literal: "to keep the cold head"
+    meaning: "to keep a cool head"
+    difficulty: 47
+    frequency: 49
+    context: "general"
+    register: "neutral"
+    category: "composure"
+    examples:
+      a:
+        french: "Il faut garder la tête froide."
+        english: "We must keep a cool head."
+      b:
+        french: "Elle garde la tête froide."
+        english: "She keeps a cool head."
+      c:
+        french: "Gardant la tête froide durant la crise, il prit les bonnes décisions."
+        english: "Keeping a cool head during the crisis, he made the right decisions."
+
+  - idiom: "rester maître de soi"
+    literal: "to remain master of oneself"
+    meaning: "to remain composed"
+    difficulty: 51
+    frequency: 53
+    context: "general"
+    register: "neutral"
+    category: "composure"
+    examples:
+      a:
+        french: "Il reste maître de lui."
+        english: "He remains composed."
+      b:
+        french: "Elle reste maîtresse d'elle-même."
+        english: "She remains composed."
+      c:
+        french: "Restant maître de lui, il ne montra aucune émotion."
+        english: "Remaining composed, he showed no emotion."
+
+  - idiom: "paniquer"
+    literal: "to panic"
+    meaning: "to panic"
+    difficulty: 22
+    frequency: 20
+    context: "general"
+    register: "neutral"
+    category: "panic"
+    examples:
+      a:
+        french: "Ne panique pas."
+        english: "Don't panic."
+      b:
+        french: "Il panique facilement."
+        english: "He panics easily."
+      c:
+        french: "Paniquant face au problème, il commit des erreurs."
+        english: "Panicking in the face of the problem, he made mistakes."
+
+  - idiom: "perdre ses moyens"
+    literal: "to lose one's means"
+    meaning: "to lose one's bearings, panic"
+    difficulty: 50
+    frequency: 52
+    context: "general"
+    register: "neutral"
+    category: "panic"
+    examples:
+      a:
+        french: "Il a perdu ses moyens."
+        english: "He lost his bearings."
+      b:
+        french: "Elle perd ses moyens sous pression."
+        english: "She loses her bearings under pressure."
+      c:
+        french: "Perdant ses moyens durant l'examen, il oublia tout."
+        english: "Losing his bearings during the exam, he forgot everything."
+
+  # STRESS & RELAXATION MORE IDIOMS
+  - idiom: "être stressé"
+    literal: "to be stressed"
+    meaning: "to be stressed"
+    difficulty: 21
+    frequency: 19
+    context: "general"
+    register: "neutral"
+    category: "stress"
+    examples:
+      a:
+        french: "Je suis très stressé."
+        english: "I'm very stressed."
+      b:
+        french: "Elle est stressée."
+        english: "She's stressed."
+      c:
+        french: "Étant stressé, il dormait mal."
+        english: "Being stressed, he slept poorly."
+
+  - idiom: "craquer sous la pression"
+    literal: "to crack under pressure"
+    meaning: "to crack under pressure"
+    difficulty: 44
+    frequency: 46
+    context: "general"
+    register: "informal"
+    category: "stress"
+    examples:
+      a:
+        french: "Il a craqué sous la pression."
+        english: "He cracked under pressure."
+      b:
+        french: "Elle risque de craquer sous la pression."
+        english: "She risks cracking under pressure."
+      c:
+        french: "Craquant sous la pression, il abandonna."
+        english: "Cracking under pressure, he gave up."
+
+  - idiom: "se détendre"
+    literal: "to relax oneself"
+    meaning: "to relax"
+    difficulty: 25
+    frequency: 23
+    context: "general"
+    register: "neutral"
+    category: "relaxation"
+    examples:
+      a:
+        french: "Il faut se détendre."
+        english: "We must relax."
+      b:
+        french: "Elle se détend en lisant."
+        english: "She relaxes by reading."
+      c:
+        french: "Se détendant après une longue journée, il s'assit tranquillement."
+        english: "Relaxing after a long day, he sat quietly."
+
+  - idiom: "décompresser"
+    literal: "to decompress"
+    meaning: "to unwind"
+    difficulty: 40
+    frequency: 42
+    context: "general"
+    register: "informal"
+    category: "relaxation"
+    examples:
+      a:
+        french: "J'ai besoin de décompresser."
+        english: "I need to unwind."
+      b:
+        french: "Il décompresse le weekend."
+        english: "He unwinds on weekends."
+      c:
+        french: "Décompressant en vacances, elle oublia le travail."
+        english: "Unwinding on vacation, she forgot about work."
+
+  # ENERGY & FATIGUE MORE IDIOMS
+  - idiom: "avoir de l'énergie"
+    literal: "to have energy"
+    meaning: "to have energy"
+    difficulty: 24
+    frequency: 22
+    context: "general"
+    register: "neutral"
+    category: "energy"
+    examples:
+      a:
+        french: "J'ai beaucoup d'énergie."
+        english: "I have a lot of energy."
+      b:
+        french: "Elle a de l'énergie à revendre."
+        english: "She has energy to spare."
+      c:
+        french: "Ayant de l'énergie, il enchaînait les projets."
+        english: "Having energy, he chained together projects."
+
+  - idiom: "être plein d'entrain"
+    literal: "to be full of drive"
+    meaning: "to be full of energy"
+    difficulty: 46
+    frequency: 48
+    context: "general"
+    register: "neutral"
+    category: "energy"
+    examples:
+      a:
+        french: "Il est plein d'entrain."
+        english: "He's full of energy."
+      b:
+        french: "Elle est pleine d'entrain."
+        english: "She's full of energy."
+      c:
+        french: "Étant plein d'entrain, il motivait son équipe."
+        english: "Being full of energy, he motivated his team."
+
+  - idiom: "être épuisé"
+    literal: "to be exhausted"
+    meaning: "to be exhausted"
+    difficulty: 27
+    frequency: 25
+    context: "general"
+    register: "neutral"
+    category: "fatigue"
+    examples:
+      a:
+        french: "Je suis épuisé."
+        english: "I'm exhausted."
+      b:
+        french: "Elle est complètement épuisée."
+        english: "She's completely exhausted."
+      c:
+        french: "Étant épuisé, il s'endormit immédiatement."
+        english: "Being exhausted, he fell asleep immediately."
+
+  - idiom: "n'en pouvoir plus"
+    literal: "not to be able more of it"
+    meaning: "can't take it anymore"
+    difficulty: 41
+    frequency: 43
+    context: "general"
+    register: "informal"
+    category: "fatigue"
+    examples:
+      a:
+        french: "Je n'en peux plus."
+        english: "I can't take it anymore."
+      b:
+        french: "Elle n'en peut plus."
+        english: "She can't take it anymore."
+      c:
+        french: "N'en pouvant plus, il demanda une pause."
+        english: "Not being able to take it anymore, he asked for a break."
+
+  # VIGOUR & WEAKNESS IDIOMS
+  - idiom: "être vigoureux"
+    literal: "to be vigorous"
+    meaning: "to be vigorous"
+    difficulty: 38
+    frequency: 40
+    context: "general"
+    register: "neutral"
+    category: "vigour"
+    examples:
+      a:
+        french: "Il est très vigoureux."
+        english: "He's very vigorous."
+      b:
+        french: "Elle reste vigoureuse."
+        english: "She remains vigorous."
+      c:
+        french: "Étant vigoureux, il travaillait sans relâche."
+        english: "Being vigorous, he worked tirelessly."
+
+  - idiom: "être en forme"
+    literal: "to be in form"
+    meaning: "to be in shape"
+    difficulty: 23
+    frequency: 21
+    context: "general"
+    register: "neutral"
+    category: "vigour"
+    examples:
+      a:
+        french: "Je suis en forme."
+        english: "I'm in shape."
+      b:
+        french: "Il est en pleine forme."
+        english: "He's in great shape."
+      c:
+        french: "Étant en forme, elle courait tous les jours."
+        english: "Being in shape, she ran every day."
+
+  - idiom: "être faible"
+    literal: "to be weak"
+    meaning: "to be weak"
+    difficulty: 22
+    frequency: 20
+    context: "general"
+    register: "neutral"
+    category: "weakness"
+    examples:
+      a:
+        french: "Il est faible."
+        english: "He's weak."
+      b:
+        french: "Elle se sent faible."
+        english: "She feels weak."
+      c:
+        french: "Étant faible, il avait du mal à porter les charges."
+        english: "Being weak, he had trouble carrying loads."
+
+  - idiom: "manquer de force"
+    literal: "to lack strength"
+    meaning: "to lack strength"
+    difficulty: 30
+    frequency: 28
+    context: "general"
+    register: "neutral"
+    category: "weakness"
+    examples:
+      a:
+        french: "Il manque de force."
+        english: "He lacks strength."
+      b:
+        french: "Elle manque de force physique."
+        english: "She lacks physical strength."
+      c:
+        french: "Manquant de force, il ne put soulever la boîte."
+        english: "Lacking strength, he couldn't lift the box."
+
+  # ENDURANCE & FRAGILITY IDIOMS
+  - idiom: "avoir de l'endurance"
+    literal: "to have endurance"
+    meaning: "to have stamina"
+    difficulty: 35
+    frequency: 37
+    context: "general"
+    register: "neutral"
+    category: "endurance"
+    examples:
+      a:
+        french: "Il a beaucoup d'endurance."
+        english: "He has a lot of stamina."
+      b:
+        french: "Elle a de l'endurance."
+        english: "She has stamina."
+      c:
+        french: "Ayant de l'endurance, il termina le marathon."
+        english: "Having stamina, he finished the marathon."
+
+  - idiom: "tenir la distance"
+    literal: "to hold the distance"
+    meaning: "to go the distance"
+    difficulty: 48
+    frequency: 50
+    context: "general"
+    register: "neutral"
+    category: "endurance"
+    examples:
+      a:
+        french: "Il faut tenir la distance."
+        english: "We must go the distance."
+      b:
+        french: "Elle tient la distance."
+        english: "She goes the distance."
+      c:
+        french: "Tenant la distance, il prouva sa détermination."
+        english: "Going the distance, he proved his determination."
+
+  - idiom: "être fragile"
+    literal: "to be fragile"
+    meaning: "to be fragile"
+    difficulty: 26
+    frequency: 24
+    context: "general"
+    register: "neutral"
+    category: "fragility"
+    examples:
+      a:
+        french: "Il est fragile."
+        english: "He's fragile."
+      b:
+        french: "Elle est fragile émotionnellement."
+        english: "She's emotionally fragile."
+      c:
+        french: "Étant fragile, il tomba souvent malade."
+        english: "Being fragile, he often fell ill."
+
+  - idiom: "se briser facilement"
+    literal: "to break easily"
+    meaning: "to break easily"
+    difficulty: 32
+    frequency: 34
+    context: "general"
+    register: "neutral"
+    category: "fragility"
+    examples:
+      a:
+        french: "Ça se brise facilement."
+        english: "It breaks easily."
+      b:
+        french: "Son moral se brise facilement."
+        english: "His morale breaks easily."
+      c:
+        french: "Se brisant facilement, l'objet nécessitait des précautions."
+        english: "Breaking easily, the object required precautions."
+
+  # RECOVERY & DETERIORATION IDIOMS
+  - idiom: "se remettre de"
+    literal: "to put oneself back from"
+    meaning: "to recover from"
+    difficulty: 34
+    frequency: 36
+    context: "general"
+    register: "neutral"
+    category: "recovery"
+    examples:
+      a:
+        french: "Il se remet de sa maladie."
+        english: "He's recovering from his illness."
+      b:
+        french: "Elle s'est remise du choc."
+        english: "She recovered from the shock."
+      c:
+        french: "Se remettant rapidement, il reprit le travail."
+        english: "Recovering quickly, he resumed work."
+
+  - idiom: "reprendre des forces"
+    literal: "to take back forces"
+    meaning: "to regain strength"
+    difficulty: 42
+    frequency: 44
+    context: "general"
+    register: "neutral"
+    category: "recovery"
+    examples:
+      a:
+        french: "Il faut reprendre des forces."
+        english: "We must regain strength."
+      b:
+        french: "Elle reprend des forces."
+        english: "She's regaining strength."
+      c:
+        french: "Reprenant des forces après la convalescence, il recommença l'exercice."
+        english: "Regaining strength after convalescence, he resumed exercise."
+
+  - idiom: "se dégrader"
+    literal: "to degrade oneself"
+    meaning: "to deteriorate"
+    difficulty: 37
+    frequency: 39
+    context: "general"
+    register: "neutral"
+    category: "deterioration"
+    examples:
+      a:
+        french: "Sa santé se dégrade."
+        english: "His health is deteriorating."
+      b:
+        french: "La situation se dégrade."
+        english: "The situation is deteriorating."
+      c:
+        french: "Se dégradant rapidement, le bâtiment nécessita des réparations."
+        english: "Deteriorating rapidly, the building needed repairs."
+
+  - idiom: "aller de mal en pis"
+    literal: "to go from bad to worse"
+    meaning: "to go from bad to worse"
+    difficulty: 54
+    frequency: 56
+    context: "general"
+    register: "neutral"
+    category: "deterioration"
+    examples:
+      a:
+        french: "Ça va de mal en pis."
+        english: "It's going from bad to worse."
+      b:
+        french: "La situation va de mal en pis."
+        english: "The situation is going from bad to worse."
+      c:
+        french: "Allant de mal en pis, la crise s'aggrava."
+        english: "Going from bad to worse, the crisis worsened."
+
+  # IMPROVEMENT & DECLINE MORE IDIOMS
+  - idiom: "s'améliorer"
+    literal: "to improve oneself"
+    meaning: "to improve"
+    difficulty: 28
+    frequency: 26
+    context: "general"
+    register: "neutral"
+    category: "improvement"
+    examples:
+      a:
+        french: "Il s'améliore."
+        english: "He's improving."
+      b:
+        french: "Elle s'améliore de jour en jour."
+        english: "She's improving day by day."
+      c:
+        french: "S'améliorant constamment, il devint expert."
+        english: "Improving constantly, he became an expert."
+
+  - idiom: "progresser"
+    literal: "to progress"
+    meaning: "to make progress"
+    difficulty: 25
+    frequency: 23
+    context: "general"
+    register: "neutral"
+    category: "improvement"
+    examples:
+      a:
+        french: "Il progresse rapidement."
+        english: "He's making rapid progress."
+      b:
+        french: "Elle progresse bien."
+        english: "She's making good progress."
+      c:
+        french: "Progressant régulièrement, il atteignit son objectif."
+        english: "Making steady progress, he reached his goal."
+
+  - idiom: "décliner"
+    literal: "to decline"
+    meaning: "to decline"
+    difficulty: 36
+    frequency: 38
+    context: "general"
+    register: "neutral"
+    category: "decline"
+    examples:
+      a:
+        french: "Sa santé décline."
+        english: "His health is declining."
+      b:
+        french: "L'empire décline."
+        english: "The empire is declining."
+      c:
+        french: "Déclinant avec l'âge, il ralentit ses activités."
+        english: "Declining with age, he slowed down his activities."
+
+  - idiom: "être en déclin"
+    literal: "to be in decline"
+    meaning: "to be in decline"
+    difficulty: 39
+    frequency: 41
+    context: "general"
+    register: "neutral"
+    category: "decline"
+    examples:
+      a:
+        french: "L'industrie est en déclin."
+        english: "The industry is in decline."
+      b:
+        french: "Sa carrière est en déclin."
+        english: "His career is in decline."
+      c:
+        french: "Étant en déclin, l'empire perdit ses territoires."
+        english: "Being in decline, the empire lost its territories."
+  # EXPANSION & CONTRACTION IDIOMS
+  - idiom: "s'étendre"
+    literal: "to extend oneself"
+    meaning: "to expand"
+    difficulty: 33
+    frequency: 35
+    context: "general"
+    register: "neutral"
+    category: "expansion"
+    examples:
+      a:
+        french: "L'entreprise s'étend."
+        english: "The company is expanding."
+      b:
+        french: "La ville s'étend rapidement."
+        english: "The city is expanding rapidly."
+      c:
+        french: "S'étendant sur plusieurs continents, l'empire domina le monde."
+        english: "Expanding across several continents, the empire dominated the world."
+
+  - idiom: "prendre de l'ampleur"
+    literal: "to take amplitude"
+    meaning: "to gain momentum, grow"
+    difficulty: 52
+    frequency: 54
+    context: "general"
+    register: "neutral"
+    category: "expansion"
+    examples:
+      a:
+        french: "Le mouvement prend de l'ampleur."
+        english: "The movement is gaining momentum."
+      b:
+        french: "Le projet prend de l'ampleur."
+        english: "The project is growing."
+      c:
+        french: "Prenant de l'ampleur, la manifestation mobilisa des milliers de personnes."
+        english: "Gaining momentum, the demonstration mobilized thousands of people."
+
+  - idiom: "se réduire"
+    literal: "to reduce oneself"
+    meaning: "to shrink"
+    difficulty: 34
+    frequency: 36
+    context: "general"
+    register: "neutral"
+    category: "contraction"
+    examples:
+      a:
+        french: "Les effectifs se réduisent."
+        english: "The workforce is shrinking."
+      b:
+        french: "L'écart se réduit."
+        english: "The gap is shrinking."
+      c:
+        french: "Se réduisant progressivement, le budget limitait les projets."
+        english: "Shrinking gradually, the budget limited projects."
+
+  - idiom: "rétrécir"
+    literal: "to shrink"
+    meaning: "to shrink"
+    difficulty: 31
+    frequency: 33
+    context: "general"
+    register: "neutral"
+    category: "contraction"
+    examples:
+      a:
+        french: "Le marché rétrécit."
+        english: "The market is shrinking."
+      b:
+        french: "Les opportunités rétrécissent."
+        english: "Opportunities are shrinking."
+      c:
+        french: "Rétrécissant au lavage, le pull ne lui allait plus."
+        english: "Shrinking in the wash, the sweater no longer fit him."
+
+  # RISE & FALL MORE IDIOMS
+  - idiom: "monter en flèche"
+    literal: "to rise like an arrow"
+    meaning: "to skyrocket"
+    difficulty: 55
+    frequency: 57
+    context: "general"
+    register: "neutral"
+    category: "rise"
+    examples:
+      a:
+        french: "Les prix montent en flèche."
+        english: "Prices are skyrocketing."
+      b:
+        french: "Sa popularité monte en flèche."
+        english: "His popularity is skyrocketing."
+      c:
+        french: "Montant en flèche, les actions enrichirent les investisseurs."
+        english: "Skyrocketing, the stocks enriched investors."
+
+  - idiom: "être en hausse"
+    literal: "to be in rise"
+    meaning: "to be on the rise"
+    difficulty: 37
+    frequency: 39
+    context: "general"
+    register: "neutral"
+    category: "rise"
+    examples:
+      a:
+        french: "Les ventes sont en hausse."
+        english: "Sales are on the rise."
+      b:
+        french: "Le chômage est en hausse."
+        english: "Unemployment is on the rise."
+      c:
+        french: "Étant en hausse, les indicateurs encouragèrent les investisseurs."
+        english: "Being on the rise, the indicators encouraged investors."
+
+  - idiom: "chuter"
+    literal: "to fall"
+    meaning: "to plummet"
+    difficulty: 35
+    frequency: 37
+    context: "general"
+    register: "neutral"
+    category: "fall"
+    examples:
+      a:
+        french: "Les ventes chutent."
+        english: "Sales are plummeting."
+      b:
+        french: "Sa popularité chute."
+        english: "His popularity is plummeting."
+      c:
+        french: "Chutant brutalement, le cours alarma les actionnaires."
+        english: "Plummeting sharply, the price alarmed shareholders."
+
+  - idiom: "être en baisse"
+    literal: "to be in decrease"
+    meaning: "to be declining"
+    difficulty: 32
+    frequency: 34
+    context: "general"
+    register: "neutral"
+    category: "fall"
+    examples:
+      a:
+        french: "Les prix sont en baisse."
+        english: "Prices are declining."
+      b:
+        french: "La production est en baisse."
+        english: "Production is declining."
+      c:
+        french: "Étant en baisse, les résultats inquiétèrent la direction."
+        english: "Being in decline, the results worried management."
+
+  # GROWTH & STAGNATION IDIOMS
+  - idiom: "croître"
+    literal: "to grow"
+    meaning: "to grow"
+    difficulty: 38
+    frequency: 40
+    context: "general"
+    register: "neutral"
+    category: "growth"
+    examples:
+      a:
+        french: "L'économie croît."
+        english: "The economy is growing."
+      b:
+        french: "La population croît rapidement."
+        english: "The population is growing rapidly."
+      c:
+        french: "Croissant de manière exponentielle, l'entreprise ouvrit de nouvelles filiales."
+        english: "Growing exponentially, the company opened new branches."
+
+  - idiom: "être en plein essor"
+    literal: "to be in full flight"
+    meaning: "to be booming"
+    difficulty: 53
+    frequency: 55
+    context: "general"
+    register: "neutral"
+    category: "growth"
+    examples:
+      a:
+        french: "Le secteur est en plein essor."
+        english: "The sector is booming."
+      b:
+        french: "L'industrie est en plein essor."
+        english: "The industry is booming."
+      c:
+        french: "Étant en plein essor, la région attira des investissements."
+        english: "Being booming, the region attracted investments."
+
+  - idiom: "stagner"
+    literal: "to stagnate"
+    meaning: "to stagnate"
+    difficulty: 40
+    frequency: 42
+    context: "general"
+    register: "neutral"
+    category: "stagnation"
+    examples:
+      a:
+        french: "L'économie stagne."
+        english: "The economy is stagnating."
+      b:
+        french: "Les ventes stagnent."
+        english: "Sales are stagnating."
+      c:
+        french: "Stagnant depuis des années, le marché nécessitait une innovation."
+        english: "Stagnating for years, the market needed innovation."
+
+  - idiom: "piétiner"
+    literal: "to trample"
+    meaning: "to stall, make no progress"
+    difficulty: 47
+    frequency: 49
+    context: "general"
+    register: "neutral"
+    category: "stagnation"
+    examples:
+      a:
+        french: "Le projet piétine."
+        english: "The project is stalling."
+      b:
+        french: "Les négociations piétinent."
+        english: "The negotiations are making no progress."
+      c:
+        french: "Piétinant pendant des mois, le projet fut abandonné."
+        english: "Stalling for months, the project was abandoned."
+
+  # ACCELERATION & DECELERATION IDIOMS
+  - idiom: "accélérer le rythme"
+    literal: "to accelerate the rhythm"
+    meaning: "to pick up the pace"
+    difficulty: 41
+    frequency: 43
+    context: "general"
+    register: "neutral"
+    category: "acceleration"
+    examples:
+      a:
+        french: "Il faut accélérer le rythme."
+        english: "We must pick up the pace."
+      b:
+        french: "Ils accélèrent le rythme."
+        english: "They're picking up the pace."
+      c:
+        french: "Accélérant le rythme, l'équipe termina à temps."
+        english: "Picking up the pace, the team finished on time."
+
+  - idiom: "prendre de la vitesse"
+    literal: "to take speed"
+    meaning: "to gain speed"
+    difficulty: 36
+    frequency: 38
+    context: "general"
+    register: "neutral"
+    category: "acceleration"
+    examples:
+      a:
+        french: "Le projet prend de la vitesse."
+        english: "The project is gaining speed."
+      b:
+        french: "Il prend de la vitesse."
+        english: "He's gaining speed."
+      c:
+        french: "Prenant de la vitesse, le mouvement devint inarrêtable."
+        english: "Gaining speed, the movement became unstoppable."
+
+  - idiom: "ralentir"
+    literal: "to slow down"
+    meaning: "to slow down"
+    difficulty: 26
+    frequency: 24
+    context: "general"
+    register: "neutral"
+    category: "deceleration"
+    examples:
+      a:
+        french: "Il faut ralentir."
+        english: "We must slow down."
+      b:
+        french: "L'économie ralentit."
+        english: "The economy is slowing down."
+      c:
+        french: "Ralentissant progressivement, le train s'arrêta en gare."
+        english: "Slowing down gradually, the train stopped at the station."
+
+  - idiom: "freiner"
+    literal: "to brake"
+    meaning: "to slow down, curb"
+    difficulty: 30
+    frequency: 32
+    context: "general"
+    register: "neutral"
+    category: "deceleration"
+    examples:
+      a:
+        french: "Il faut freiner l'inflation."
+        english: "We must curb inflation."
+      b:
+        french: "Cela freine le développement."
+        english: "This slows down development."
+      c:
+        french: "Freinant les dépenses, le gouvernement stabilisa le budget."
+        english: "Curbing spending, the government stabilized the budget."
+
+  # PEAK & TROUGH IDIOMS
+  - idiom: "atteindre son apogée"
+    literal: "to reach one's apogee"
+    meaning: "to reach one's peak"
+    difficulty: 56
+    frequency: 58
+    context: "general"
+    register: "formal"
+    category: "peak"
+    examples:
+      a:
+        french: "Il a atteint son apogée."
+        english: "He reached his peak."
+      b:
+        french: "L'empire a atteint son apogée."
+        english: "The empire reached its peak."
+      c:
+        french: "Atteignant son apogée au XIXe siècle, la civilisation rayonna."
+        english: "Reaching its peak in the 19th century, the civilization shone."
+
+  - idiom: "être au sommet"
+    literal: "to be at the summit"
+    meaning: "to be at the top"
+    difficulty: 39
+    frequency: 41
+    context: "general"
+    register: "neutral"
+    category: "peak"
+    examples:
+      a:
+        french: "Il est au sommet de sa carrière."
+        english: "He's at the top of his career."
+      b:
+        french: "Elle est au sommet."
+        english: "She's at the top."
+      c:
+        french: "Étant au sommet, elle jouissait d'une influence considérable."
+        english: "Being at the top, she enjoyed considerable influence."
+
+  - idiom: "toucher le fond"
+    literal: "to touch the bottom"
+    meaning: "to hit rock bottom"
+    difficulty: 48
+    frequency: 50
+    context: "general"
+    register: "informal"
+    category: "trough"
+    examples:
+      a:
+        french: "Il a touché le fond."
+        english: "He hit rock bottom."
+      b:
+        french: "L'économie touche le fond."
+        english: "The economy is hitting rock bottom."
+      c:
+        french: "Touchant le fond après la crise, il décida de tout recommencer."
+        english: "Hitting rock bottom after the crisis, he decided to start over."
+
+  - idiom: "être au plus bas"
+    literal: "to be at the lowest"
+    meaning: "to be at an all-time low"
+    difficulty: 44
+    frequency: 46
+    context: "general"
+    register: "neutral"
+    category: "trough"
+    examples:
+      a:
+        french: "Le moral est au plus bas."
+        english: "Morale is at an all-time low."
+      b:
+        french: "Les prix sont au plus bas."
+        english: "Prices are at an all-time low."
+      c:
+        french: "Étant au plus bas, la confiance devait être restaurée."
+        english: "Being at an all-time low, confidence needed to be restored."
+
+  # STABILITY & INSTABILITY MORE IDIOMS
+  - idiom: "être stable"
+    literal: "to be stable"
+    meaning: "to be stable"
+    difficulty: 27
+    frequency: 25
+    context: "general"
+    register: "neutral"
+    category: "stability"
+    examples:
+      a:
+        french: "La situation est stable."
+        english: "The situation is stable."
+      b:
+        french: "Il est stable émotionnellement."
+        english: "He's emotionally stable."
+      c:
+        french: "Étant stable, le système fonctionnait sans problème."
+        english: "Being stable, the system functioned without problem."
+
+  - idiom: "tenir debout"
+    literal: "to hold standing"
+    meaning: "to hold up, stand"
+    difficulty: 42
+    frequency: 44
+    context: "general"
+    register: "informal"
+    category: "stability"
+    examples:
+      a:
+        french: "Cette théorie ne tient pas debout."
+        english: "This theory doesn't hold up."
+      b:
+        french: "Son argument tient debout."
+        english: "His argument stands."
+      c:
+        french: "Tenant debout malgré les critiques, la proposition fut adoptée."
+        english: "Holding up despite criticism, the proposal was adopted."
+
+  - idiom: "être instable"
+    literal: "to be unstable"
+    meaning: "to be unstable"
+    difficulty: 29
+    frequency: 27
+    context: "general"
+    register: "neutral"
+    category: "instability"
+    examples:
+      a:
+        french: "La situation est instable."
+        english: "The situation is unstable."
+      b:
+        french: "Il est instable."
+        english: "He's unstable."
+      c:
+        french: "Étant instable, le régime s'effondra rapidement."
+        english: "Being unstable, the regime collapsed rapidly."
+
+  - idiom: "vaciller"
+    literal: "to waver"
+    meaning: "to waver, falter"
+    difficulty: 51
+    frequency: 53
+    context: "general"
+    register: "neutral"
+    category: "instability"
+    examples:
+      a:
+        french: "Le gouvernement vacille."
+        english: "The government is wavering."
+      b:
+        french: "Sa détermination vacille."
+        english: "His determination is faltering."
+      c:
+        french: "Vacillant sous la pression, le dirigeant démissionna."
+        english: "Wavering under pressure, the leader resigned."
+
+  # FIRMNESS & FRAGILITY MORE IDIOMS
+  - idiom: "être solide"
+    literal: "to be solid"
+    meaning: "to be solid, strong"
+    difficulty: 24
+    frequency: 22
+    context: "general"
+    register: "neutral"
+    category: "firmness"
+    examples:
+      a:
+        french: "La structure est solide."
+        english: "The structure is solid."
+      b:
+        french: "Il est solide mentalement."
+        english: "He's mentally strong."
+      c:
+        french: "Étant solide, le bâtiment résista au séisme."
+        english: "Being solid, the building withstood the earthquake."
+
+  - idiom: "tenir bon"
+    literal: "to hold good"
+    meaning: "to hold firm"
+    difficulty: 35
+    frequency: 37
+    context: "general"
+    register: "neutral"
+    category: "firmness"
+    examples:
+      a:
+        french: "Il faut tenir bon."
+        english: "We must hold firm."
+      b:
+        french: "Ils tiennent bon."
+        english: "They're holding firm."
+      c:
+        french: "Tenant bon face aux attaques, la forteresse ne céda pas."
+        english: "Holding firm against attacks, the fortress didn't yield."
+
+  - idiom: "être fragile"
+    literal: "to be fragile"
+    meaning: "to be fragile"
+    difficulty: 28
+    frequency: 26
+    context: "general"
+    register: "neutral"
+    category: "fragility"
+    examples:
+      a:
+        french: "L'équilibre est fragile."
+        english: "The balance is fragile."
+      b:
+        french: "Il est fragile."
+        english: "He's fragile."
+      c:
+        french: "Étant fragile, la paix nécessitait une vigilance constante."
+        english: "Being fragile, peace required constant vigilance."
+
+  - idiom: "tenir à un fil"
+    literal: "to hold by a thread"
+    meaning: "to hang by a thread"
+    difficulty: 54
+    frequency: 56
+    context: "general"
+    register: "neutral"
+    category: "fragility"
+    examples:
+      a:
+        french: "Sa vie tient à un fil."
+        english: "His life hangs by a thread."
+      b:
+        french: "Le projet tient à un fil."
+        english: "The project hangs by a thread."
+      c:
+        french: "Tenant à un fil, l'accord risquait de s'effondrer à tout moment."
+        english: "Hanging by a thread, the agreement risked collapsing at any moment."
+  # ENDURANCE & COLLAPSE MORE IDIOMS
+  - idiom: "tenir le coup"
+    literal: "to hold the blow"
+    meaning: "to hold out"
+    difficulty: 46
+    frequency: 48
+    context: "general"
+    register: "informal"
+    category: "endurance"
+    examples:
+      a:
+        french: "Il faut tenir le coup."
+        english: "We must hold out."
+      b:
+        french: "Elle tient le coup."
+        english: "She's holding out."
+      c:
+        french: "Tenant le coup malgré l'adversité, il ne renonça jamais."
+        english: "Holding out despite adversity, he never gave up."
+
+  - idiom: "résister"
+    literal: "to resist"
+    meaning: "to resist, hold out"
+    difficulty: 28
+    frequency: 26
+    context: "general"
+    register: "neutral"
+    category: "endurance"
+    examples:
+      a:
+        french: "Il faut résister."
+        english: "We must resist."
+      b:
+        french: "Ils résistent à la pression."
+        english: "They resist the pressure."
+      c:
+        french: "Résistant héroïquement, la ville ne capitula jamais."
+        english: "Resisting heroically, the city never capitulated."
+
+  - idiom: "s'effondrer"
+    literal: "to collapse"
+    meaning: "to collapse"
+    difficulty: 37
+    frequency: 39
+    context: "general"
+    register: "neutral"
+    category: "collapse"
+    examples:
+      a:
+        french: "Le bâtiment s'est effondré."
+        english: "The building collapsed."
+      b:
+        french: "Son moral s'effondre."
+        english: "His morale is collapsing."
+      c:
+        french: "S'effondrant sous le poids, la structure céda."
+        english: "Collapsing under the weight, the structure gave way."
+
+  - idiom: "craquer"
+    literal: "to crack"
+    meaning: "to crack, break down"
+    difficulty: 33
+    frequency: 35
+    context: "general"
+    register: "informal"
+    category: "collapse"
+    examples:
+      a:
+        french: "Il a craqué."
+        english: "He cracked."
+      b:
+        french: "Elle risque de craquer."
+        english: "She risks breaking down."
+      c:
+        french: "Craquant nerveusement, il pleura."
+        english: "Breaking down nervously, he cried."
+
+  # CONSTRUCTION & DESTRUCTION MORE IDIOMS
+  - idiom: "construire"
+    literal: "to construct"
+    meaning: "to build"
+    difficulty: 25
+    frequency: 23
+    context: "general"
+    register: "neutral"
+    category: "construction"
+    examples:
+      a:
+        french: "Ils construisent un pont."
+        english: "They're building a bridge."
+      b:
+        french: "Il faut construire l'avenir."
+        english: "We must build the future."
+      c:
+        french: "Construisant patiemment son empire, il devint milliardaire."
+        english: "Building his empire patiently, he became a billionaire."
+
+  - idiom: "bâtir"
+    literal: "to build"
+    meaning: "to build, construct"
+    difficulty: 36
+    frequency: 38
+    context: "general"
+    register: "neutral"
+    category: "construction"
+    examples:
+      a:
+        french: "Ils bâtissent une cathédrale."
+        english: "They're building a cathedral."
+      b:
+        french: "Il a bâti sa fortune."
+        english: "He built his fortune."
+      c:
+        french: "Bâtissant sur des fondations solides, le projet prospéra."
+        english: "Building on solid foundations, the project prospered."
+
+  - idiom: "détruire"
+    literal: "to destroy"
+    meaning: "to destroy"
+    difficulty: 27
+    frequency: 25
+    context: "general"
+    register: "neutral"
+    category: "destruction"
+    examples:
+      a:
+        french: "La guerre détruit tout."
+        english: "War destroys everything."
+      b:
+        french: "Il a détruit sa carrière."
+        english: "He destroyed his career."
+      c:
+        french: "Détruisant systématiquement les preuves, il effaça ses traces."
+        english: "Systematically destroying evidence, he erased his tracks."
+
+  - idiom: "raser"
+    literal: "to raze"
+    meaning: "to demolish, raze"
+    difficulty: 43
+    frequency: 45
+    context: "general"
+    register: "neutral"
+    category: "destruction"
+    examples:
+      a:
+        french: "Ils ont rasé le bâtiment."
+        english: "They demolished the building."
+      b:
+        french: "La ville a été rasée."
+        english: "The city was razed."
+      c:
+        french: "Rasant le quartier ancien, ils construisirent des tours modernes."
+        english: "Razing the old neighborhood, they built modern towers."
+
+  # CREATION & ANNIHILATION IDIOMS
+  - idiom: "créer"
+    literal: "to create"
+    meaning: "to create"
+    difficulty: 22
+    frequency: 20
+    context: "general"
+    register: "neutral"
+    category: "creation"
+    examples:
+      a:
+        french: "Il crée une entreprise."
+        english: "He's creating a company."
+      b:
+        french: "Elle crée de l'art."
+        english: "She creates art."
+      c:
+        french: "Créant sans cesse, l'artiste laissa une œuvre immense."
+        english: "Creating constantly, the artist left an immense body of work."
+
+  - idiom: "donner naissance à"
+    literal: "to give birth to"
+    meaning: "to give rise to"
+    difficulty: 40
+    frequency: 42
+    context: "general"
+    register: "neutral"
+    category: "creation"
+    examples:
+      a:
+        french: "Cette idée a donné naissance à un mouvement."
+        english: "This idea gave rise to a movement."
+      b:
+        french: "Cela a donné naissance à une révolution."
+        english: "This gave rise to a revolution."
+      c:
+        french: "Donnant naissance à une nouvelle ère, l'invention transforma la société."
+        english: "Giving rise to a new era, the invention transformed society."
+
+  - idiom: "anéantir"
+    literal: "to annihilate"
+    meaning: "to annihilate"
+    difficulty: 50
+    frequency: 52
+    context: "general"
+    register: "formal"
+    category: "annihilation"
+    examples:
+      a:
+        french: "L'armée a été anéantie."
+        english: "The army was annihilated."
+      b:
+        french: "Ses espoirs ont été anéantis."
+        english: "His hopes were annihilated."
+      c:
+        french: "Anéantissant toute résistance, l'invasion fut totale."
+        english: "Annihilating all resistance, the invasion was total."
+
+  - idiom: "réduire à néant"
+    literal: "to reduce to nothing"
+    meaning: "to reduce to nothing"
+    difficulty: 55
+    frequency: 57
+    context: "general"
+    register: "formal"
+    category: "annihilation"
+    examples:
+      a:
+        french: "Ses efforts ont été réduits à néant."
+        english: "His efforts were reduced to nothing."
+      b:
+        french: "Le projet a été réduit à néant."
+        english: "The project was reduced to nothing."
+      c:
+        french: "Réduisant à néant des années de travail, l'incendie dévasta tout."
+        english: "Reducing years of work to nothing, the fire devastated everything."
