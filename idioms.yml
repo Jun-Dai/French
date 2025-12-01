@@ -12160,3 +12160,1924 @@ ait des équations complexes avec aisance."
       c:
         french: "Emboîtant le pas des pionniers, elle innova dans le domaine."
         english: "Following in the pioneers' footsteps, she innovated in the field."
+  # PRIDE & SHAME MORE IDIOMS
+  - idiom: "être fier de"
+    literal: "to be proud of"
+    meaning: "to be proud of"
+    difficulty: 21
+    frequency: 19
+    context: "general"
+    register: "neutral"
+    category: "pride"
+    examples:
+      a:
+        french: "Je suis fier de toi."
+        english: "I'm proud of you."
+      b:
+        french: "Il est fier de son travail."
+        english: "He's proud of his work."
+      c:
+        french: "Étant fière de son parcours, elle inspira les jeunes."
+        english: "Being proud of her journey, she inspired young people."
+
+  - idiom: "bomber le torse"
+    literal: "to puff out the chest"
+    meaning: "to puff out one's chest, swagger"
+    difficulty: 51
+    frequency: 53
+    context: "general"
+    register: "informal"
+    category: "pride"
+    examples:
+      a:
+        french: "Il bombe le torse."
+        english: "He's swaggering."
+      b:
+        french: "Ne bombe pas le torse."
+        english: "Don't puff out your chest."
+      c:
+        french: "Bombant le torse après sa victoire, il agaça ses concurrents."
+        english: "Puffing out his chest after his victory, he annoyed his competitors."
+
+  - idiom: "avoir honte de"
+    literal: "to have shame of"
+    meaning: "to be ashamed of"
+    difficulty: 27
+    frequency: 25
+    context: "general"
+    register: "neutral"
+    category: "shame"
+    examples:
+      a:
+        french: "J'ai honte de moi."
+        english: "I'm ashamed of myself."
+      b:
+        french: "Il a honte de son comportement."
+        english: "He's ashamed of his behavior."
+      c:
+        french: "Ayant honte de son erreur, elle s'excusa publiquement."
+        english: "Being ashamed of her mistake, she apologized publicly."
+
+  - idiom: "rentrer sous terre"
+    literal: "to go back under ground"
+    meaning: "to want to sink through the floor"
+    difficulty: 52
+    frequency: 54
+    context: "general"
+    register: "informal"
+    category: "shame"
+    examples:
+      a:
+        french: "J'aurais voulu rentrer sous terre."
+        english: "I wanted to sink through the floor."
+      b:
+        french: "Elle voulait rentrer sous terre."
+        english: "She wanted to sink through the floor."
+      c:
+        french: "Voulant rentrer sous terre après le faux pas, il quitta discrètement."
+        english: "Wanting to sink through the floor after the blunder, he left discreetly."
+
+  # JOY & SORROW MORE IDIOMS
+  - idiom: "sauter de joie"
+    literal: "to jump with joy"
+    meaning: "to jump for joy"
+    difficulty: 35
+    frequency: 33
+    context: "general"
+    register: "neutral"
+    category: "joy"
+    examples:
+      a:
+        french: "Elle saute de joie."
+        english: "She's jumping for joy."
+      b:
+        french: "Ils ont sauté de joie."
+        english: "They jumped for joy."
+      c:
+        french: "Sautant de joie à l'annonce, elle embrassa tout le monde."
+        english: "Jumping for joy at the announcement, she hugged everyone."
+
+  - idiom: "rayonner de bonheur"
+    literal: "to radiate with happiness"
+    meaning: "to beam with happiness"
+    difficulty: 43
+    frequency: 45
+    context: "general"
+    register: "neutral"
+    category: "joy"
+    examples:
+      a:
+        french: "Elle rayonne de bonheur."
+        english: "She's beaming with happiness."
+      b:
+        french: "Il rayonnait de bonheur."
+        english: "He was beaming with happiness."
+      c:
+        french: "Rayonnant de bonheur le jour de son mariage, elle était magnifique."
+        english: "Beaming with happiness on her wedding day, she was beautiful."
+
+  - idiom: "avoir le cœur brisé"
+    literal: "to have the heart broken"
+    meaning: "to be heartbroken"
+    difficulty: 38
+    frequency: 40
+    context: "general"
+    register: "neutral"
+    category: "sorrow"
+    examples:
+      a:
+        french: "Elle a le cœur brisé."
+        english: "She's heartbroken."
+      b:
+        french: "Il avait le cœur brisé."
+        english: "He was heartbroken."
+      c:
+        french: "Ayant le cœur brisé après la rupture, elle pleura des jours."
+        english: "Being heartbroken after the breakup, she cried for days."
+
+  - idiom: "pleurer toutes les larmes de son corps"
+    literal: "to cry all the tears of one's body"
+    meaning: "to cry one's eyes out"
+    difficulty: 57
+    frequency: 59
+    context: "general"
+    register: "neutral"
+    category: "sorrow"
+    examples:
+      a:
+        french: "Elle a pleuré toutes les larmes de son corps."
+        english: "She cried her eyes out."
+      b:
+        french: "Il pleurait toutes les larmes de son corps."
+        english: "He was crying his eyes out."
+      c:
+        french: "Pleurant toutes les larmes de son corps, elle ne put se consoler."
+        english: "Crying her eyes out, she couldn't be consoled."
+
+  # CALM & AGITATION IDIOMS
+  - idiom: "garder son calme"
+    literal: "to keep one's calm"
+    meaning: "to keep one's cool"
+    difficulty: 30
+    frequency: 28
+    context: "general"
+    register: "neutral"
+    category: "calm"
+    examples:
+      a:
+        french: "Il faut garder son calme."
+        english: "We must keep our cool."
+      b:
+        french: "Elle garde toujours son calme."
+        english: "She always keeps her cool."
+      c:
+        french: "Gardant son calme malgré la provocation, il évita l'escalade."
+        english: "Keeping his cool despite the provocation, he avoided escalation."
+
+  - idiom: "rester de marbre"
+    literal: "to remain of marble"
+    meaning: "to remain impassive"
+    difficulty: 55
+    frequency: 57
+    context: "general"
+    register: "neutral"
+    category: "calm"
+    examples:
+      a:
+        french: "Il est resté de marbre."
+        english: "He remained impassive."
+      b:
+        french: "Elle reste de marbre face aux critiques."
+        english: "She remains impassive in the face of criticism."
+      c:
+        french: "Restant de marbre durant l'interrogatoire, il ne révéla rien."
+        english: "Remaining impassive during questioning, he revealed nothing."
+
+  - idiom: "perdre son sang-froid"
+    literal: "to lose one's cold blood"
+    meaning: "to lose one's composure"
+    difficulty: 46
+    frequency: 48
+    context: "general"
+    register: "neutral"
+    category: "agitation"
+    examples:
+      a:
+        french: "Il a perdu son sang-froid."
+        english: "He lost his composure."
+      b:
+        french: "Ne perds pas ton sang-froid."
+        english: "Don't lose your composure."
+      c:
+        french: "Perdant son sang-froid sous la pression, il commit une erreur."
+        english: "Losing his composure under pressure, he made a mistake."
+
+  - idiom: "être sur les nerfs"
+    literal: "to be on the nerves"
+    meaning: "to be on edge"
+    difficulty: 44
+    frequency: 46
+    context: "general"
+    register: "informal"
+    category: "agitation"
+    examples:
+      a:
+        french: "Je suis sur les nerfs."
+        english: "I'm on edge."
+      b:
+        french: "Il est sur les nerfs en ce moment."
+        english: "He's on edge at the moment."
+      c:
+        french: "Étant sur les nerfs avant l'examen, elle dormait mal."
+        english: "Being on edge before the exam, she slept poorly."
+
+  # SINCERITY & HYPOCRISY IDIOMS
+  - idiom: "parler franchement"
+    literal: "to speak frankly"
+    meaning: "to speak frankly"
+    difficulty: 31
+    frequency: 29
+    context: "general"
+    register: "neutral"
+    category: "sincerity"
+    examples:
+      a:
+        french: "Je vais te parler franchement."
+        english: "I'm going to speak frankly to you."
+      b:
+        french: "Il parle toujours franchement."
+        english: "He always speaks frankly."
+      c:
+        french: "Parlant franchement, il gagna la confiance de tous."
+        english: "Speaking frankly, he gained everyone's trust."
+
+  - idiom: "jouer cartes sur table"
+    literal: "to play cards on table"
+    meaning: "to put one's cards on the table"
+    difficulty: 53
+    frequency: 55
+    context: "general"
+    register: "neutral"
+    category: "sincerity"
+    examples:
+      a:
+        french: "Il faut jouer cartes sur table."
+        english: "We must put our cards on the table."
+      b:
+        french: "Elle joue cartes sur table."
+        english: "She puts her cards on the table."
+      c:
+        french: "Jouant cartes sur table dès le début, il établit une relation honnête."
+        english: "Putting his cards on the table from the start, he established an honest relationship."
+
+  - idiom: "jouer la comédie"
+    literal: "to play the comedy"
+    meaning: "to put on an act"
+    difficulty: 42
+    frequency: 44
+    context: "general"
+    register: "informal"
+    category: "hypocrisy"
+    examples:
+      a:
+        french: "Il joue la comédie."
+        english: "He's putting on an act."
+      b:
+        french: "Arrête de jouer la comédie."
+        english: "Stop putting on an act."
+      c:
+        french: "Jouant la comédie pour obtenir ce qu'il voulait, il fut démasqué."
+        english: "Putting on an act to get what he wanted, he was unmasked."
+
+  - idiom: "avoir deux visages"
+    literal: "to have two faces"
+    meaning: "to be two-faced"
+    difficulty: 45
+    frequency: 47
+    context: "general"
+    register: "informal"
+    category: "hypocrisy"
+    examples:
+      a:
+        french: "Il a deux visages."
+        english: "He's two-faced."
+      b:
+        french: "Cette personne a deux visages."
+        english: "This person is two-faced."
+      c:
+        french: "Ayant deux visages, elle perdit la confiance de ses amis."
+        english: "Being two-faced, she lost her friends' trust."
+
+  # GENEROSITY & SELFISHNESS IDIOMS
+  - idiom: "avoir le cœur sur la main"
+    literal: "to have the heart on the hand"
+    meaning: "to have a heart of gold"
+    difficulty: 54
+    frequency: 56
+    context: "general"
+    register: "neutral"
+    category: "generosity"
+    examples:
+      a:
+        french: "Elle a le cœur sur la main."
+        english: "She has a heart of gold."
+      b:
+        french: "Il a toujours eu le cœur sur la main."
+        english: "He's always had a heart of gold."
+      c:
+        french: "Ayant le cœur sur la main, elle aidait tous ceux dans le besoin."
+        english: "Having a heart of gold, she helped all those in need."
+
+  - idiom: "donner sans compter"
+    literal: "to give without counting"
+    meaning: "to give generously"
+    difficulty: 47
+    frequency: 49
+    context: "general"
+    register: "neutral"
+    category: "generosity"
+    examples:
+      a:
+        french: "Il donne sans compter."
+        english: "He gives generously."
+      b:
+        french: "Elle a toujours donné sans compter."
+        english: "She's always given generously."
+      c:
+        french: "Donnant sans compter toute sa vie, il mourut pauvre mais respecté."
+        english: "Giving generously all his life, he died poor but respected."
+
+  - idiom: "penser qu'à soi"
+    literal: "to think only of oneself"
+    meaning: "to think only of oneself"
+    difficulty: 26
+    frequency: 24
+    context: "general"
+    register: "informal"
+    category: "selfishness"
+    examples:
+      a:
+        french: "Il ne pense qu'à lui."
+        english: "He thinks only of himself."
+      b:
+        french: "Elle pense qu'à elle."
+        english: "She thinks only of herself."
+      c:
+        french: "Pensant qu'à lui, il aliéna tous ses amis."
+        english: "Thinking only of himself, he alienated all his friends."
+
+  - idiom: "tirer la couverture à soi"
+    literal: "to pull the blanket to oneself"
+    meaning: "to hog the limelight"
+    difficulty: 58
+    frequency: 60
+    context: "general"
+    register: "informal"
+    category: "selfishness"
+    examples:
+      a:
+        french: "Il tire la couverture à lui."
+        english: "He's hogging the limelight."
+      b:
+        french: "Ne tire pas la couverture à toi."
+        english: "Don't hog the limelight."
+      c:
+        french: "Tirant la couverture à lui lors du succès collectif, il s'attira l'hostilité."
+        english: "Hogging the limelight during the collective success, he drew hostility."
+
+  # GRATITUDE & INGRATITUDE IDIOMS
+  - idiom: "être reconnaissant"
+    literal: "to be grateful"
+    meaning: "to be grateful"
+    difficulty: 28
+    frequency: 26
+    context: "general"
+    register: "neutral"
+    category: "gratitude"
+    examples:
+      a:
+        french: "Je te suis reconnaissant."
+        english: "I'm grateful to you."
+      b:
+        french: "Elle est reconnaissante."
+        english: "She's grateful."
+      c:
+        french: "Étant reconnaissante de l'aide reçue, elle offrit un cadeau."
+        english: "Being grateful for the help received, she offered a gift."
+
+  - idiom: "rendre grâce"
+    literal: "to render grace"
+    meaning: "to give thanks"
+    difficulty: 50
+    frequency: 52
+    context: "general"
+    register: "formal"
+    category: "gratitude"
+    examples:
+      a:
+        french: "Il faut rendre grâce."
+        english: "We must give thanks."
+      b:
+        french: "Ils rendent grâce pour cette bénédiction."
+        english: "They give thanks for this blessing."
+      c:
+        french: "Rendant grâce pour sa guérison, il fit un don généreux."
+        english: "Giving thanks for his recovery, he made a generous donation."
+
+  - idiom: "cracher dans la soupe"
+    literal: "to spit in the soup"
+    meaning: "to bite the hand that feeds you"
+    difficulty: 59
+    frequency: 61
+    context: "general"
+    register: "informal"
+    category: "ingratitude"
+    examples:
+      a:
+        french: "Il crache dans la soupe."
+        english: "He's biting the hand that feeds him."
+      b:
+        french: "Ne crache pas dans la soupe."
+        english: "Don't bite the hand that feeds you."
+      c:
+        french: "Crachant dans la soupe après avoir profité du système, il fut critiqué."
+        english: "Biting the hand that fed him after benefiting from the system, he was criticized."
+
+  - idiom: "mordre la main qui te nourrit"
+    literal: "to bite the hand that feeds you"
+    meaning: "to bite the hand that feeds you"
+    difficulty: 48
+    frequency: 50
+    context: "general"
+    register: "neutral"
+    category: "ingratitude"
+    examples:
+      a:
+        french: "Il mord la main qui le nourrit."
+        english: "He's biting the hand that feeds him."
+      b:
+        french: "Ne mords pas la main qui te nourrit."
+        english: "Don't bite the hand that feeds you."
+      c:
+        french: "Mordant la main qui le nourrissait, il perdit tout soutien."
+        english: "Biting the hand that fed him, he lost all support."
+
+  # ACCEPTANCE & REJECTION MORE IDIOMS
+  - idiom: "accepter de bon cœur"
+    literal: "to accept with good heart"
+    meaning: "to accept willingly"
+    difficulty: 37
+    frequency: 39
+    context: "general"
+    register: "neutral"
+    category: "acceptance"
+    examples:
+      a:
+        french: "J'accepte de bon cœur."
+        english: "I accept willingly."
+      b:
+        french: "Il a accepté de bon cœur."
+        english: "He accepted willingly."
+      c:
+        french: "Acceptant de bon cœur la mission difficile, elle impressionna ses supérieurs."
+        english: "Accepting the difficult mission willingly, she impressed her superiors."
+
+  - idiom: "faire contre mauvaise fortune bon cœur"
+    literal: "to make against bad fortune good heart"
+    meaning: "to make the best of a bad situation"
+    difficulty: 62
+    frequency: 64
+    context: "general"
+    register: "formal"
+    category: "acceptance"
+    examples:
+      a:
+        french: "Il fait contre mauvaise fortune bon cœur."
+        english: "He's making the best of a bad situation."
+      b:
+        french: "Elle fait contre mauvaise fortune bon cœur."
+        english: "She's making the best of a bad situation."
+      c:
+        french: "Faisant contre mauvaise fortune bon cœur, ils maintinrent leur moral."
+        english: "Making the best of a bad situation, they maintained their morale."
+
+  - idiom: "refuser catégoriquement"
+    literal: "to refuse categorically"
+    meaning: "to flatly refuse"
+    difficulty: 39
+    frequency: 41
+    context: "general"
+    register: "neutral"
+    category: "rejection"
+    examples:
+      a:
+        french: "Il a refusé catégoriquement."
+        english: "He flatly refused."
+      b:
+        french: "Elle refuse catégoriquement."
+        english: "She flatly refuses."
+      c:
+        french: "Refusant catégoriquement la proposition, il mit fin aux négociations."
+        english: "Flatly refusing the proposal, he ended the negotiations."
+
+  - idiom: "opposer une fin de non-recevoir"
+    literal: "to oppose an end of non-receipt"
+    meaning: "to give a flat refusal"
+    difficulty: 63
+    frequency: 65
+    context: "general"
+    register: "formal"
+    category: "rejection"
+    examples:
+      a:
+        french: "Il a opposé une fin de non-recevoir."
+        english: "He gave a flat refusal."
+      b:
+        french: "Elle oppose une fin de non-recevoir."
+        english: "She's giving a flat refusal."
+      c:
+        french: "Opposant une fin de non-recevoir à toutes les demandes, il ferma la porte."
+        english: "Giving a flat refusal to all requests, he closed the door."
+
+  # APPROVAL & DISAPPROVAL MORE IDIOMS
+  - idiom: "donner son aval"
+    literal: "to give one's endorsement"
+    meaning: "to give one's approval"
+    difficulty: 49
+    frequency: 51
+    context: "general"
+    register: "neutral"
+    category: "approval"
+    examples:
+      a:
+        french: "Il a donné son aval."
+        english: "He gave his approval."
+      b:
+        french: "Elle donne son aval au projet."
+        english: "She's giving her approval to the project."
+      c:
+        french: "Donnant son aval après réflexion, il permit au projet de démarrer."
+        english: "Giving his approval after reflection, he allowed the project to start."
+
+  - idiom: "lever le pouce"
+    literal: "to raise the thumb"
+    meaning: "to give the thumbs up"
+    difficulty: 41
+    frequency: 43
+    context: "general"
+    register: "informal"
+    category: "approval"
+    examples:
+      a:
+        french: "Il a levé le pouce."
+        english: "He gave the thumbs up."
+      b:
+        french: "Elle lève le pouce."
+        english: "She's giving the thumbs up."
+      c:
+        french: "Levant le pouce, il signala son approbation."
+        english: "Giving the thumbs up, he signaled his approval."
+
+  - idiom: "désapprouver fortement"
+    literal: "to disapprove strongly"
+    meaning: "to strongly disapprove"
+    difficulty: 33
+    frequency: 35
+    context: "general"
+    register: "neutral"
+    category: "disapproval"
+    examples:
+      a:
+        french: "Je désapprouve fortement."
+        english: "I strongly disapprove."
+      b:
+        french: "Il désapprouve fortement cette décision."
+        english: "He strongly disapproves of this decision."
+      c:
+        french: "Désapprouvant fortement la mesure, elle organisa une protestation."
+        english: "Strongly disapproving of the measure, she organized a protest."
+
+  - idiom: "faire la moue"
+    literal: "to make the pout"
+    meaning: "to pout, show displeasure"
+    difficulty: 44
+    frequency: 46
+    context: "general"
+    register: "neutral"
+    category: "disapproval"
+    examples:
+      a:
+        french: "Elle fait la moue."
+        english: "She's pouting."
+      b:
+        french: "Il a fait la moue en entendant ça."
+        english: "He showed displeasure hearing that."
+      c:
+        french: "Faisant la moue devant la proposition, elle montra son désaccord."
+        english: "Pouting at the proposal, she showed her disagreement."
+  # FORGIVENESS & RESENTMENT IDIOMS
+  - idiom: "pardonner à quelqu'un"
+    literal: "to pardon someone"
+    meaning: "to forgive someone"
+    difficulty: 24
+    frequency: 22
+    context: "general"
+    register: "neutral"
+    category: "forgiveness"
+    examples:
+      a:
+        french: "Je te pardonne."
+        english: "I forgive you."
+      b:
+        french: "Il lui a pardonné."
+        english: "He forgave him."
+      c:
+        french: "Pardonnant à son ennemi, elle trouva la paix intérieure."
+        english: "Forgiving her enemy, she found inner peace."
+
+  - idiom: "passer l'éponge"
+    literal: "to pass the sponge"
+    meaning: "to wipe the slate clean"
+    difficulty: 56
+    frequency: 58
+    context: "general"
+    register: "informal"
+    category: "forgiveness"
+    examples:
+      a:
+        french: "Il faut passer l'éponge."
+        english: "We must wipe the slate clean."
+      b:
+        french: "Elle a passé l'éponge."
+        english: "She wiped the slate clean."
+      c:
+        french: "Passant l'éponge sur les erreurs passées, ils recommencèrent à neuf."
+        english: "Wiping the slate clean of past mistakes, they started afresh."
+
+  - idiom: "en vouloir à quelqu'un"
+    literal: "to want some to someone"
+    meaning: "to hold a grudge against someone"
+    difficulty: 36
+    frequency: 34
+    context: "general"
+    register: "neutral"
+    category: "resentment"
+    examples:
+      a:
+        french: "Je lui en veux."
+        english: "I hold a grudge against him."
+      b:
+        french: "Elle lui en veut encore."
+        english: "She still holds a grudge against him."
+      c:
+        french: "Lui en voulant pendant des années, elle finit par pardonner."
+        english: "Holding a grudge against him for years, she finally forgave."
+
+  - idiom: "garder rancune"
+    literal: "to keep rancor"
+    meaning: "to bear a grudge"
+    difficulty: 48
+    frequency: 50
+    context: "general"
+    register: "neutral"
+    category: "resentment"
+    examples:
+      a:
+        french: "Il garde rancune."
+        english: "He bears a grudge."
+      b:
+        french: "Ne garde pas rancune."
+        english: "Don't bear a grudge."
+      c:
+        french: "Gardant rancune toute sa vie, il ne put jamais oublier l'affront."
+        english: "Bearing a grudge all his life, he could never forget the affront."
+
+  # JEALOUSY & ENVY IDIOMS
+  - idiom: "être jaloux de"
+    literal: "to be jealous of"
+    meaning: "to be jealous of"
+    difficulty: 25
+    frequency: 23
+    context: "general"
+    register: "neutral"
+    category: "jealousy"
+    examples:
+      a:
+        french: "Il est jaloux de son frère."
+        english: "He's jealous of his brother."
+      b:
+        french: "Elle est jalouse de sa réussite."
+        english: "She's jealous of her success."
+      c:
+        french: "Étant jaloux de tous, il vivait dans l'amertume."
+        english: "Being jealous of everyone, he lived in bitterness."
+
+  - idiom: "verdir de jalousie"
+    literal: "to green with jealousy"
+    meaning: "to be green with envy"
+    difficulty: 54
+    frequency: 56
+    context: "general"
+    register: "informal"
+    category: "jealousy"
+    examples:
+      a:
+        french: "Elle verdit de jalousie."
+        english: "She's green with envy."
+      b:
+        french: "Il verdissait de jalousie."
+        english: "He was green with envy."
+      c:
+        french: "Verdissant de jalousie devant son succès, elle ne put se réjouir."
+        english: "Being green with envy at his success, she couldn't rejoice."
+
+  - idiom: "porter envie"
+    literal: "to carry envy"
+    meaning: "to envy"
+    difficulty: 42
+    frequency: 44
+    context: "general"
+    register: "neutral"
+    category: "envy"
+    examples:
+      a:
+        french: "Je lui porte envie."
+        english: "I envy him."
+      b:
+        french: "Elle porte envie à sa sœur."
+        english: "She envies her sister."
+      c:
+        french: "Portant envie à ses collègues, il ne trouvait pas la satisfaction."
+        english: "Envying his colleagues, he didn't find satisfaction."
+
+  - idiom: "crever de jalousie"
+    literal: "to burst with jealousy"
+    meaning: "to be consumed with jealousy"
+    difficulty: 51
+    frequency: 53
+    context: "general"
+    register: "informal"
+    category: "jealousy"
+    examples:
+      a:
+        french: "Il crève de jalousie."
+        english: "He's consumed with jealousy."
+      b:
+        french: "Elle crevait de jalousie."
+        english: "She was consumed with jealousy."
+      c:
+        french: "Crevant de jalousie, il sabota le projet de son rival."
+        english: "Being consumed with jealousy, he sabotaged his rival's project."
+
+  # DESIRE & AVERSION IDIOMS
+  - idiom: "avoir envie de"
+    literal: "to have envy of"
+    meaning: "to feel like, want"
+    difficulty: 18
+    frequency: 16
+    context: "general"
+    register: "neutral"
+    category: "desire"
+    examples:
+      a:
+        french: "J'ai envie de partir."
+        english: "I feel like leaving."
+      b:
+        french: "Elle a envie d'un café."
+        english: "She wants a coffee."
+      c:
+        french: "Ayant envie de changement, il démissionna et voyagea."
+        english: "Wanting change, he resigned and traveled."
+
+  - idiom: "mourir d'envie de"
+    literal: "to die of envy to"
+    meaning: "to be dying to"
+    difficulty: 40
+    frequency: 42
+    context: "general"
+    register: "informal"
+    category: "desire"
+    examples:
+      a:
+        french: "Je meurs d'envie de le voir."
+        english: "I'm dying to see him."
+      b:
+        french: "Elle meurt d'envie de voyager."
+        english: "She's dying to travel."
+      c:
+        french: "Mourant d'envie de connaître la vérité, elle enquêta."
+        english: "Dying to know the truth, she investigated."
+
+  - idiom: "ne pas pouvoir sentir"
+    literal: "not to be able to smell"
+    meaning: "can't stand"
+    difficulty: 47
+    frequency: 49
+    context: "general"
+    register: "informal"
+    category: "aversion"
+    examples:
+      a:
+        french: "Je ne peux pas le sentir."
+        english: "I can't stand him."
+      b:
+        french: "Elle ne peut pas sentir ce type."
+        english: "She can't stand that guy."
+      c:
+        french: "Ne pouvant pas le sentir, elle évitait tout contact."
+        english: "Not being able to stand him, she avoided all contact."
+
+  - idiom: "avoir en horreur"
+    literal: "to have in horror"
+    meaning: "to loathe, detest"
+    difficulty: 45
+    frequency: 47
+    context: "general"
+    register: "neutral"
+    category: "aversion"
+    examples:
+      a:
+        french: "J'ai ça en horreur."
+        english: "I loathe that."
+      b:
+        french: "Il a le mensonge en horreur."
+        english: "He detests lying."
+      c:
+        french: "Ayant l'injustice en horreur, elle devint avocate."
+        english: "Loathing injustice, she became a lawyer."
+
+  # INTEREST & INDIFFERENCE IDIOMS
+  - idiom: "s'intéresser à"
+    literal: "to interest oneself in"
+    meaning: "to be interested in"
+    difficulty: 22
+    frequency: 20
+    context: "general"
+    register: "neutral"
+    category: "interest"
+    examples:
+      a:
+        french: "Je m'intéresse à l'art."
+        english: "I'm interested in art."
+      b:
+        french: "Il s'intéresse à tout."
+        english: "He's interested in everything."
+      c:
+        french: "S'intéressant à la politique jeune, elle devint députée."
+        english: "Being interested in politics young, she became a representative."
+
+  - idiom: "être passionné par"
+    literal: "to be passioned by"
+    meaning: "to be passionate about"
+    difficulty: 29
+    frequency: 27
+    context: "general"
+    register: "neutral"
+    category: "interest"
+    examples:
+      a:
+        french: "Je suis passionné par la musique."
+        english: "I'm passionate about music."
+      b:
+        french: "Elle est passionnée par son travail."
+        english: "She's passionate about her work."
+      c:
+        french: "Étant passionné par l'astronomie, il passa des nuits à observer les étoiles."
+        english: "Being passionate about astronomy, he spent nights observing stars."
+
+  - idiom: "se moquer de"
+    literal: "to mock oneself of"
+    meaning: "not to care about"
+    difficulty: 31
+    frequency: 29
+    context: "general"
+    register: "informal"
+    category: "indifference"
+    examples:
+      a:
+        french: "Je m'en moque."
+        english: "I don't care."
+      b:
+        french: "Il se moque de l'opinion des autres."
+        english: "He doesn't care about others' opinions."
+      c:
+        french: "Se moquant des conventions, elle vivait librement."
+        english: "Not caring about conventions, she lived freely."
+
+  - idiom: "être indifférent à"
+    literal: "to be indifferent to"
+    meaning: "to be indifferent to"
+    difficulty: 33
+    frequency: 31
+    context: "general"
+    register: "neutral"
+    category: "indifference"
+    examples:
+      a:
+        french: "Il est indifférent à tout."
+        english: "He's indifferent to everything."
+      b:
+        french: "Elle reste indifférente."
+        english: "She remains indifferent."
+      c:
+        french: "Étant indifférent aux critiques, il poursuivit son chemin."
+        english: "Being indifferent to criticism, he continued on his path."
+
+  # CONCERN & WORRY MORE IDIOMS
+  - idiom: "se faire du souci"
+    literal: "to make oneself worry"
+    meaning: "to worry"
+    difficulty: 34
+    frequency: 32
+    context: "general"
+    register: "neutral"
+    category: "worry"
+    examples:
+      a:
+        french: "Je me fais du souci."
+        english: "I'm worried."
+      b:
+        french: "Elle se fait du souci pour lui."
+        english: "She's worried about him."
+      c:
+        french: "Se faisant du souci pour son fils, elle ne dormait plus."
+        english: "Worrying about her son, she no longer slept."
+
+  - idiom: "se ronger les sangs"
+    literal: "to gnaw one's bloods"
+    meaning: "to worry oneself sick"
+    difficulty: 60
+    frequency: 62
+    context: "general"
+    register: "informal"
+    category: "worry"
+    examples:
+      a:
+        french: "Elle se ronge les sangs."
+        english: "She's worrying herself sick."
+      b:
+        french: "Il se rongeait les sangs."
+        english: "He was worrying himself sick."
+      c:
+        french: "Se rongeant les sangs pendant des jours, elle tomba malade."
+        english: "Worrying herself sick for days, she fell ill."
+
+  - idiom: "avoir l'esprit tranquille"
+    literal: "to have the mind tranquil"
+    meaning: "to have peace of mind"
+    difficulty: 43
+    frequency: 45
+    context: "general"
+    register: "neutral"
+    category: "concern"
+    examples:
+      a:
+        french: "J'ai l'esprit tranquille."
+        english: "I have peace of mind."
+      b:
+        french: "Maintenant, elle a l'esprit tranquille."
+        english: "Now, she has peace of mind."
+      c:
+        french: "Ayant l'esprit tranquille après la résolution, il put se reposer."
+        english: "Having peace of mind after the resolution, he could rest."
+
+  - idiom: "ne pas en perdre le sommeil"
+    literal: "not to lose sleep over it"
+    meaning: "not to lose sleep over it"
+    difficulty: 46
+    frequency: 48
+    context: "general"
+    register: "informal"
+    category: "concern"
+    examples:
+      a:
+        french: "Je n'en perds pas le sommeil."
+        english: "I'm not losing sleep over it."
+      b:
+        french: "Il n'en perd pas le sommeil."
+        english: "He's not losing sleep over it."
+      c:
+        french: "N'en perdant pas le sommeil, il garda sa sérénité."
+        english: "Not losing sleep over it, he kept his serenity."
+
+  # SATISFACTION & DISSATISFACTION MORE IDIOMS
+  - idiom: "être satisfait de"
+    literal: "to be satisfied with"
+    meaning: "to be satisfied with"
+    difficulty: 26
+    frequency: 24
+    context: "general"
+    register: "neutral"
+    category: "satisfaction"
+    examples:
+      a:
+        french: "Je suis satisfait du résultat."
+        english: "I'm satisfied with the result."
+      b:
+        french: "Il est satisfait de son travail."
+        english: "He's satisfied with his work."
+      c:
+        french: "Étant satisfait de sa vie, il ne désirait rien de plus."
+        english: "Being satisfied with his life, he desired nothing more."
+
+  - idiom: "être comblé"
+    literal: "to be filled"
+    meaning: "to be fulfilled"
+    difficulty: 39
+    frequency: 41
+    context: "general"
+    register: "neutral"
+    category: "satisfaction"
+    examples:
+      a:
+        french: "Je suis comblé."
+        english: "I'm fulfilled."
+      b:
+        french: "Elle est comblée."
+        english: "She's fulfilled."
+      c:
+        french: "Étant comblé par sa famille, il ne manquait de rien."
+        english: "Being fulfilled by his family, he lacked nothing."
+
+  - idiom: "laisser à désirer"
+    literal: "to leave to desire"
+    meaning: "to leave much to be desired"
+    difficulty: 52
+    frequency: 54
+    context: "general"
+    register: "neutral"
+    category: "dissatisfaction"
+    examples:
+      a:
+        french: "Le service laisse à désirer."
+        english: "The service leaves much to be desired."
+      b:
+        french: "Son travail laisse à désirer."
+        english: "His work leaves much to be desired."
+      c:
+        french: "Laissant à désirer sur tous les plans, le projet fut abandonné."
+        english: "Leaving much to be desired on all fronts, the project was abandoned."
+
+  - idiom: "être mécontent de"
+    literal: "to be discontent with"
+    meaning: "to be unhappy with"
+    difficulty: 30
+    frequency: 28
+    context: "general"
+    register: "neutral"
+    category: "dissatisfaction"
+    examples:
+      a:
+        french: "Il est mécontent du résultat."
+        english: "He's unhappy with the result."
+      b:
+        french: "Je suis mécontent de cette situation."
+        english: "I'm unhappy with this situation."
+      c:
+        french: "Étant mécontent des conditions, il protesta vigoureusement."
+        english: "Being unhappy with the conditions, he protested vigorously."
+
+  # ENTHUSIASM & APATHY IDIOMS
+  - idiom: "être enthousiaste"
+    literal: "to be enthusiastic"
+    meaning: "to be enthusiastic"
+    difficulty: 27
+    frequency: 25
+    context: "general"
+    register: "neutral"
+    category: "enthusiasm"
+    examples:
+      a:
+        french: "Je suis enthousiaste à l'idée."
+        english: "I'm enthusiastic about the idea."
+      b:
+        french: "Il est très enthousiaste."
+        english: "He's very enthusiastic."
+      c:
+        french: "Étant enthousiaste, elle motiva toute l'équipe."
+        english: "Being enthusiastic, she motivated the whole team."
+
+  - idiom: "déborder d'énergie"
+    literal: "to overflow with energy"
+    meaning: "to be bursting with energy"
+    difficulty: 41
+    frequency: 43
+    context: "general"
+    register: "neutral"
+    category: "enthusiasm"
+    examples:
+      a:
+        french: "Il déborde d'énergie."
+        english: "He's bursting with energy."
+      b:
+        french: "Elle déborde d'énergie."
+        english: "She's bursting with energy."
+      c:
+        french: "Débordant d'énergie, il lançait projet après projet."
+        english: "Bursting with energy, he launched project after project."
+
+  - idiom: "manquer d'entrain"
+    literal: "to lack drive"
+    meaning: "to lack enthusiasm"
+    difficulty: 44
+    frequency: 46
+    context: "general"
+    register: "neutral"
+    category: "apathy"
+    examples:
+      a:
+        french: "Il manque d'entrain."
+        english: "He lacks enthusiasm."
+      b:
+        french: "L'équipe manque d'entrain."
+        english: "The team lacks enthusiasm."
+      c:
+        french: "Manquant d'entrain après l'échec, ils peinaient à se remotiver."
+        english: "Lacking enthusiasm after the failure, they struggled to remotivate themselves."
+
+  - idiom: "s'en ficher"
+    literal: "to not care about it"
+    meaning: "not to give a damn"
+    difficulty: 35
+    frequency: 37
+    context: "general"
+    register: "informal"
+    category: "apathy"
+    examples:
+      a:
+        french: "Je m'en fiche."
+        english: "I don't give a damn."
+      b:
+        french: "Il s'en fiche complètement."
+        english: "He doesn't give a damn at all."
+      c:
+        french: "S'en fichant totalement, il ne participa pas."
+        english: "Not giving a damn at all, he didn't participate."
+
+  # MOTIVATION & DISCOURAGEMENT IDIOMS
+  - idiom: "être motivé"
+    literal: "to be motivated"
+    meaning: "to be motivated"
+    difficulty: 23
+    frequency: 21
+    context: "general"
+    register: "neutral"
+    category: "motivation"
+    examples:
+      a:
+        french: "Je suis très motivé."
+        english: "I'm very motivated."
+      b:
+        french: "Elle est motivée pour réussir."
+        english: "She's motivated to succeed."
+      c:
+        french: "Étant motivé par le défi, il redoubla d'efforts."
+        english: "Being motivated by the challenge, he redoubled his efforts."
+
+  - idiom: "avoir la pêche"
+    literal: "to have the peach"
+    meaning: "to be full of energy"
+    difficulty: 53
+    frequency: 55
+    context: "general"
+    register: "informal"
+    category: "motivation"
+    examples:
+      a:
+        french: "J'ai la pêche aujourd'hui!"
+        english: "I'm full of energy today!"
+      b:
+        french: "Elle a toujours la pêche."
+        english: "She's always full of energy."
+      c:
+        french: "Ayant la pêche malgré les difficultés, elle inspira ses collègues."
+        english: "Being full of energy despite difficulties, she inspired her colleagues."
+
+  - idiom: "se décourager"
+    literal: "to discourage oneself"
+    meaning: "to get discouraged"
+    difficulty: 28
+    frequency: 26
+    context: "general"
+    register: "neutral"
+    category: "discouragement"
+    examples:
+      a:
+        french: "Ne te décourage pas."
+        english: "Don't get discouraged."
+      b:
+        french: "Il se décourage facilement."
+        english: "He gets discouraged easily."
+      c:
+        french: "Se décourageant après l'échec, il abandonna le projet."
+        english: "Getting discouraged after the failure, he abandoned the project."
+
+  - idiom: "baisser les bras"
+    literal: "to lower the arms"
+    meaning: "to give up"
+    difficulty: 42
+    frequency: 44
+    context: "general"
+    register: "informal"
+    category: "discouragement"
+    examples:
+      a:
+        french: "Il ne faut pas baisser les bras."
+        english: "We mustn't give up."
+      b:
+        french: "Elle a baissé les bras."
+        english: "She gave up."
+      c:
+        french: "Baissant les bras face aux obstacles, il perdit toute chance de réussir."
+        english: "Giving up in the face of obstacles, he lost all chance of success."
+  # AMBITION & MODESTY MORE IDIOMS
+  - idiom: "viser haut"
+    literal: "to aim high"
+    meaning: "to aim high"
+    difficulty: 32
+    frequency: 30
+    context: "general"
+    register: "neutral"
+    category: "ambition"
+    examples:
+      a:
+        french: "Il faut viser haut."
+        english: "We must aim high."
+      b:
+        french: "Elle vise toujours haut."
+        english: "She always aims high."
+      c:
+        french: "Visant haut dès le début, elle devint PDG à quarante ans."
+        english: "Aiming high from the start, she became CEO at forty."
+
+  - idiom: "avoir de grandes ambitions"
+    literal: "to have great ambitions"
+    meaning: "to be ambitious"
+    difficulty: 28
+    frequency: 26
+    context: "general"
+    register: "neutral"
+    category: "ambition"
+    examples:
+      a:
+        french: "Il a de grandes ambitions."
+        english: "He's ambitious."
+      b:
+        french: "Elle a toujours eu de grandes ambitions."
+        english: "She's always been ambitious."
+      c:
+        french: "Ayant de grandes ambitions, il n'hésita pas à prendre des risques."
+        english: "Being ambitious, he didn't hesitate to take risks."
+
+  - idiom: "rester modeste"
+    literal: "to remain modest"
+    meaning: "to stay modest"
+    difficulty: 29
+    frequency: 27
+    context: "general"
+    register: "neutral"
+    category: "modesty"
+    examples:
+      a:
+        french: "Il faut rester modeste."
+        english: "We must stay modest."
+      b:
+        french: "Il reste modeste malgré son succès."
+        english: "He stays modest despite his success."
+      c:
+        french: "Restant modeste toute sa vie, elle ne se vanta jamais."
+        english: "Staying modest all her life, she never bragged."
+
+  - idiom: "ne pas se vanter"
+    literal: "not to boast"
+    meaning: "not to brag"
+    difficulty: 31
+    frequency: 29
+    context: "general"
+    register: "neutral"
+    category: "modesty"
+    examples:
+      a:
+        french: "Il ne se vante jamais."
+        english: "He never brags."
+      b:
+        french: "Elle ne se vante pas de ses succès."
+        english: "She doesn't brag about her successes."
+      c:
+        french: "Ne se vantant jamais, il laissait ses actes parler."
+        english: "Never bragging, he let his actions speak."
+
+  # ADMIRATION & CONTEMPT IDIOMS
+  - idiom: "admirer quelqu'un"
+    literal: "to admire someone"
+    meaning: "to admire someone"
+    difficulty: 24
+    frequency: 22
+    context: "general"
+    register: "neutral"
+    category: "admiration"
+    examples:
+      a:
+        french: "Je l'admire beaucoup."
+        english: "I admire him a lot."
+      b:
+        french: "Elle admire son courage."
+        english: "She admires his courage."
+      c:
+        french: "Admirant ses mentors, elle suivit leurs conseils."
+        english: "Admiring her mentors, she followed their advice."
+
+  - idiom: "porter aux nues"
+    literal: "to carry to the clouds"
+    meaning: "to praise to the skies"
+    difficulty: 58
+    frequency: 60
+    context: "general"
+    register: "formal"
+    category: "admiration"
+    examples:
+      a:
+        french: "On le porte aux nues."
+        english: "He's praised to the skies."
+      b:
+        french: "La critique l'a porté aux nues."
+        english: "The critics praised him to the skies."
+      c:
+        french: "Porté aux nues après son exploit, il devint célèbre."
+        english: "Praised to the skies after his feat, he became famous."
+
+  - idiom: "mépriser quelqu'un"
+    literal: "to despise someone"
+    meaning: "to despise someone"
+    difficulty: 37
+    frequency: 39
+    context: "general"
+    register: "neutral"
+    category: "contempt"
+    examples:
+      a:
+        french: "Il le méprise."
+        english: "He despises him."
+      b:
+        french: "Elle méprise la lâcheté."
+        english: "She despises cowardice."
+      c:
+        french: "Méprisant ceux qui mentent, il rompit tout contact."
+        english: "Despising those who lie, he broke all contact."
+
+  - idiom: "regarder de haut"
+    literal: "to look from high"
+    meaning: "to look down on"
+    difficulty: 45
+    frequency: 47
+    context: "general"
+    register: "neutral"
+    category: "contempt"
+    examples:
+      a:
+        french: "Il regarde les autres de haut."
+        english: "He looks down on others."
+      b:
+        french: "Elle me regarde de haut."
+        english: "She looks down on me."
+      c:
+        french: "Regardant tout le monde de haut, il s'attira l'hostilité."
+        english: "Looking down on everyone, he drew hostility."
+
+  # RESPECT & DISRESPECT MORE IDIOMS
+  - idiom: "témoigner du respect"
+    literal: "to testify respect"
+    meaning: "to show respect"
+    difficulty: 41
+    frequency: 43
+    context: "general"
+    register: "formal"
+    category: "respect"
+    examples:
+      a:
+        french: "Il faut témoigner du respect."
+        english: "We must show respect."
+      b:
+        french: "Elle témoigne du respect à ses aînés."
+        english: "She shows respect to her elders."
+      c:
+        french: "Témoignant du respect à tous, il fut apprécié."
+        english: "Showing respect to everyone, he was appreciated."
+
+  - idiom: "traiter avec respect"
+    literal: "to treat with respect"
+    meaning: "to treat with respect"
+    difficulty: 26
+    frequency: 24
+    context: "general"
+    register: "neutral"
+    category: "respect"
+    examples:
+      a:
+        french: "Il faut le traiter avec respect."
+        english: "We must treat him with respect."
+      b:
+        french: "Elle traite tout le monde avec respect."
+        english: "She treats everyone with respect."
+      c:
+        french: "Traitant ses employés avec respect, il gagna leur loyauté."
+        english: "Treating his employees with respect, he gained their loyalty."
+
+  - idiom: "manquer de respect"
+    literal: "to lack respect"
+    meaning: "to be disrespectful"
+    difficulty: 33
+    frequency: 31
+    context: "general"
+    register: "neutral"
+    category: "disrespect"
+    examples:
+      a:
+        french: "Il manque de respect."
+        english: "He's disrespectful."
+      b:
+        french: "Tu manques de respect."
+        english: "You're being disrespectful."
+      c:
+        french: "Manquant de respect à ses supérieurs, il fut sanctionné."
+        english: "Being disrespectful to his superiors, he was sanctioned."
+
+  - idiom: "se moquer ouvertement"
+    literal: "to mock openly"
+    meaning: "to openly mock"
+    difficulty: 38
+    frequency: 40
+    context: "general"
+    register: "neutral"
+    category: "disrespect"
+    examples:
+      a:
+        french: "Il se moque ouvertement d'eux."
+        english: "He openly mocks them."
+      b:
+        french: "Elle se moque ouvertement des règles."
+        english: "She openly mocks the rules."
+      c:
+        french: "Se moquant ouvertement de l'autorité, il fut renvoyé."
+        english: "Openly mocking authority, he was fired."
+
+  # OBEDIENCE & REBELLION IDIOMS
+  - idiom: "obéir à"
+    literal: "to obey"
+    meaning: "to obey"
+    difficulty: 25
+    frequency: 23
+    context: "general"
+    register: "neutral"
+    category: "obedience"
+    examples:
+      a:
+        french: "Il faut obéir aux règles."
+        english: "We must obey the rules."
+      b:
+        french: "Elle obéit toujours."
+        english: "She always obeys."
+      c:
+        french: "Obéissant aux ordres, il exécuta la mission."
+        english: "Obeying orders, he executed the mission."
+
+  - idiom: "se plier à"
+    literal: "to fold oneself to"
+    meaning: "to comply with"
+    difficulty: 46
+    frequency: 48
+    context: "general"
+    register: "neutral"
+    category: "obedience"
+    examples:
+      a:
+        french: "Il faut se plier aux règles."
+        english: "We must comply with the rules."
+      b:
+        french: "Elle se plie à la discipline."
+        english: "She complies with discipline."
+      c:
+        french: "Se pliant aux exigences, il évita le conflit."
+        english: "Complying with demands, he avoided conflict."
+
+  - idiom: "se rebeller contre"
+    literal: "to rebel against"
+    meaning: "to rebel against"
+    difficulty: 34
+    frequency: 36
+    context: "general"
+    register: "neutral"
+    category: "rebellion"
+    examples:
+      a:
+        french: "Il se rebelle contre l'autorité."
+        english: "He rebels against authority."
+      b:
+        french: "Elle se rebelle contre les règles."
+        english: "She rebels against the rules."
+      c:
+        french: "Se rebellant contre l'injustice, il mena la révolte."
+        english: "Rebelling against injustice, he led the revolt."
+
+  - idiom: "défier l'autorité"
+    literal: "to defy authority"
+    meaning: "to defy authority"
+    difficulty: 40
+    frequency: 42
+    context: "general"
+    register: "neutral"
+    category: "rebellion"
+    examples:
+      a:
+        french: "Il défie l'autorité."
+        english: "He defies authority."
+      b:
+        french: "Elle a défié l'autorité."
+        english: "She defied authority."
+      c:
+        french: "Défiant l'autorité ouvertement, il fut arrêté."
+        english: "Defying authority openly, he was arrested."
+
+  # SUBMISSION & RESISTANCE IDIOMS
+  - idiom: "se soumettre à"
+    literal: "to submit oneself to"
+    meaning: "to submit to"
+    difficulty: 43
+    frequency: 45
+    context: "general"
+    register: "neutral"
+    category: "submission"
+    examples:
+      a:
+        french: "Il se soumet à la loi."
+        english: "He submits to the law."
+      b:
+        french: "Elle refuse de se soumettre."
+        english: "She refuses to submit."
+      c:
+        french: "Se soumettant aux règles, il évita les problèmes."
+        english: "Submitting to the rules, he avoided problems."
+
+  - idiom: "courber l'échine"
+    literal: "to bend the spine"
+    meaning: "to bow down, submit"
+    difficulty: 59
+    frequency: 61
+    context: "general"
+    register: "neutral"
+    category: "submission"
+    examples:
+      a:
+        french: "Il refuse de courber l'échine."
+        english: "He refuses to bow down."
+      b:
+        french: "Elle a dû courber l'échine."
+        english: "She had to bow down."
+      c:
+        french: "Courbant l'échine devant le tyran, le peuple attendit son heure."
+        english: "Bowing down before the tyrant, the people bided their time."
+
+  - idiom: "tenir tête à"
+    literal: "to hold head to"
+    meaning: "to stand up to"
+    difficulty: 49
+    frequency: 51
+    context: "general"
+    register: "neutral"
+    category: "resistance"
+    examples:
+      a:
+        french: "Il lui tient tête."
+        english: "He's standing up to him."
+      b:
+        french: "Elle tient tête à son patron."
+        english: "She stands up to her boss."
+      c:
+        french: "Tenant tête au dictateur, ils risquèrent leur vie."
+        english: "Standing up to the dictator, they risked their lives."
+
+  - idiom: "résister à"
+    literal: "to resist"
+    meaning: "to resist"
+    difficulty: 27
+    frequency: 25
+    context: "general"
+    register: "neutral"
+    category: "resistance"
+    examples:
+      a:
+        french: "Il faut résister à la tentation."
+        english: "We must resist temptation."
+      b:
+        french: "Elle résiste à la pression."
+        english: "She resists pressure."
+      c:
+        french: "Résistant à l'oppression, ils luttèrent pour leur liberté."
+        english: "Resisting oppression, they fought for their freedom."
+
+  # CONFORMITY & ORIGINALITY IDIOMS
+  - idiom: "se conformer à"
+    literal: "to conform to"
+    meaning: "to conform to"
+    difficulty: 42
+    frequency: 44
+    context: "general"
+    register: "neutral"
+    category: "conformity"
+    examples:
+      a:
+        french: "Il se conforme aux règles."
+        english: "He conforms to the rules."
+      b:
+        french: "Elle se conforme aux normes."
+        english: "She conforms to standards."
+      c:
+        french: "Se conformant strictement aux procédures, il évita les erreurs."
+        english: "Conforming strictly to procedures, he avoided errors."
+
+  - idiom: "rentrer dans le moule"
+    literal: "to enter the mold"
+    meaning: "to fit the mold"
+    difficulty: 54
+    frequency: 56
+    context: "general"
+    register: "informal"
+    category: "conformity"
+    examples:
+      a:
+        french: "Il refuse de rentrer dans le moule."
+        english: "He refuses to fit the mold."
+      b:
+        french: "Elle ne rentre pas dans le moule."
+        english: "She doesn't fit the mold."
+      c:
+        french: "Refusant de rentrer dans le moule, elle créa son propre chemin."
+        english: "Refusing to fit the mold, she created her own path."
+
+  - idiom: "se démarquer"
+    literal: "to unmark oneself"
+    meaning: "to stand out"
+    difficulty: 39
+    frequency: 41
+    context: "general"
+    register: "neutral"
+    category: "originality"
+    examples:
+      a:
+        french: "Il faut se démarquer."
+        english: "We must stand out."
+      b:
+        french: "Elle se démarque par son talent."
+        english: "She stands out with her talent."
+      c:
+        french: "Se démarquant de la concurrence, l'entreprise prospéra."
+        english: "Standing out from the competition, the company prospered."
+
+  - idiom: "avoir son propre style"
+    literal: "to have one's own style"
+    meaning: "to have one's own style"
+    difficulty: 30
+    frequency: 28
+    context: "general"
+    register: "neutral"
+    category: "originality"
+    examples:
+      a:
+        french: "Il a son propre style."
+        english: "He has his own style."
+      b:
+        french: "Elle a toujours eu son propre style."
+        english: "She's always had her own style."
+      c:
+        french: "Ayant son propre style unique, elle devint une icône."
+        english: "Having her own unique style, she became an icon."
+
+  # FLEXIBILITY & RIGIDITY IDIOMS
+  - idiom: "faire preuve de souplesse"
+    literal: "to show suppleness"
+    meaning: "to be flexible"
+    difficulty: 47
+    frequency: 49
+    context: "general"
+    register: "neutral"
+    category: "flexibility"
+    examples:
+      a:
+        french: "Il faut faire preuve de souplesse."
+        english: "We must be flexible."
+      b:
+        french: "Elle fait preuve de souplesse."
+        english: "She's being flexible."
+      c:
+        french: "Faisant preuve de souplesse, il s'adapta aux changements."
+        english: "Being flexible, he adapted to changes."
+
+  - idiom: "s'adapter aux circonstances"
+    literal: "to adapt to circumstances"
+    meaning: "to adapt to circumstances"
+    difficulty: 35
+    frequency: 37
+    context: "general"
+    register: "neutral"
+    category: "flexibility"
+    examples:
+      a:
+        french: "Il faut s'adapter aux circonstances."
+        english: "We must adapt to circumstances."
+      b:
+        french: "Elle s'adapte toujours aux circonstances."
+        english: "She always adapts to circumstances."
+      c:
+        french: "S'adaptant aux circonstances, il survécut à la crise."
+        english: "Adapting to circumstances, he survived the crisis."
+
+  - idiom: "être rigide"
+    literal: "to be rigid"
+    meaning: "to be rigid, inflexible"
+    difficulty: 32
+    frequency: 34
+    context: "general"
+    register: "neutral"
+    category: "rigidity"
+    examples:
+      a:
+        french: "Il est trop rigide."
+        english: "He's too rigid."
+      b:
+        french: "Elle est rigide sur les principes."
+        english: "She's rigid on principles."
+      c:
+        french: "Étant rigide dans son approche, il rata des opportunités."
+        english: "Being rigid in his approach, he missed opportunities."
+
+  - idiom: "camper sur ses positions"
+    literal: "to camp on one's positions"
+    meaning: "to stick to one's guns"
+    difficulty: 56
+    frequency: 58
+    context: "general"
+    register: "neutral"
+    category: "rigidity"
+    examples:
+      a:
+        french: "Il campe sur ses positions."
+        english: "He's sticking to his guns."
+      b:
+        french: "Elle campe sur ses positions."
+        english: "She's sticking to her guns."
+      c:
+        french: "Campant sur ses positions, il refusa tout compromis."
+        english: "Sticking to his guns, he refused any compromise."
+  # OPENNESS & CLOSEDNESS IDIOMS
+  - idiom: "être ouvert d'esprit"
+    literal: "to be open of mind"
+    meaning: "to be open-minded"
+    difficulty: 36
+    frequency: 34
+    context: "general"
+    register: "neutral"
+    category: "openness"
+    examples:
+      a:
+        french: "Il est ouvert d'esprit."
+        english: "He's open-minded."
+      b:
+        french: "Elle est très ouverte d'esprit."
+        english: "She's very open-minded."
+      c:
+        french: "Étant ouvert d'esprit, il accepta les nouvelles idées."
+        english: "Being open-minded, he accepted new ideas."
+
+  - idiom: "avoir l'esprit large"
+    literal: "to have the mind large"
+    meaning: "to be broad-minded"
+    difficulty: 44
+    frequency: 46
+    context: "general"
+    register: "neutral"
+    category: "openness"
+    examples:
+      a:
+        french: "Il a l'esprit large."
+        english: "He's broad-minded."
+      b:
+        french: "Elle a toujours eu l'esprit large."
+        english: "She's always been broad-minded."
+      c:
+        french: "Ayant l'esprit large, il tolérait toutes les opinions."
+        english: "Being broad-minded, he tolerated all opinions."
+
+  - idiom: "être fermé d'esprit"
+    literal: "to be closed of mind"
+    meaning: "to be closed-minded"
+    difficulty: 38
+    frequency: 40
+    context: "general"
+    register: "neutral"
+    category: "closedness"
+    examples:
+      a:
+        french: "Il est fermé d'esprit."
+        english: "He's closed-minded."
+      b:
+        french: "Elle est trop fermée d'esprit."
+        english: "She's too closed-minded."
+      c:
+        french: "Étant fermé d'esprit, il rejeta toute innovation."
+        english: "Being closed-minded, he rejected all innovation."
+
+  - idiom: "avoir des œillères"
+    literal: "to have blinders"
+    meaning: "to have blinders on"
+    difficulty: 52
+    frequency: 54
+    context: "general"
+    register: "neutral"
+    category: "closedness"
+    examples:
+      a:
+        french: "Il a des œillères."
+        english: "He has blinders on."
+      b:
+        french: "Elle a des œillères."
+        english: "She has blinders on."
+      c:
+        french: "Ayant des œillères, il ne vit pas les signaux d'alerte."
+        english: "Having blinders on, he didn't see the warning signs."
+
+  # CURIOSITY & DISINTEREST MORE IDIOMS
+  - idiom: "être curieux de"
+    literal: "to be curious of"
+    meaning: "to be curious about"
+    difficulty: 27
+    frequency: 25
+    context: "general"
+    register: "neutral"
+    category: "curiosity"
+    examples:
+      a:
+        french: "Je suis curieux de savoir."
+        english: "I'm curious to know."
+      b:
+        french: "Elle est curieuse de tout."
+        english: "She's curious about everything."
+      c:
+        french: "Étant curieux de nature, il posait beaucoup de questions."
+        english: "Being curious by nature, he asked many questions."
+
+  - idiom: "avoir soif de connaissance"
+    literal: "to have thirst for knowledge"
+    meaning: "to thirst for knowledge"
+    difficulty: 48
+    frequency: 50
+    context: "general"
+    register: "neutral"
+    category: "curiosity"
+    examples:
+      a:
+        french: "Il a soif de connaissance."
+        english: "He thirsts for knowledge."
+      b:
+        french: "Elle a toujours eu soif de connaissance."
+        english: "She's always thirsted for knowledge."
+      c:
+        french: "Ayant soif de connaissance, elle lisait sans cesse."
+        english: "Thirsting for knowledge, she read constantly."
+
+  - idiom: "n'avoir aucun intérêt pour"
+    literal: "to have no interest for"
+    meaning: "to have no interest in"
+    difficulty: 31
+    frequency: 29
+    context: "general"
+    register: "neutral"
+    category: "disinterest"
+    examples:
+      a:
+        french: "Il n'a aucun intérêt pour ça."
+        english: "He has no interest in that."
+      b:
+        french: "Elle n'a aucun intérêt pour le sport."
+        english: "She has no interest in sports."
+      c:
+        french: "N'ayant aucun intérêt pour la politique, il ne votait jamais."
+        english: "Having no interest in politics, he never voted."
+
+  - idiom: "se désintéresser de"
+    literal: "to disinterest oneself from"
+    meaning: "to lose interest in"
+    difficulty: 40
+    frequency: 42
+    context: "general"
+    register: "neutral"
+    category: "disinterest"
+    examples:
+      a:
+        french: "Il s'est désintéressé du projet."
+        english: "He lost interest in the project."
+      b:
+        french: "Elle se désintéresse de tout."
+        english: "She's losing interest in everything."
+      c:
+        french: "Se désintéressant de son travail, il devint improductif."
+        english: "Losing interest in his work, he became unproductive."
