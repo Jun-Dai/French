@@ -212,6 +212,184 @@ function formatOutput(idioms, template) {
   return output.join('\n');
 }
 
+// Escape special LaTeX characters
+function escapeLatex(text) {
+  if (!text) return '';
+  return text
+    .replace(/\\/g, '\\textbackslash{}')
+    .replace(/[&%$#_{}]/g, '\\$&')
+    .replace(/~/g, '\\textasciitilde{}')
+    .replace(/\^/g, '\\textasciicircum{}')
+    .replace(/\n/g, '\n\n'); // Double newline for paragraph breaks
+}
+
+// Generate LaTeX document from idioms
+function generateLatex(idioms) {
+  const latex = `\\documentclass[11pt,a4paper]{article}
+\\usepackage{fontspec}
+\\usepackage[french]{babel}
+\\usepackage[margin=1in]{geometry}
+\\usepackage{fancyhdr}
+\\usepackage{xcolor}
+\\usepackage{enumitem}
+
+% Try to use a nice font, fall back to defaults if not available
+\\IfFontExistsTF{Linux Libertine O}{
+  \\setmainfont{Linux Libertine O}
+}{
+  \\setmainfont{Latin Modern Roman}
+}
+
+% Page setup
+\\pagestyle{fancy}
+\\fancyhf{}
+\\fancyhead[L]{\\textit{Expressions Françaises}}
+\\fancyhead[R]{\\thepage}
+\\renewcommand{\\headrulewidth}{0.4pt}
+
+% Colors
+\\definecolor{idiomcolor}{RGB}{44, 62, 80}
+\\definecolor{literalcolor}{RGB}{127, 140, 141}
+\\definecolor{metacolor}{RGB}{52, 73, 94}
+
+% Custom section formatting
+\\usepackage{titlesec}
+\\titleformat{\\section}
+  {\\Large\\bfseries\\color{idiomcolor}}
+  {}{0em}{}[\\vspace{-0.5em}\\rule{\\textwidth}{0.4pt}]
+\\titlespacing*{\\section}{0pt}{1.5em}{0.5em}
+
+% Document
+\\begin{document}
+
+% Title page
+\\begin{titlepage}
+  \\centering
+  \\vspace*{2cm}
+  {\\Huge\\bfseries Expressions Françaises\\par}
+  \\vspace{1cm}
+  {\\Large Une collection de ${idioms.length} expressions idiomatiques\\par}
+  \\vspace{2cm}
+  {\\large Niveau: B2--C2+\\par}
+  \\vfill
+  {\\large \\today\\par}
+\\end{titlepage}
+
+\\tableofcontents
+\\newpage
+
+${idioms.map((idiom, idx) => `
+\\section{${escapeLatex(idiom.idiom)}}
+
+{\\color{literalcolor}\\textit{${escapeLatex(idiom.literal)}}}
+
+\\vspace{0.5em}
+
+\\textbf{Signification:} ${escapeLatex(idiom.meaning)}
+
+\\vspace{0.5em}
+
+{\\small\\color{metacolor}
+\\textbf{Difficulté:} ${idiom.difficulty}/100 \\quad
+\\textbf{Fréquence:} ${idiom.frequency}/100 \\quad
+\\textbf{Registre:} ${escapeLatex(idiom.register)} \\quad
+\\textbf{Contexte:} ${escapeLatex(idiom.context)}
+${idiom.category ? `\\quad \\textbf{Catégorie:} ${escapeLatex(idiom.category)}` : ''}
+}
+
+\\vspace{0.5em}
+
+\\textbf{Exemples:}
+
+\\begin{enumerate}[leftmargin=*, label=\\textbf{\\alph*.}, itemsep=0.3em]
+${idiom.examples.a ? `
+  \\item \\textit{${escapeLatex(idiom.examples.a.french)}}
+
+  ${escapeLatex(idiom.examples.a.english)}
+` : ''}
+${idiom.examples.b ? `
+  \\item \\textit{${escapeLatex(idiom.examples.b.french)}}
+
+  ${escapeLatex(idiom.examples.b.english)}
+` : ''}
+${idiom.examples.c ? `
+  \\item \\textit{${escapeLatex(idiom.examples.c.french)}}
+
+  ${escapeLatex(idiom.examples.c.english)}
+` : ''}
+\\end{enumerate}
+
+${idx < idioms.length - 1 ? '\\vspace{1em}\n' : ''}
+`).join('\n')}
+
+\\end{document}`;
+
+  return latex;
+}
+
+// Generate PDF using XeLaTeX
+function generatePDF(idioms, outputPath) {
+  const fs = require('fs');
+  const { execSync } = require('child_process');
+  const path = require('path');
+
+  // Check if xelatex is available
+  try {
+    execSync('which xelatex', { stdio: 'ignore' });
+  } catch (error) {
+    console.error('Error: XeLaTeX is not installed.');
+    console.error('');
+    console.error('To install on Ubuntu/Debian:');
+    console.error('  sudo apt-get install texlive-xetex texlive-lang-french texlive-fonts-recommended');
+    console.error('');
+    console.error('To install on macOS:');
+    console.error('  brew install --cask mactex-no-gui');
+    process.exit(1);
+  }
+
+  // Generate LaTeX source
+  const latex = generateLatex(idioms);
+  const tempDir = fs.mkdtempSync('/tmp/idioms-');
+  const texPath = path.join(tempDir, 'idioms.tex');
+  const pdfPath = path.join(tempDir, 'idioms.pdf');
+
+  try {
+    // Write LaTeX file
+    fs.writeFileSync(texPath, latex, 'utf8');
+
+    console.log('Generating PDF...');
+    console.log(`Processing ${idioms.length} idioms...`);
+
+    // Compile LaTeX (run twice for TOC)
+    console.log('Running XeLaTeX (first pass)...');
+    execSync(`xelatex -interaction=nonstopmode -output-directory=${tempDir} ${texPath}`, {
+      stdio: 'ignore'
+    });
+
+    console.log('Running XeLaTeX (second pass for table of contents)...');
+    execSync(`xelatex -interaction=nonstopmode -output-directory=${tempDir} ${texPath}`, {
+      stdio: 'ignore'
+    });
+
+    // Move PDF to output location
+    fs.copyFileSync(pdfPath, outputPath);
+
+    console.log(`✓ PDF generated successfully: ${outputPath}`);
+    console.log(`  Total pages: ~${Math.ceil(idioms.length / 2)}`);
+
+  } catch (error) {
+    console.error('Error generating PDF:', error.message);
+    process.exit(1);
+  } finally {
+    // Cleanup temp files
+    try {
+      fs.rmSync(tempDir, { recursive: true, force: true });
+    } catch (e) {
+      // Ignore cleanup errors
+    }
+  }
+}
+
 // Main function
 function main() {
   const args = process.argv.slice(2);
@@ -222,6 +400,7 @@ function main() {
   let showCount = false;
   let jsonOutput = false;
   let ankiOutput = false;
+  let pdfOutput = null;
 
   // Parse arguments
   for (let i = 0; i < args.length; i++) {
@@ -239,6 +418,8 @@ function main() {
       jsonOutput = true;
     } else if (arg === '--anki') {
       ankiOutput = true;
+    } else if (arg === '--pdf') {
+      pdfOutput = args[++i];
     } else if (arg === '--full') {
       template = '**{i}**\n{l}\n{m}\n\nDifficulty: {d}/100 | Frequency: {f}/100\nRegister: {r} | Context: {ctx} | Category: {cat}\n\nExamples:\nA: {a}\n   {A}\n\nB: {b}\n   {B}\n\nC: {c}\n   {C}\n\n---\n';
     } else if (arg === '--def' || arg === '--with-def') {
@@ -281,6 +462,8 @@ Options:
   --count                  Show count of matching idioms
   --json                   Output as JSON
   --anki                   Output in Anki flashcard format
+  --pdf <filename>         Generate a beautifully formatted PDF document
+                           Requires: XeLaTeX (texlive-xetex)
   --full                   Print full details for each idiom
   --def, --with-def        Print idiom with definition and literal translation
   -h, --help               Show this help message
@@ -293,6 +476,8 @@ Examples:
   npm run idioms -f category:emotions -s diff -p '{i} (diff: {d})'
   npm run idioms --def
   npm run idioms -f diff:70-100 --full
+  npm run idioms --pdf idioms.pdf
+  npm run idioms -f freq:<30 -s alpha --pdf common-idioms.pdf
       `);
       process.exit(0);
     }
@@ -315,11 +500,17 @@ Examples:
   // Apply sorting
   idioms = sortIdioms(idioms, sortBy);
 
+  // Generate PDF if requested
+  if (pdfOutput) {
+    generatePDF(idioms, pdfOutput);
+    return;
+  }
+
   // Determine if we have no arguments at all
   const hasNoArgs = args.length === 0;
 
   // Determine if we should print idioms (default is yes, unless ONLY --count is specified)
-  const onlyCount = showCount && !jsonOutput && !ankiOutput && template === null && filters.length === 0 && sortBy === null;
+  const onlyCount = showCount && !jsonOutput && !ankiOutput && !pdfOutput && template === null && filters.length === 0 && sortBy === null;
 
   // Show count
   if (showCount) {
