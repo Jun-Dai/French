@@ -8010,3 +8010,2078 @@ ait des équations complexes avec aisance."
       c:
         french: "Ayant à cœur de préserver l'environnement, il changea radicalement son mode de vie."
         english: "Being keen to preserve the environment, he radically changed his lifestyle."
+  # LEARNING & TEACHING IDIOMS
+  - idiom: "apprendre par cœur"
+    literal: "to learn by heart"
+    meaning: "to learn by heart, memorize"
+    difficulty: 30
+    frequency: 28
+    context: "general"
+    register: "neutral"
+    category: "learning"
+    examples:
+      a:
+        french: "J'apprends ce poème par cœur."
+        english: "I'm learning this poem by heart."
+      b:
+        french: "Il a appris la leçon par cœur."
+        english: "He memorized the lesson."
+      c:
+        french: "Apprenant par cœur tous les verbes irréguliers, elle réussit brillamment l'examen."
+        english: "Memorizing all irregular verbs, she brilliantly passed the exam."
+
+  - idiom: "tirer une leçon de"
+    literal: "to draw a lesson from"
+    meaning: "to learn a lesson from"
+    difficulty: 42
+    frequency: 40
+    context: "general"
+    register: "neutral"
+    category: "learning"
+    examples:
+      a:
+        french: "Il faut tirer une leçon de cette erreur."
+        english: "We must learn a lesson from this mistake."
+      b:
+        french: "Elle a tiré une leçon de son échec."
+        english: "She learned a lesson from her failure."
+      c:
+        french: "Tirant une leçon de cette expérience douloureuse, il ne répéta jamais l'erreur."
+        english: "Learning a lesson from this painful experience, he never repeated the mistake."
+
+  - idiom: "enseigner quelque chose à quelqu'un"
+    literal: "to teach something to someone"
+    meaning: "to teach someone something"
+    difficulty: 25
+    frequency: 23
+    context: "general"
+    register: "neutral"
+    category: "teaching"
+    examples:
+      a:
+        french: "Elle m'enseigne le français."
+        english: "She teaches me French."
+      b:
+        french: "Il lui a enseigné la patience."
+        english: "He taught him patience."
+      c:
+        french: "Enseignant la musique depuis vingt ans, elle avait formé des centaines d'élèves."
+        english: "Teaching music for twenty years, she had trained hundreds of students."
+
+  - idiom: "être à bonne école"
+    literal: "to be at good school"
+    meaning: "to learn from the best"
+    difficulty: 55
+    frequency: 57
+    context: "general"
+    register: "neutral"
+    category: "learning"
+    examples:
+      a:
+        french: "Tu es à bonne école avec lui."
+        english: "You're learning from the best with him."
+      b:
+        french: "Elle est à bonne école dans cette entreprise."
+        english: "She's learning from the best at this company."
+      c:
+        french: "Étant à bonne école auprès du maître, l'apprenti progressa rapidement."
+        english: "Learning from the best with the master, the apprentice progressed quickly."
+
+  # UNDERSTANDING & MISUNDERSTANDING IDIOMS
+  - idiom: "saisir le sens"
+    literal: "to seize the meaning"
+    meaning: "to grasp the meaning"
+    difficulty: 39
+    frequency: 37
+    context: "general"
+    register: "neutral"
+    category: "understanding"
+    examples:
+      a:
+        french: "J'ai saisi le sens."
+        english: "I grasped the meaning."
+      b:
+        french: "Il a du mal à saisir le sens de ce texte."
+        english: "He has trouble grasping the meaning of this text."
+      c:
+        french: "Saisissant le sens profond du message, elle comprit ce qu'il fallait faire."
+        english: "Grasping the deep meaning of the message, she understood what had to be done."
+
+  - idiom: "se faire comprendre"
+    literal: "to make oneself understood"
+    meaning: "to make oneself understood"
+    difficulty: 28
+    frequency: 26
+    context: "general"
+    register: "neutral"
+    category: "understanding"
+    examples:
+      a:
+        french: "Je n'arrive pas à me faire comprendre."
+        english: "I can't make myself understood."
+      b:
+        french: "Il se fait toujours comprendre malgré la barrière linguistique."
+        english: "He always makes himself understood despite the language barrier."
+      c:
+        french: "Se faisant comprendre par gestes, elle réussit à obtenir de l'aide."
+        english: "Making herself understood through gestures, she managed to get help."
+
+  - idiom: "faire erreur"
+    literal: "to make error"
+    meaning: "to be mistaken"
+    difficulty: 36
+    frequency: 34
+    context: "general"
+    register: "neutral"
+    category: "misunderstanding"
+    examples:
+      a:
+        french: "Je crois que tu fais erreur."
+        english: "I think you're mistaken."
+      b:
+        french: "Il a fait erreur sur la personne."
+        english: "He was mistaken about the person."
+      c:
+        french: "Faisant erreur sur les intentions de son interlocuteur, elle commit un impair."
+        english: "Being mistaken about her interlocutor's intentions, she made a blunder."
+
+  - idiom: "prendre quelque chose de travers"
+    literal: "to take something sideways"
+    meaning: "to take something the wrong way"
+    difficulty: 50
+    frequency: 52
+    context: "general"
+    register: "informal"
+    category: "misunderstanding"
+    examples:
+      a:
+        french: "Il a pris mes mots de travers."
+        english: "He took my words the wrong way."
+      b:
+        french: "Ne prends pas ça de travers."
+        english: "Don't take it the wrong way."
+      c:
+        french: "Prenant de travers chaque remarque, il se fâcha sans raison."
+        english: "Taking every comment the wrong way, he got angry for no reason."
+
+  # WEATHER & NATURE IDIOMS
+  - idiom: "il pleut des cordes"
+    literal: "it rains ropes"
+    meaning: "it's raining cats and dogs"
+    difficulty: 51
+    frequency: 53
+    context: "general"
+    register: "informal"
+    category: "weather"
+    examples:
+      a:
+        french: "Il pleut des cordes!"
+        english: "It's raining cats and dogs!"
+      b:
+        french: "On ne peut pas sortir, il pleut des cordes."
+        english: "We can't go out, it's pouring."
+      c:
+        french: "Pleuvant des cordes depuis le matin, l'événement extérieur fut annulé."
+        english: "Raining cats and dogs since morning, the outdoor event was cancelled."
+
+  - idiom: "faire un temps de chien"
+    literal: "to make dog weather"
+    meaning: "to be awful weather"
+    difficulty: 48
+    frequency: 50
+    context: "general"
+    register: "informal"
+    category: "weather"
+    examples:
+      a:
+        french: "Il fait un temps de chien."
+        english: "The weather is awful."
+      b:
+        french: "On ne sort pas par un temps de chien pareil."
+        english: "We don't go out in such awful weather."
+      c:
+        french: "Faisant un temps de chien toute la semaine, les vacances furent gâchées."
+        english: "The weather being awful all week, the vacation was ruined."
+
+  - idiom: "prendre racine"
+    literal: "to take root"
+    meaning: "to take root, settle in"
+    difficulty: 45
+    frequency: 47
+    context: "general"
+    register: "neutral"
+    category: "nature"
+    examples:
+      a:
+        french: "Cette idée a pris racine dans son esprit."
+        english: "This idea took root in his mind."
+      b:
+        french: "La famille a pris racine dans ce village."
+        english: "The family settled in this village."
+      c:
+        french: "Prenant racine dans la région, ils ne voulurent plus jamais partir."
+        english: "Taking root in the region, they never wanted to leave again."
+
+  - idiom: "pousser comme des champignons"
+    literal: "to grow like mushrooms"
+    meaning: "to spring up like mushrooms"
+    difficulty: 53
+    frequency: 55
+    context: "general"
+    register: "informal"
+    category: "nature"
+    examples:
+      a:
+        french: "Les immeubles poussent comme des champignons."
+        english: "Buildings are springing up like mushrooms."
+      b:
+        french: "Ces start-ups poussent comme des champignons."
+        english: "These startups are springing up like mushrooms."
+      c:
+        french: "Poussant comme des champignons après la crise, les nouvelles technologies transformèrent le marché."
+        english: "Springing up like mushrooms after the crisis, new technologies transformed the market."
+
+  # BODY & HEALTH MORE IDIOMS
+  - idiom: "avoir mal au cœur"
+    literal: "to have pain at the heart"
+    meaning: "to feel nauseous"
+    difficulty: 33
+    frequency: 31
+    context: "general"
+    register: "neutral"
+    category: "health"
+    examples:
+      a:
+        french: "J'ai mal au cœur."
+        english: "I feel nauseous."
+      b:
+        french: "Le trajet en bateau lui donne mal au cœur."
+        english: "The boat ride makes him feel nauseous."
+      c:
+        french: "Ayant mal au cœur pendant toute la traversée, elle regretta d'avoir pris le ferry."
+        english: "Feeling nauseous during the whole crossing, she regretted taking the ferry."
+
+  - idiom: "se remettre d'aplomb"
+    literal: "to put oneself upright again"
+    meaning: "to get back on one's feet"
+    difficulty: 56
+    frequency: 58
+    context: "general"
+    register: "informal"
+    category: "health"
+    examples:
+      a:
+        french: "Il s'est remis d'aplomb."
+        english: "He got back on his feet."
+      b:
+        french: "Elle a besoin de temps pour se remettre d'aplomb."
+        english: "She needs time to get back on her feet."
+      c:
+        french: "Se remettant d'aplomb après une longue maladie, il reprit le travail progressivement."
+        english: "Getting back on his feet after a long illness, he gradually returned to work."
+
+  - idiom: "être en pleine forme"
+    literal: "to be in full form"
+    meaning: "to be in great shape"
+    difficulty: 32
+    frequency: 30
+    context: "general"
+    register: "neutral"
+    category: "health"
+    examples:
+      a:
+        french: "Je suis en pleine forme."
+        english: "I'm in great shape."
+      b:
+        french: "Malgré son âge, il est en pleine forme."
+        english: "Despite his age, he's in great shape."
+      c:
+        french: "Étant en pleine forme grâce au sport, elle débordait d'énergie."
+        english: "Being in great shape thanks to sports, she was overflowing with energy."
+
+  - idiom: "avoir une santé de fer"
+    literal: "to have health of iron"
+    meaning: "to have an iron constitution"
+    difficulty: 54
+    frequency: 56
+    context: "general"
+    register: "neutral"
+    category: "health"
+    examples:
+      a:
+        french: "Il a une santé de fer."
+        english: "He has an iron constitution."
+      b:
+        french: "Avec sa santé de fer, elle ne tombe jamais malade."
+        english: "With her iron constitution, she never gets sick."
+      c:
+        french: "Ayant une santé de fer toute sa vie, il atteignit cent ans sans problème."
+        english: "Having an iron constitution all his life, he reached one hundred without problem."
+
+  # RELATIONSHIPS & SOCIAL IDIOMS
+  - idiom: "se lier d'amitié avec"
+    literal: "to bind oneself in friendship with"
+    meaning: "to become friends with"
+    difficulty: 44
+    frequency: 42
+    context: "general"
+    register: "neutral"
+    category: "relationships"
+    examples:
+      a:
+        french: "Je me suis lié d'amitié avec lui."
+        english: "I became friends with him."
+      b:
+        french: "Ils se sont liés d'amitié rapidement."
+        english: "They became friends quickly."
+      c:
+        french: "Se liant d'amitié avec ses voisins, elle se sentit enfin chez elle."
+        english: "Becoming friends with her neighbors, she finally felt at home."
+
+  - idiom: "rompre avec quelqu'un"
+    literal: "to break with someone"
+    meaning: "to break up with someone"
+    difficulty: 37
+    frequency: 35
+    context: "general"
+    register: "neutral"
+    category: "relationships"
+    examples:
+      a:
+        french: "Elle a rompu avec son petit ami."
+        english: "She broke up with her boyfriend."
+      b:
+        french: "Il a décidé de rompre avec elle."
+        english: "He decided to break up with her."
+      c:
+        french: "Rompant avec lui après des années de mensonges, elle tourna la page."
+        english: "Breaking up with him after years of lies, she turned the page."
+
+  - idiom: "se fâcher avec quelqu'un"
+    literal: "to get angry with someone"
+    meaning: "to fall out with someone"
+    difficulty: 31
+    frequency: 29
+    context: "general"
+    register: "neutral"
+    category: "relationships"
+    examples:
+      a:
+        french: "Je me suis fâché avec mon frère."
+        english: "I fell out with my brother."
+      b:
+        french: "Ils se sont fâchés pour une broutille."
+        english: "They fell out over a trifle."
+      c:
+        french: "Se fâchant avec sa meilleure amie, elle le regretta immédiatement."
+        english: "Falling out with her best friend, she immediately regretted it."
+
+  - idiom: "se réconcilier avec"
+    literal: "to reconcile oneself with"
+    meaning: "to make up with"
+    difficulty: 38
+    frequency: 36
+    context: "general"
+    register: "neutral"
+    category: "relationships"
+    examples:
+      a:
+        french: "Je me suis réconcilié avec elle."
+        english: "I made up with her."
+      b:
+        french: "Ils se sont réconciliés après leur dispute."
+        english: "They made up after their argument."
+      c:
+        french: "Se réconciliant avec son père après des années de silence, il se sentit libéré."
+        english: "Making up with his father after years of silence, he felt liberated."
+
+  # CONFLICT & FIGHTING IDIOMS
+  - idiom: "chercher la bagarre"
+    literal: "to look for the fight"
+    meaning: "to look for a fight"
+    difficulty: 47
+    frequency: 49
+    context: "general"
+    register: "informal"
+    category: "conflict"
+    examples:
+      a:
+        french: "Il cherche la bagarre."
+        english: "He's looking for a fight."
+      b:
+        french: "Ne cherche pas la bagarre avec lui."
+        english: "Don't look for a fight with him."
+      c:
+        french: "Cherchant la bagarre à chaque rencontre, il finit par s'attirer de sérieux ennuis."
+        english: "Looking for a fight at every encounter, he ended up getting into serious trouble."
+
+  - idiom: "se battre comme un lion"
+    literal: "to fight like a lion"
+    meaning: "to fight like a lion"
+    difficulty: 43
+    frequency: 45
+    context: "general"
+    register: "neutral"
+    category: "conflict"
+    examples:
+      a:
+        french: "Il s'est battu comme un lion."
+        english: "He fought like a lion."
+      b:
+        french: "Elle se bat comme une lionne pour ses enfants."
+        english: "She fights like a lioness for her children."
+      c:
+        french: "Se battant comme un lion contre la maladie, il refusa d'abandonner."
+        english: "Fighting like a lion against the disease, he refused to give up."
+
+  - idiom: "enterrer la hache de guerre"
+    literal: "to bury the war hatchet"
+    meaning: "to bury the hatchet"
+    difficulty: 58
+    frequency: 60
+    context: "general"
+    register: "neutral"
+    category: "conflict"
+    examples:
+      a:
+        french: "Il est temps d'enterrer la hache de guerre."
+        english: "It's time to bury the hatchet."
+      b:
+        french: "Ils ont enterré la hache de guerre."
+        english: "They buried the hatchet."
+      c:
+        french: "Enterrant la hache de guerre après des décennies de rivalité, les deux familles célébrèrent ensemble."
+        english: "Burying the hatchet after decades of rivalry, the two families celebrated together."
+
+  - idiom: "mettre de l'huile sur le feu"
+    literal: "to put oil on the fire"
+    meaning: "to add fuel to the fire"
+    difficulty: 52
+    frequency: 54
+    context: "general"
+    register: "informal"
+    category: "conflict"
+    examples:
+      a:
+        french: "Tu mets de l'huile sur le feu."
+        english: "You're adding fuel to the fire."
+      b:
+        french: "Sa remarque a mis de l'huile sur le feu."
+        english: "His comment added fuel to the fire."
+      c:
+        french: "Mettant de l'huile sur le feu avec ses provocations, il aggrava le conflit."
+        english: "Adding fuel to the fire with his provocations, he worsened the conflict."
+
+  # PEACE & HARMONY IDIOMS
+  - idiom: "vivre en harmonie"
+    literal: "to live in harmony"
+    meaning: "to live in harmony"
+    difficulty: 29
+    frequency: 27
+    context: "general"
+    register: "neutral"
+    category: "peace"
+    examples:
+      a:
+        french: "Ils vivent en harmonie."
+        english: "They live in harmony."
+      b:
+        french: "Cette communauté vit en harmonie avec la nature."
+        english: "This community lives in harmony with nature."
+      c:
+        french: "Vivant en harmonie malgré leurs différences, ils montrèrent l'exemple."
+        english: "Living in harmony despite their differences, they set an example."
+
+  - idiom: "être en paix avec soi-même"
+    literal: "to be at peace with oneself"
+    meaning: "to be at peace with oneself"
+    difficulty: 40
+    frequency: 38
+    context: "general"
+    register: "neutral"
+    category: "peace"
+    examples:
+      a:
+        french: "Il est en paix avec lui-même."
+        english: "He's at peace with himself."
+      b:
+        french: "Après cette décision, je suis en paix avec moi-même."
+        english: "After this decision, I'm at peace with myself."
+      c:
+        french: "Étant en paix avec elle-même après avoir pardonné, elle dormit enfin sereinement."
+        english: "Being at peace with herself after forgiving, she finally slept serenely."
+
+  - idiom: "faire la paix"
+    literal: "to make peace"
+    meaning: "to make peace"
+    difficulty: 24
+    frequency: 22
+    context: "general"
+    register: "neutral"
+    category: "peace"
+    examples:
+      a:
+        french: "Il faut faire la paix."
+        english: "We must make peace."
+      b:
+        french: "Ils ont fait la paix après leur dispute."
+        english: "They made peace after their argument."
+      c:
+        french: "Faisant la paix avec ses anciens ennemis, il tourna une nouvelle page."
+        english: "Making peace with his former enemies, he turned a new page."
+
+  - idiom: "tendre vers l'équilibre"
+    literal: "to tend toward balance"
+    meaning: "to strive for balance"
+    difficulty: 46
+    frequency: 48
+    context: "general"
+    register: "neutral"
+    category: "harmony"
+    examples:
+      a:
+        french: "Il faut tendre vers l'équilibre."
+        english: "We must strive for balance."
+      b:
+        french: "Elle tend vers l'équilibre entre vie professionnelle et personnelle."
+        english: "She strives for balance between professional and personal life."
+      c:
+        french: "Tendant vers l'équilibre dans tous les aspects de sa vie, elle trouva la sérénité."
+        english: "Striving for balance in all aspects of her life, she found serenity."
+  # TALENT & SKILL IDIOMS
+  - idiom: "avoir le don de"
+    literal: "to have the gift of"
+    meaning: "to have a gift for"
+    difficulty: 41
+    frequency: 39
+    context: "general"
+    register: "neutral"
+    category: "talent"
+    examples:
+      a:
+        french: "Il a le don de m'énerver."
+        english: "He has a gift for annoying me."
+      b:
+        french: "Elle a le don pour les langues."
+        english: "She has a gift for languages."
+      c:
+        french: "Ayant le don pour la musique, elle devint virtuose sans effort apparent."
+        english: "Having a gift for music, she became a virtuoso without apparent effort."
+
+  - idiom: "être doué pour"
+    literal: "to be gifted for"
+    meaning: "to be good at"
+    difficulty: 27
+    frequency: 25
+    context: "general"
+    register: "neutral"
+    category: "talent"
+    examples:
+      a:
+        french: "Il est doué pour les maths."
+        english: "He's good at math."
+      b:
+        french: "Elle est douée pour la peinture."
+        english: "She's good at painting."
+      c:
+        french: "Étant doué pour les sports, il excellait dans toutes les compétitions."
+        english: "Being good at sports, he excelled in all competitions."
+
+  - idiom: "avoir la main verte"
+    literal: "to have the green hand"
+    meaning: "to have a green thumb"
+    difficulty: 52
+    frequency: 54
+    context: "general"
+    register: "informal"
+    category: "talent"
+    examples:
+      a:
+        french: "Elle a la main verte."
+        english: "She has a green thumb."
+      b:
+        french: "Avec sa main verte, son jardin est magnifique."
+        english: "With her green thumb, her garden is beautiful."
+      c:
+        french: "Ayant la main verte, elle transforma le terrain aride en oasis verdoyante."
+        english: "Having a green thumb, she transformed the arid land into a lush oasis."
+
+  - idiom: "être maladroit comme un éléphant"
+    literal: "to be clumsy like an elephant"
+    meaning: "to be clumsy as an ox"
+    difficulty: 49
+    frequency: 51
+    context: "general"
+    register: "informal"
+    category: "talent"
+    examples:
+      a:
+        french: "Il est maladroit comme un éléphant."
+        english: "He's clumsy as an ox."
+      b:
+        french: "Maladroit comme un éléphant, il casse toujours quelque chose."
+        english: "Clumsy as an ox, he always breaks something."
+      c:
+        french: "Étant maladroit comme un éléphant, il évitait les travaux délicats."
+        english: "Being clumsy as an ox, he avoided delicate work."
+
+  # CREATIVITY & INNOVATION IDIOMS
+  - idiom: "faire preuve de créativité"
+    literal: "to make proof of creativity"
+    meaning: "to show creativity"
+    difficulty: 35
+    frequency: 33
+    context: "general"
+    register: "neutral"
+    category: "creativity"
+    examples:
+      a:
+        french: "Il faut faire preuve de créativité."
+        english: "We must show creativity."
+      b:
+        french: "Elle fait preuve de créativité dans son travail."
+        english: "She shows creativity in her work."
+      c:
+        french: "Faisant preuve de créativité face au problème, elle trouva une solution originale."
+        english: "Showing creativity facing the problem, she found an original solution."
+
+  - idiom: "sortir des sentiers battus"
+    literal: "to exit the beaten paths"
+    meaning: "to think outside the box"
+    difficulty: 57
+    frequency: 59
+    context: "general"
+    register: "neutral"
+    category: "innovation"
+    examples:
+      a:
+        french: "Il faut sortir des sentiers battus."
+        english: "We need to think outside the box."
+      b:
+        french: "Elle sort toujours des sentiers battus."
+        english: "She always thinks outside the box."
+      c:
+        french: "Sortant des sentiers battus, l'architecte conçut un bâtiment révolutionnaire."
+        english: "Thinking outside the box, the architect designed a revolutionary building."
+
+  - idiom: "avoir de l'imagination"
+    literal: "to have imagination"
+    meaning: "to have imagination"
+    difficulty: 23
+    frequency: 21
+    context: "general"
+    register: "neutral"
+    category: "creativity"
+    examples:
+      a:
+        french: "Tu as de l'imagination!"
+        english: "You have imagination!"
+      b:
+        french: "Il a beaucoup d'imagination."
+        english: "He has a lot of imagination."
+      c:
+        french: "Ayant de l'imagination débordante, elle écrivait des histoires fascinantes."
+        english: "Having overflowing imagination, she wrote fascinating stories."
+
+  - idiom: "innover dans son domaine"
+    literal: "to innovate in one's field"
+    meaning: "to innovate in one's field"
+    difficulty: 38
+    frequency: 36
+    context: "general"
+    register: "neutral"
+    category: "innovation"
+    examples:
+      a:
+        french: "Elle innove dans son domaine."
+        english: "She innovates in her field."
+      b:
+        french: "Cette entreprise innove constamment."
+        english: "This company constantly innovates."
+      c:
+        french: "Innovant dans son domaine, il révolutionna l'industrie."
+        english: "Innovating in his field, he revolutionized the industry."
+
+  # TRADITION & MODERNITY IDIOMS
+  - idiom: "respecter les traditions"
+    literal: "to respect the traditions"
+    meaning: "to respect traditions"
+    difficulty: 26
+    frequency: 24
+    context: "general"
+    register: "neutral"
+    category: "tradition"
+    examples:
+      a:
+        french: "Il faut respecter les traditions."
+        english: "We must respect traditions."
+      b:
+        french: "Cette famille respecte les traditions."
+        english: "This family respects traditions."
+      c:
+        french: "Respectant les traditions tout en s'adaptant, ils trouvèrent l'équilibre."
+        english: "Respecting traditions while adapting, they found balance."
+
+  - idiom: "être de la vieille école"
+    literal: "to be of the old school"
+    meaning: "to be old-school"
+    difficulty: 47
+    frequency: 49
+    context: "general"
+    register: "informal"
+    category: "tradition"
+    examples:
+      a:
+        french: "Il est de la vieille école."
+        english: "He's old-school."
+      b:
+        french: "Elle est de la vieille école, elle n'aime pas les nouvelles technologies."
+        english: "She's old-school, she doesn't like new technologies."
+      c:
+        french: "Étant de la vieille école, il insistait sur les méthodes traditionnelles."
+        english: "Being old-school, he insisted on traditional methods."
+
+  - idiom: "être à la pointe de"
+    literal: "to be at the point of"
+    meaning: "to be at the forefront of"
+    difficulty: 48
+    frequency: 50
+    context: "general"
+    register: "neutral"
+    category: "modernity"
+    examples:
+      a:
+        french: "Cette entreprise est à la pointe de la technologie."
+        english: "This company is at the forefront of technology."
+      b:
+        french: "Il est à la pointe de la recherche."
+        english: "He's at the forefront of research."
+      c:
+        french: "Étant à la pointe de l'innovation, ils lançaient constamment de nouveaux produits."
+        english: "Being at the forefront of innovation, they constantly launched new products."
+
+  - idiom: "suivre son temps"
+    literal: "to follow one's time"
+    meaning: "to move with the times"
+    difficulty: 44
+    frequency: 46
+    context: "general"
+    register: "neutral"
+    category: "modernity"
+    examples:
+      a:
+        french: "Il faut suivre son temps."
+        english: "We must move with the times."
+      b:
+        french: "Elle suit son temps."
+        english: "She moves with the times."
+      c:
+        french: "Suivant son temps malgré son âge, elle maîtrisait toutes les nouvelles technologies."
+        english: "Moving with the times despite her age, she mastered all new technologies."
+
+  # EMOTION & FEELING MORE IDIOMS
+  - idiom: "avoir le cœur serré"
+    literal: "to have the heart tight"
+    meaning: "to have a heavy heart"
+    difficulty: 50
+    frequency: 52
+    context: "general"
+    register: "neutral"
+    category: "emotion"
+    examples:
+      a:
+        french: "J'ai le cœur serré."
+        english: "I have a heavy heart."
+      b:
+        french: "Elle avait le cœur serré en partant."
+        english: "She had a heavy heart leaving."
+      c:
+        french: "Ayant le cœur serré en voyant son fils partir, elle retint ses larmes."
+        english: "Having a heavy heart seeing her son leave, she held back her tears."
+
+  - idiom: "être ému aux larmes"
+    literal: "to be moved to tears"
+    meaning: "to be moved to tears"
+    difficulty: 42
+    frequency: 44
+    context: "general"
+    register: "neutral"
+    category: "emotion"
+    examples:
+      a:
+        french: "Je suis ému aux larmes."
+        english: "I'm moved to tears."
+      b:
+        french: "Elle était émue aux larmes."
+        english: "She was moved to tears."
+      c:
+        french: "Étant ému aux larmes par le discours, il ne put parler."
+        english: "Being moved to tears by the speech, he couldn't speak."
+
+  - idiom: "fondre en larmes"
+    literal: "to melt into tears"
+    meaning: "to burst into tears"
+    difficulty: 45
+    frequency: 47
+    context: "general"
+    register: "neutral"
+    category: "emotion"
+    examples:
+      a:
+        french: "Elle a fondu en larmes."
+        english: "She burst into tears."
+      b:
+        french: "Il a fondu en larmes en apprenant la nouvelle."
+        english: "He burst into tears learning the news."
+      c:
+        french: "Fondant en larmes devant tout le monde, elle ne put cacher son chagrin."
+        english: "Bursting into tears in front of everyone, she couldn't hide her grief."
+
+  - idiom: "éclater de rire"
+    literal: "to burst with laughter"
+    meaning: "to burst out laughing"
+    difficulty: 39
+    frequency: 37
+    context: "general"
+    register: "neutral"
+    category: "emotion"
+    examples:
+      a:
+        french: "J'ai éclaté de rire."
+        english: "I burst out laughing."
+      b:
+        french: "Tout le monde a éclaté de rire."
+        english: "Everyone burst out laughing."
+      c:
+        french: "Éclatant de rire à la blague, elle contamina toute l'assemblée."
+        english: "Bursting out laughing at the joke, she infected the whole assembly."
+
+  # BEHAVIOR & ATTITUDE IDIOMS
+  - idiom: "se tenir bien"
+    literal: "to hold oneself well"
+    meaning: "to behave well"
+    difficulty: 28
+    frequency: 26
+    context: "general"
+    register: "neutral"
+    category: "behavior"
+    examples:
+      a:
+        french: "Tiens-toi bien!"
+        english: "Behave yourself!"
+      b:
+        french: "Les enfants se tiennent bien."
+        english: "The children behave well."
+      c:
+        french: "Se tenant bien en toutes circonstances, il faisait honneur à sa famille."
+        english: "Behaving well in all circumstances, he did his family proud."
+
+  - idiom: "faire des siennes"
+    literal: "to do one's own"
+    meaning: "to be up to one's old tricks"
+    difficulty: 56
+    frequency: 58
+    context: "general"
+    register: "informal"
+    category: "behavior"
+    examples:
+      a:
+        french: "Il a encore fait des siennes."
+        english: "He's been up to his old tricks again."
+      b:
+        french: "Le chat a fait des siennes cette nuit."
+        english: "The cat was up to its old tricks last night."
+      c:
+        french: "Faisant des siennes comme d'habitude, il provoqua le chaos."
+        english: "Being up to his old tricks as usual, he caused chaos."
+
+  - idiom: "prendre de bonnes habitudes"
+    literal: "to take good habits"
+    meaning: "to develop good habits"
+    difficulty: 31
+    frequency: 29
+    context: "general"
+    register: "neutral"
+    category: "behavior"
+    examples:
+      a:
+        french: "Il faut prendre de bonnes habitudes."
+        english: "We must develop good habits."
+      b:
+        french: "Elle prend de bonnes habitudes."
+        english: "She's developing good habits."
+      c:
+        french: "Prenant de bonnes habitudes dès le début, il maintint sa discipline toute sa vie."
+        english: "Developing good habits from the start, he maintained his discipline all his life."
+
+  - idiom: "se comporter comme un enfant"
+    literal: "to behave like a child"
+    meaning: "to behave childishly"
+    difficulty: 30
+    frequency: 28
+    context: "general"
+    register: "neutral"
+    category: "behavior"
+    examples:
+      a:
+        french: "Il se comporte comme un enfant."
+        english: "He behaves childishly."
+      b:
+        french: "Arrête de te comporter comme un enfant."
+        english: "Stop behaving childishly."
+      c:
+        french: "Se comportant comme un enfant lors de la réunion, il perdit toute crédibilité."
+        english: "Behaving childishly during the meeting, he lost all credibility."
+
+  # POLITENESS & MANNERS IDIOMS
+  - idiom: "avoir de bonnes manières"
+    literal: "to have good manners"
+    meaning: "to have good manners"
+    difficulty: 24
+    frequency: 22
+    context: "general"
+    register: "neutral"
+    category: "manners"
+    examples:
+      a:
+        french: "Il a de bonnes manières."
+        english: "He has good manners."
+      b:
+        french: "Cette enfant a de très bonnes manières."
+        english: "This child has very good manners."
+      c:
+        french: "Ayant de bonnes manières, il impressionna favorablement ses futurs beaux-parents."
+        english: "Having good manners, he favorably impressed his future in-laws."
+
+  - idiom: "être bien élevé"
+    literal: "to be well raised"
+    meaning: "to be well-mannered"
+    difficulty: 29
+    frequency: 27
+    context: "general"
+    register: "neutral"
+    category: "manners"
+    examples:
+      a:
+        french: "C'est un enfant bien élevé."
+        english: "He's a well-mannered child."
+      b:
+        french: "Elle est très bien élevée."
+        english: "She's very well-mannered."
+      c:
+        french: "Étant bien élevé, il savait se tenir en toute situation."
+        english: "Being well-mannered, he knew how to behave in any situation."
+
+  - idiom: "manquer de savoir-vivre"
+    literal: "to lack knowing-living"
+    meaning: "to lack manners"
+    difficulty: 51
+    frequency: 53
+    context: "general"
+    register: "neutral"
+    category: "manners"
+    examples:
+      a:
+        french: "Il manque de savoir-vivre."
+        english: "He lacks manners."
+      b:
+        french: "C'est un manque de savoir-vivre."
+        english: "It's a lack of manners."
+      c:
+        french: "Manquant de savoir-vivre, il offensa ses hôtes sans s'en rendre compte."
+        english: "Lacking manners, he offended his hosts without realizing it."
+
+  - idiom: "faire bonne impression"
+    literal: "to make good impression"
+    meaning: "to make a good impression"
+    difficulty: 32
+    frequency: 30
+    context: "general"
+    register: "neutral"
+    category: "manners"
+    examples:
+      a:
+        french: "Il faut faire bonne impression."
+        english: "We must make a good impression."
+      b:
+        french: "Elle a fait bonne impression."
+        english: "She made a good impression."
+      c:
+        french: "Faisant bonne impression lors de l'entretien, il obtint le poste."
+        english: "Making a good impression during the interview, he got the job."
+
+  # REPUTATION & IMAGE IDIOMS
+  - idiom: "avoir bonne réputation"
+    literal: "to have good reputation"
+    meaning: "to have a good reputation"
+    difficulty: 33
+    frequency: 31
+    context: "general"
+    register: "neutral"
+    category: "reputation"
+    examples:
+      a:
+        french: "Il a bonne réputation."
+        english: "He has a good reputation."
+      b:
+        french: "Cette entreprise a bonne réputation."
+        english: "This company has a good reputation."
+      c:
+        french: "Ayant bonne réputation, il n'eut aucun mal à trouver des clients."
+        english: "Having a good reputation, he had no trouble finding clients."
+
+  - idiom: "ternir sa réputation"
+    literal: "to tarnish one's reputation"
+    meaning: "to tarnish one's reputation"
+    difficulty: 48
+    frequency: 50
+    context: "general"
+    register: "formal"
+    category: "reputation"
+    examples:
+      a:
+        french: "Ce scandale a terni sa réputation."
+        english: "This scandal tarnished his reputation."
+      b:
+        french: "Il a terni sa réputation."
+        english: "He tarnished his reputation."
+      c:
+        french: "Ternissant sa réputation par un mensonge, il mit des années à la restaurer."
+        english: "Tarnishing his reputation with a lie, he took years to restore it."
+
+  - idiom: "se faire un nom"
+    literal: "to make oneself a name"
+    meaning: "to make a name for oneself"
+    difficulty: 44
+    frequency: 46
+    context: "general"
+    register: "neutral"
+    category: "reputation"
+    examples:
+      a:
+        french: "Il s'est fait un nom."
+        english: "He made a name for himself."
+      b:
+        french: "Elle s'est fait un nom dans ce domaine."
+        english: "She made a name for herself in this field."
+      c:
+        french: "Se faisant un nom grâce à son talent, elle devint une référence."
+        english: "Making a name for herself thanks to her talent, she became a reference."
+
+  - idiom: "soigner son image"
+    literal: "to care for one's image"
+    meaning: "to manage one's image"
+    difficulty: 40
+    frequency: 42
+    context: "general"
+    register: "neutral"
+    category: "image"
+    examples:
+      a:
+        french: "Il soigne son image."
+        english: "He manages his image."
+      b:
+        french: "Les politiciens soignent leur image."
+        english: "Politicians manage their image."
+      c:
+        french: "Soignant son image publique, elle contrôlait chaque apparition."
+        english: "Managing her public image, she controlled every appearance."
+  # APPEARANCE & LOOKS MORE IDIOMS
+  - idiom: "être tiré à quatre épingles"
+    literal: "to be pulled at four pins"
+    meaning: "to be dressed to the nines"
+    difficulty: 60
+    frequency: 62
+    context: "general"
+    register: "neutral"
+    category: "appearance"
+    examples:
+      a:
+        french: "Il est tiré à quatre épingles."
+        english: "He's dressed to the nines."
+      b:
+        french: "Elle est toujours tirée à quatre épingles."
+        english: "She's always dressed to the nines."
+      c:
+        french: "Étant tiré à quatre épingles pour l'occasion, il fit sensation."
+        english: "Being dressed to the nines for the occasion, he made a sensation."
+
+  - idiom: "être mal fagoté"
+    literal: "to be badly bundled"
+    meaning: "to be badly dressed"
+    difficulty: 58
+    frequency: 60
+    context: "general"
+    register: "informal"
+    category: "appearance"
+    examples:
+      a:
+        french: "Il est mal fagoté."
+        english: "He's badly dressed."
+      b:
+        french: "Elle était mal fagotée ce jour-là."
+        english: "She was badly dressed that day."
+      c:
+        french: "Étant mal fagoté, il ne fut pas pris au sérieux."
+        english: "Being badly dressed, he wasn't taken seriously."
+
+  - idiom: "avoir de l'allure"
+    literal: "to have pace/gait"
+    meaning: "to have style, look good"
+    difficulty: 46
+    frequency: 48
+    context: "general"
+    register: "neutral"
+    category: "appearance"
+    examples:
+      a:
+        french: "Elle a de l'allure."
+        english: "She has style."
+      b:
+        french: "Cette voiture a de l'allure."
+        english: "This car looks good."
+      c:
+        french: "Ayant de l'allure naturellement, elle n'avait besoin d'aucun artifice."
+        english: "Having style naturally, she needed no artifice."
+
+  - idiom: "avoir fière allure"
+    literal: "to have proud pace"
+    meaning: "to cut a fine figure"
+    difficulty: 52
+    frequency: 54
+    context: "general"
+    register: "neutral"
+    category: "appearance"
+    examples:
+      a:
+        french: "Il a fière allure dans ce costume."
+        english: "He cuts a fine figure in this suit."
+      b:
+        french: "Le bâtiment a fière allure."
+        english: "The building cuts a fine figure."
+      c:
+        french: "Ayant fière allure dans son uniforme, il marchait avec assurance."
+        english: "Cutting a fine figure in his uniform, he walked with confidence."
+
+  # SIZE & DIMENSIONS IDIOMS
+  - idiom: "grand comme un mouchoir de poche"
+    literal: "big as a pocket handkerchief"
+    meaning: "tiny, very small"
+    difficulty: 57
+    frequency: 59
+    context: "general"
+    register: "informal"
+    category: "size"
+    examples:
+      a:
+        french: "L'appartement est grand comme un mouchoir de poche."
+        english: "The apartment is tiny."
+      b:
+        french: "Le jardin est grand comme un mouchoir de poche."
+        english: "The garden is very small."
+      c:
+        french: "Étant grand comme un mouchoir de poche, le studio ne pouvait accueillir qu'une personne."
+        english: "Being tiny, the studio could only accommodate one person."
+
+  - idiom: "ne pas être de taille"
+    literal: "not to be of size"
+    meaning: "to be no match"
+    difficulty: 48
+    frequency: 50
+    context: "general"
+    register: "neutral"
+    category: "size"
+    examples:
+      a:
+        french: "Je ne suis pas de taille."
+        english: "I'm no match."
+      b:
+        french: "Il n'est pas de taille face à ce champion."
+        english: "He's no match for this champion."
+      c:
+        french: "N'étant pas de taille contre l'équipe adverse, ils perdirent lourdement."
+        english: "Being no match for the opposing team, they lost heavily."
+
+  - idiom: "faire deux fois sa taille"
+    literal: "to make twice one's size"
+    meaning: "to seem bigger than one is"
+    difficulty: 50
+    frequency: 52
+    context: "general"
+    register: "informal"
+    category: "size"
+    examples:
+      a:
+        french: "Avec cette coiffure, elle fait deux fois sa taille."
+        english: "With this hairstyle, she seems twice her size."
+      b:
+        french: "Le lion fait deux fois sa taille quand il se dresse."
+        english: "The lion seems twice its size when it stands up."
+      c:
+        french: "Faisant deux fois sa taille avec son attitude imposante, il intimidait ses adversaires."
+        english: "Seeming twice his size with his imposing attitude, he intimidated his opponents."
+
+  - idiom: "de toutes les tailles"
+    literal: "of all the sizes"
+    meaning: "of all sizes"
+    difficulty: 21
+    frequency: 19
+    context: "general"
+    register: "neutral"
+    category: "size"
+    examples:
+      a:
+        french: "Il y a des chiens de toutes les tailles."
+        english: "There are dogs of all sizes."
+      b:
+        french: "Des problèmes de toutes les tailles."
+        english: "Problems of all sizes."
+      c:
+        french: "Rencontrant des difficultés de toutes les tailles, elle apprit à s'adapter."
+        english: "Encountering difficulties of all sizes, she learned to adapt."
+
+  # QUANTITY & AMOUNT IDIOMS
+  - idiom: "à foison"
+    literal: "at abundance"
+    meaning: "in abundance, galore"
+    difficulty: 61
+    frequency: 63
+    context: "general"
+    register: "formal"
+    category: "quantity"
+    examples:
+      a:
+        french: "Il y a des pommes à foison."
+        english: "There are apples galore."
+      b:
+        french: "Les exemples à foison dans ce livre."
+        english: "Examples in abundance in this book."
+      c:
+        french: "Ayant des ressources à foison, ils ne manquèrent jamais de rien."
+        english: "Having resources in abundance, they never lacked anything."
+
+  - idiom: "en quantité industrielle"
+    literal: "in industrial quantity"
+    meaning: "in huge quantities"
+    difficulty: 45
+    frequency: 47
+    context: "general"
+    register: "informal"
+    category: "quantity"
+    examples:
+      a:
+        french: "Il achète du chocolat en quantité industrielle."
+        english: "He buys chocolate in huge quantities."
+      b:
+        french: "Elle produit des gâteaux en quantité industrielle."
+        english: "She produces cakes in huge quantities."
+      c:
+        french: "Consommant du café en quantité industrielle, il ne dormait plus."
+        english: "Consuming coffee in huge quantities, he no longer slept."
+
+  - idiom: "au compte-gouttes"
+    literal: "at the drop counter"
+    meaning: "in drips and drabs, sparingly"
+    difficulty: 59
+    frequency: 61
+    context: "general"
+    register: "neutral"
+    category: "quantity"
+    examples:
+      a:
+        french: "Les informations arrivent au compte-gouttes."
+        english: "Information comes in drips and drabs."
+      b:
+        french: "Il donne son argent au compte-gouttes."
+        english: "He gives his money sparingly."
+      c:
+        french: "Distribuant les ressources au compte-gouttes, il créa de la frustration."
+        english: "Distributing resources sparingly, he created frustration."
+
+  - idiom: "une poignée de"
+    literal: "a handful of"
+    meaning: "a handful of"
+    difficulty: 37
+    frequency: 35
+    context: "general"
+    register: "neutral"
+    category: "quantity"
+    examples:
+      a:
+        french: "Il reste une poignée de personnes."
+        english: "There's a handful of people left."
+      b:
+        french: "J'ai une poignée d'amis proches."
+        english: "I have a handful of close friends."
+      c:
+        french: "N'ayant qu'une poignée de supporters, le candidat retira sa candidature."
+        english: "Having only a handful of supporters, the candidate withdrew."
+
+  # DISTANCE & PROXIMITY IDIOMS
+  - idiom: "à deux pas de"
+    literal: "at two steps from"
+    meaning: "a stone's throw from"
+    difficulty: 43
+    frequency: 41
+    context: "general"
+    register: "neutral"
+    category: "distance"
+    examples:
+      a:
+        french: "J'habite à deux pas d'ici."
+        english: "I live a stone's throw from here."
+      b:
+        french: "La plage est à deux pas."
+        english: "The beach is a stone's throw away."
+      c:
+        french: "Habitant à deux pas du bureau, elle n'était jamais en retard."
+        english: "Living a stone's throw from the office, she was never late."
+
+  - idiom: "à perte de vue"
+    literal: "at loss of sight"
+    meaning: "as far as the eye can see"
+    difficulty: 55
+    frequency: 57
+    context: "general"
+    register: "neutral"
+    category: "distance"
+    examples:
+      a:
+        french: "Des champs à perte de vue."
+        english: "Fields as far as the eye can see."
+      b:
+        french: "La plaine s'étend à perte de vue."
+        english: "The plain stretches as far as the eye can see."
+      c:
+        french: "S'étendant à perte de vue, le désert semblait infini."
+        english: "Stretching as far as the eye can see, the desert seemed infinite."
+
+  - idiom: "au bout du monde"
+    literal: "at the end of the world"
+    meaning: "at the end of the world, very far"
+    difficulty: 41
+    frequency: 43
+    context: "general"
+    register: "neutral"
+    category: "distance"
+    examples:
+      a:
+        french: "Il habite au bout du monde."
+        english: "He lives at the end of the world."
+      b:
+        french: "Ce village est au bout du monde."
+        english: "This village is in the middle of nowhere."
+      c:
+        french: "Vivant au bout du monde, ils appréciaient l'isolement et la tranquillité."
+        english: "Living at the end of the world, they appreciated the isolation and tranquility."
+
+  - idiom: "tenir à distance"
+    literal: "to keep at distance"
+    meaning: "to keep at arm's length"
+    difficulty: 40
+    frequency: 38
+    context: "general"
+    register: "neutral"
+    category: "distance"
+    examples:
+      a:
+        french: "Il faut le tenir à distance."
+        english: "We must keep him at arm's length."
+      b:
+        french: "Elle tient les gens à distance."
+        english: "She keeps people at arm's length."
+      c:
+        french: "Tenant tout le monde à distance, il vivait dans la solitude."
+        english: "Keeping everyone at arm's length, he lived in solitude."
+
+  # BEGINNING & END MORE IDIOMS
+  - idiom: "prendre un nouveau départ"
+    literal: "to take a new start"
+    meaning: "to make a fresh start"
+    difficulty: 36
+    frequency: 34
+    context: "general"
+    register: "neutral"
+    category: "beginning"
+    examples:
+      a:
+        french: "Il va prendre un nouveau départ."
+        english: "He's going to make a fresh start."
+      b:
+        french: "Elle a pris un nouveau départ."
+        english: "She made a fresh start."
+      c:
+        french: "Prenant un nouveau départ après l'échec, il déménagea dans une autre ville."
+        english: "Making a fresh start after the failure, he moved to another city."
+
+  - idiom: "repartir de zéro"
+    literal: "to restart from zero"
+    meaning: "to start from scratch"
+    difficulty: 38
+    frequency: 36
+    context: "general"
+    register: "informal"
+    category: "beginning"
+    examples:
+      a:
+        french: "Il faut repartir de zéro."
+        english: "We have to start from scratch."
+      b:
+        french: "Elle repart de zéro."
+        english: "She's starting from scratch."
+      c:
+        french: "Repartant de zéro après la faillite, il reconstruisit son empire."
+        english: "Starting from scratch after bankruptcy, he rebuilt his empire."
+
+  - idiom: "mettre un point final"
+    literal: "to put a final point"
+    meaning: "to put an end to"
+    difficulty: 47
+    frequency: 49
+    context: "general"
+    register: "neutral"
+    category: "end"
+    examples:
+      a:
+        french: "Il faut mettre un point final à cette histoire."
+        english: "We must put an end to this story."
+      b:
+        french: "Elle a mis un point final à leur relation."
+        english: "She put an end to their relationship."
+      c:
+        french: "Mettant un point final au conflit, les parties signèrent un accord de paix."
+        english: "Putting an end to the conflict, the parties signed a peace agreement."
+
+  - idiom: "tirer sa révérence"
+    literal: "to pull one's reverence"
+    meaning: "to bow out, retire"
+    difficulty: 62
+    frequency: 64
+    context: "general"
+    register: "formal"
+    category: "end"
+    examples:
+      a:
+        french: "Il est temps de tirer sa révérence."
+        english: "It's time to bow out."
+      b:
+        french: "L'acteur a tiré sa révérence."
+        english: "The actor retired."
+      c:
+        french: "Tirant sa révérence après quarante ans de carrière, elle fut ovationnée."
+        english: "Bowing out after forty years of career, she received a standing ovation."
+
+  # CONTINUATION & PERSISTENCE IDIOMS
+  - idiom: "poursuivre sur sa lancée"
+    literal: "to continue on one's momentum"
+    meaning: "to keep the momentum going"
+    difficulty: 51
+    frequency: 53
+    context: "general"
+    register: "neutral"
+    category: "continuation"
+    examples:
+      a:
+        french: "Il poursuit sur sa lancée."
+        english: "He's keeping the momentum going."
+      b:
+        french: "L'équipe poursuit sur sa lancée."
+        english: "The team keeps the momentum going."
+      c:
+        french: "Poursuivant sur sa lancée après le premier succès, elle enchaîna les victoires."
+        english: "Keeping the momentum going after the first success, she strung together victories."
+
+  - idiom: "tenir bon"
+    literal: "to hold good"
+    meaning: "to hold fast, stand firm"
+    difficulty: 34
+    frequency: 32
+    context: "general"
+    register: "neutral"
+    category: "persistence"
+    examples:
+      a:
+        french: "Il faut tenir bon."
+        english: "We must hold fast."
+      b:
+        french: "Elle tient bon malgré les difficultés."
+        english: "She's standing firm despite difficulties."
+      c:
+        french: "Tenant bon face à la pression, il ne céda pas."
+        english: "Standing firm in the face of pressure, he didn't give in."
+
+  - idiom: "ne pas lâcher le morceau"
+    literal: "not to let go the piece"
+    meaning: "not to give up"
+    difficulty: 54
+    frequency: 56
+    context: "general"
+    register: "informal"
+    category: "persistence"
+    examples:
+      a:
+        french: "Il ne lâche pas le morceau."
+        english: "He doesn't give up."
+      b:
+        french: "Elle ne lâchera pas le morceau."
+        english: "She won't give up."
+      c:
+        french: "Ne lâchant pas le morceau malgré les obstacles, il finit par réussir."
+        english: "Not giving up despite obstacles, he finally succeeded."
+
+  - idiom: "aller jusqu'au bout"
+    literal: "to go until the end"
+    meaning: "to see it through"
+    difficulty: 35
+    frequency: 33
+    context: "general"
+    register: "neutral"
+    category: "persistence"
+    examples:
+      a:
+        french: "Il faut aller jusqu'au bout."
+        english: "We must see it through."
+      b:
+        french: "Elle ira jusqu'au bout."
+        english: "She'll see it through."
+      c:
+        french: "Allant jusqu'au bout de son projet, il prouva sa détermination."
+        english: "Seeing his project through, he proved his determination."
+
+  # INTERRUPTION & STOPPING IDIOMS
+  - idiom: "couper court à"
+    literal: "to cut short to"
+    meaning: "to cut short"
+    difficulty: 49
+    frequency: 51
+    context: "general"
+    register: "neutral"
+    category: "interruption"
+    examples:
+      a:
+        french: "Il faut couper court à ces rumeurs."
+        english: "We must cut short these rumors."
+      b:
+        french: "Elle a coupé court à la discussion."
+        english: "She cut short the discussion."
+      c:
+        french: "Coupant court aux spéculations, il annonça sa décision immédiatement."
+        english: "Cutting short speculation, he announced his decision immediately."
+
+  - idiom: "mettre un terme à"
+    literal: "to put a term to"
+    meaning: "to put an end to"
+    difficulty: 44
+    frequency: 42
+    context: "general"
+    register: "neutral"
+    category: "interruption"
+    examples:
+      a:
+        french: "Il faut mettre un terme à cette situation."
+        english: "We must put an end to this situation."
+      b:
+        french: "Elle a mis un terme à leur collaboration."
+        english: "She put an end to their collaboration."
+      c:
+        french: "Mettant un terme à sa carrière politique, il se consacra à l'enseignement."
+        english: "Putting an end to his political career, he devoted himself to teaching."
+
+  - idiom: "s'arrêter net"
+    literal: "to stop clean"
+    meaning: "to stop dead"
+    difficulty: 42
+    frequency: 44
+    context: "general"
+    register: "neutral"
+    category: "interruption"
+    examples:
+      a:
+        french: "Il s'est arrêté net."
+        english: "He stopped dead."
+      b:
+        french: "La voiture s'est arrêtée net."
+        english: "The car stopped dead."
+      c:
+        french: "S'arrêtant net en voyant le danger, il évita l'accident."
+        english: "Stopping dead seeing the danger, he avoided the accident."
+
+  - idiom: "tirer un trait sur"
+    literal: "to draw a line on"
+    meaning: "to write off, put behind"
+    difficulty: 53
+    frequency: 55
+    context: "general"
+    register: "neutral"
+    category: "interruption"
+    examples:
+      a:
+        french: "Il faut tirer un trait sur le passé."
+        english: "We must put the past behind us."
+      b:
+        french: "Elle a tiré un trait sur cette relation."
+        english: "She wrote off this relationship."
+      c:
+        french: "Tirant un trait sur ses rêves de jeunesse, il accepta la réalité."
+        english: "Writing off his youthful dreams, he accepted reality."
+  # INCLUSION & EXCLUSION IDIOMS
+  - idiom: "faire partie de"
+    literal: "to make part of"
+    meaning: "to be part of"
+    difficulty: 19
+    frequency: 17
+    context: "general"
+    register: "neutral"
+    category: "inclusion"
+    examples:
+      a:
+        french: "Je fais partie de l'équipe."
+        english: "I'm part of the team."
+      b:
+        french: "Cela fait partie du plan."
+        english: "That's part of the plan."
+      c:
+        french: "Faisant partie de la famille, elle participait à toutes les décisions."
+        english: "Being part of the family, she participated in all decisions."
+
+  - idiom: "être de la partie"
+    literal: "to be of the party"
+    meaning: "to be in on it, take part"
+    difficulty: 47
+    frequency: 49
+    context: "general"
+    register: "informal"
+    category: "inclusion"
+    examples:
+      a:
+        french: "Tu es de la partie?"
+        english: "Are you in?"
+      b:
+        french: "Je suis de la partie!"
+        english: "I'm in!"
+      c:
+        french: "Étant de la partie, il connaissait tous les détails du projet."
+        english: "Being in on it, he knew all the details of the project."
+
+  - idiom: "mettre quelqu'un de côté"
+    literal: "to put someone aside"
+    meaning: "to sideline someone"
+    difficulty: 43
+    frequency: 45
+    context: "general"
+    register: "neutral"
+    category: "exclusion"
+    examples:
+      a:
+        french: "Ils l'ont mis de côté."
+        english: "They sidelined him."
+      b:
+        french: "Ne me mets pas de côté."
+        english: "Don't sideline me."
+      c:
+        french: "Mis de côté après son erreur, il perdit toute influence."
+        english: "Sidelined after his mistake, he lost all influence."
+
+  - idiom: "être tenu à l'écart"
+    literal: "to be kept at the gap"
+    meaning: "to be kept out, excluded"
+    difficulty: 48
+    frequency: 50
+    context: "general"
+    register: "neutral"
+    category: "exclusion"
+    examples:
+      a:
+        french: "Il est tenu à l'écart."
+        english: "He's being kept out."
+      b:
+        french: "Elle se sent tenue à l'écart."
+        english: "She feels excluded."
+      c:
+        french: "Étant tenue à l'écart des réunions, elle comprit qu'on ne lui faisait plus confiance."
+        english: "Being kept out of meetings, she understood they no longer trusted her."
+
+  # UNITY & DIVISION IDIOMS
+  - idiom: "faire front commun"
+    literal: "to make common front"
+    meaning: "to present a united front"
+    difficulty: 52
+    frequency: 54
+    context: "general"
+    register: "neutral"
+    category: "unity"
+    examples:
+      a:
+        french: "Il faut faire front commun."
+        english: "We must present a united front."
+      b:
+        french: "Ils font front commun contre l'adversaire."
+        english: "They present a united front against the opponent."
+      c:
+        french: "Faisant front commun face à la crise, les partis mirent leurs différends de côté."
+        english: "Presenting a united front in the face of crisis, the parties set aside their differences."
+
+  - idiom: "être sur la même longueur d'onde"
+    literal: "to be on the same wave length"
+    meaning: "to be on the same wavelength"
+    difficulty: 50
+    frequency: 52
+    context: "general"
+    register: "informal"
+    category: "unity"
+    examples:
+      a:
+        french: "Nous sommes sur la même longueur d'onde."
+        english: "We're on the same wavelength."
+      b:
+        french: "Ils ne sont pas sur la même longueur d'onde."
+        english: "They're not on the same wavelength."
+      c:
+        french: "Étant sur la même longueur d'onde, ils travaillèrent efficacement ensemble."
+        english: "Being on the same wavelength, they worked efficiently together."
+
+  - idiom: "semer la discorde"
+    literal: "to sow discord"
+    meaning: "to sow discord"
+    difficulty: 56
+    frequency: 58
+    context: "general"
+    register: "formal"
+    category: "division"
+    examples:
+      a:
+        french: "Il sème la discorde."
+        english: "He sows discord."
+      b:
+        french: "Ses paroles ont semé la discorde."
+        english: "His words sowed discord."
+      c:
+        french: "Semant la discorde au sein de l'équipe, il affaiblit le groupe."
+        english: "Sowing discord within the team, he weakened the group."
+
+  - idiom: "diviser pour mieux régner"
+    literal: "to divide to better reign"
+    meaning: "divide and conquer"
+    difficulty: 59
+    frequency: 61
+    context: "general"
+    register: "formal"
+    category: "division"
+    examples:
+      a:
+        french: "Il applique la tactique de diviser pour mieux régner."
+        english: "He applies the divide and conquer tactic."
+      b:
+        french: "Diviser pour mieux régner, c'est sa stratégie."
+        english: "Divide and conquer is his strategy."
+      c:
+        french: "Divisant pour mieux régner, le dirigeant maintint son pouvoir en opposant les factions."
+        english: "Dividing to conquer, the leader maintained his power by opposing factions."
+
+  # ORDER & DISORDER IDIOMS
+  - idiom: "mettre de l'ordre"
+    literal: "to put order"
+    meaning: "to tidy up, put in order"
+    difficulty: 27
+    frequency: 25
+    context: "general"
+    register: "neutral"
+    category: "order"
+    examples:
+      a:
+        french: "Il faut mettre de l'ordre."
+        english: "We need to tidy up."
+      b:
+        french: "Elle met de l'ordre dans ses affaires."
+        english: "She's putting her affairs in order."
+      c:
+        french: "Mettant de l'ordre dans sa vie, il se sentit plus serein."
+        english: "Putting his life in order, he felt more serene."
+
+  - idiom: "ranger ses affaires"
+    literal: "to arrange one's things"
+    meaning: "to tidy one's things"
+    difficulty: 22
+    frequency: 20
+    context: "general"
+    register: "neutral"
+    category: "order"
+    examples:
+      a:
+        french: "Range tes affaires!"
+        english: "Tidy your things!"
+      b:
+        french: "Il a rangé ses affaires."
+        english: "He tidied his things."
+      c:
+        french: "Rangeant ses affaires méticuleusement, elle gagnait du temps chaque jour."
+        english: "Tidying her things meticulously, she saved time every day."
+
+  - idiom: "mettre le bazar"
+    literal: "to put the bazaar"
+    meaning: "to make a mess"
+    difficulty: 45
+    frequency: 47
+    context: "general"
+    register: "informal"
+    category: "disorder"
+    examples:
+      a:
+        french: "Les enfants ont mis le bazar."
+        english: "The children made a mess."
+      b:
+        french: "Ne mets pas le bazar!"
+        english: "Don't make a mess!"
+      c:
+        french: "Mettant le bazar partout où il passait, il agaçait ses colocataires."
+        english: "Making a mess everywhere he went, he annoyed his roommates."
+
+  - idiom: "semer le chaos"
+    literal: "to sow chaos"
+    meaning: "to create chaos"
+    difficulty: 51
+    frequency: 53
+    context: "general"
+    register: "neutral"
+    category: "disorder"
+    examples:
+      a:
+        french: "Ses décisions ont semé le chaos."
+        english: "His decisions created chaos."
+      b:
+        french: "L'annonce a semé le chaos."
+        english: "The announcement created chaos."
+      c:
+        french: "Semant le chaos avec ses réformes hâtives, le ministre fut limogé."
+        english: "Creating chaos with his hasty reforms, the minister was dismissed."
+
+  # CONDITION & STATE IDIOMS
+  - idiom: "être en bon état"
+    literal: "to be in good state"
+    meaning: "to be in good condition"
+    difficulty: 25
+    frequency: 23
+    context: "general"
+    register: "neutral"
+    category: "condition"
+    examples:
+      a:
+        french: "La voiture est en bon état."
+        english: "The car is in good condition."
+      b:
+        french: "Le livre est encore en bon état."
+        english: "The book is still in good condition."
+      c:
+        french: "Étant en bon état malgré son âge, la maison se vendit rapidement."
+        english: "Being in good condition despite its age, the house sold quickly."
+
+  - idiom: "tomber en ruine"
+    literal: "to fall in ruin"
+    meaning: "to fall into ruin"
+    difficulty: 42
+    frequency: 44
+    context: "general"
+    register: "neutral"
+    category: "condition"
+    examples:
+      a:
+        french: "Le château tombe en ruine."
+        english: "The castle is falling into ruin."
+      b:
+        french: "L'immeuble est tombé en ruine."
+        english: "The building fell into ruin."
+      c:
+        french: "Tombant en ruine faute d'entretien, le monument fut finalement restauré."
+        english: "Falling into ruin for lack of maintenance, the monument was finally restored."
+
+  - idiom: "être en piteux état"
+    literal: "to be in pitiful state"
+    meaning: "to be in poor condition"
+    difficulty: 54
+    frequency: 56
+    context: "general"
+    register: "neutral"
+    category: "condition"
+    examples:
+      a:
+        french: "Il est en piteux état."
+        english: "He's in poor condition."
+      b:
+        french: "La maison est en piteux état."
+        english: "The house is in poor condition."
+      c:
+        french: "Étant en piteux état après l'accident, il dut être hospitalisé."
+        english: "Being in poor condition after the accident, he had to be hospitalized."
+
+  - idiom: "comme neuf"
+    literal: "like new"
+    meaning: "as good as new"
+    difficulty: 30
+    frequency: 28
+    context: "general"
+    register: "neutral"
+    category: "condition"
+    examples:
+      a:
+        french: "C'est comme neuf."
+        english: "It's as good as new."
+      b:
+        french: "La voiture est comme neuve."
+        english: "The car is as good as new."
+      c:
+        french: "Après la réparation, le vélo était comme neuf."
+        english: "After the repair, the bike was as good as new."
+
+  # HABIT & ROUTINE IDIOMS
+  - idiom: "avoir pour habitude de"
+    literal: "to have as habit to"
+    meaning: "to be in the habit of"
+    difficulty: 33
+    frequency: 31
+    context: "general"
+    register: "neutral"
+    category: "habit"
+    examples:
+      a:
+        french: "J'ai pour habitude de me lever tôt."
+        english: "I'm in the habit of waking up early."
+      b:
+        french: "Il a pour habitude de lire avant de dormir."
+        english: "He's in the habit of reading before sleeping."
+      c:
+        french: "Ayant pour habitude de tout vérifier, elle évitait les erreurs."
+        english: "Being in the habit of checking everything, she avoided mistakes."
+
+  - idiom: "sortir de sa routine"
+    literal: "to exit one's routine"
+    meaning: "to break out of one's routine"
+    difficulty: 38
+    frequency: 36
+    context: "general"
+    register: "neutral"
+    category: "routine"
+    examples:
+      a:
+        french: "Il faut sortir de sa routine."
+        english: "We need to break out of our routine."
+      b:
+        french: "Elle sort de sa routine le weekend."
+        english: "She breaks out of her routine on weekends."
+      c:
+        french: "Sortant de sa routine pour voyager, il découvrit une nouvelle passion."
+        english: "Breaking out of his routine to travel, he discovered a new passion."
+
+  - idiom: "prendre le pli de"
+    literal: "to take the fold of"
+    meaning: "to get into the habit of"
+    difficulty: 55
+    frequency: 57
+    context: "general"
+    register: "neutral"
+    category: "habit"
+    examples:
+      a:
+        french: "Il a pris le pli de se coucher tard."
+        english: "He got into the habit of going to bed late."
+      b:
+        french: "Elle a pris le pli de vérifier son téléphone constamment."
+        english: "She got into the habit of checking her phone constantly."
+      c:
+        french: "Prenant le pli de procrastiner, il eut du mal à respecter les délais."
+        english: "Getting into the habit of procrastinating, he had trouble meeting deadlines."
+
+  - idiom: "faire le train-train quotidien"
+    literal: "to do the daily train-train"
+    meaning: "to follow the daily grind"
+    difficulty: 53
+    frequency: 55
+    context: "general"
+    register: "informal"
+    category: "routine"
+    examples:
+      a:
+        french: "C'est le train-train quotidien."
+        english: "It's the daily grind."
+      b:
+        french: "Elle en a marre du train-train quotidien."
+        english: "She's tired of the daily grind."
+      c:
+        french: "Faisant le train-train quotidien sans joie, il rêvait d'aventure."
+        english: "Following the daily grind joylessly, he dreamed of adventure."
+
+  # NORMALITY & ABNORMALITY IDIOMS
+  - idiom: "comme d'habitude"
+    literal: "like usual"
+    meaning: "as usual"
+    difficulty: 18
+    frequency: 16
+    context: "general"
+    register: "neutral"
+    category: "normality"
+    examples:
+      a:
+        french: "Comme d'habitude, il est en retard."
+        english: "As usual, he's late."
+      b:
+        french: "Tout se passe comme d'habitude."
+        english: "Everything's going as usual."
+      c:
+        french: "Arrivant comme d'habitude à l'heure exacte, elle était ponctuelle."
+        english: "Arriving as usual at the exact time, she was punctual."
+
+  - idiom: "sortir de l'ordinaire"
+    literal: "to exit the ordinary"
+    meaning: "to be out of the ordinary"
+    difficulty: 46
+    frequency: 48
+    context: "general"
+    register: "neutral"
+    category: "abnormality"
+    examples:
+      a:
+        french: "Ce restaurant sort de l'ordinaire."
+        english: "This restaurant is out of the ordinary."
+      b:
+        french: "Son talent sort de l'ordinaire."
+        english: "His talent is out of the ordinary."
+      c:
+        french: "Sortant de l'ordinaire, l'événement attira une foule nombreuse."
+        english: "Being out of the ordinary, the event attracted a large crowd."
+
+  - idiom: "être dans la norme"
+    literal: "to be in the norm"
+    meaning: "to be within the norm"
+    difficulty: 34
+    frequency: 32
+    context: "general"
+    register: "neutral"
+    category: "normality"
+    examples:
+      a:
+        french: "C'est dans la norme."
+        english: "It's within the norm."
+      b:
+        french: "Son comportement est dans la norme."
+        english: "His behavior is within the norm."
+      c:
+        french: "Étant dans la norme, les résultats ne suscitèrent aucune inquiétude."
+        english: "Being within the norm, the results caused no concern."
+
+  - idiom: "sortir du lot"
+    literal: "to exit the lot"
+    meaning: "to stand out from the crowd"
+    difficulty: 49
+    frequency: 51
+    context: "general"
+    register: "neutral"
+    category: "abnormality"
+    examples:
+      a:
+        french: "Elle sort du lot."
+        english: "She stands out from the crowd."
+      b:
+        french: "Ce candidat sort du lot."
+        english: "This candidate stands out from the crowd."
+      c:
+        french: "Sortant du lot par son originalité, le projet fut sélectionné."
+        english: "Standing out from the crowd with its originality, the project was selected."
