@@ -225,95 +225,45 @@ function escapeLatex(text) {
 
 // Generate LaTeX document from idioms
 function generateLatex(idioms) {
-  const latex = `\\documentclass[11pt,a4paper]{article}
+  const latex = `\\documentclass[9pt,a4paper]{extarticle}
 \\usepackage{fontspec}
 \\usepackage[french]{babel}
-\\usepackage[margin=1in]{geometry}
+\\usepackage[margin=0.6in]{geometry}
 \\usepackage{fancyhdr}
 \\usepackage{xcolor}
-\\usepackage{enumitem}
-\\usepackage{titlesec}
+\\usepackage{parskip}
+
+% Compact spacing
+\\setlength{\\parindent}{0pt}
+\\setlength{\\parskip}{0.3em}
 
 % Page setup
 \\pagestyle{fancy}
 \\fancyhf{}
-\\fancyhead[L]{\\textit{Expressions Françaises}}
-\\fancyhead[R]{\\thepage}
-\\renewcommand{\\headrulewidth}{0.4pt}
+\\fancyhead[L]{\\small\\textit{Expressions Françaises}}
+\\fancyhead[R]{\\small\\thepage}
+\\renewcommand{\\headrulewidth}{0.3pt}
 
 % Colors
 \\definecolor{idiomcolor}{RGB}{44, 62, 80}
-\\definecolor{literalcolor}{RGB}{127, 140, 141}
-\\definecolor{metacolor}{RGB}{52, 73, 94}
-
-% Custom section formatting
-\\titleformat{\\section}
-  {\\Large\\bfseries\\color{idiomcolor}}
-  {}{0em}{}[\\vspace{-0.5em}\\rule{\\textwidth}{0.4pt}]
-\\titlespacing*{\\section}{0pt}{1.5em}{0.5em}
+\\definecolor{literalcolor}{RGB}{90, 90, 90}
+\\definecolor{metacolor}{RGB}{100, 100, 100}
 
 % Document
 \\begin{document}
 
-% Title page
-\\begin{titlepage}
-  \\centering
-  \\vspace*{2cm}
-  {\\Huge\\bfseries Expressions Françaises\\par}
-  \\vspace{1cm}
-  {\\Large Une collection de ${idioms.length} expressions idiomatiques\\par}
-  \\vspace{2cm}
-  {\\large Niveau: B2--C2+\\par}
-  \\vfill
-  {\\large \\today\\par}
-\\end{titlepage}
+% Simple title
+{\\Large\\bfseries\\centering Expressions Françaises\\par}
+{\\centering\\small ${idioms.length} expressions idiomatiques (B2--C2+) --- \\today\\par}
+\\vspace{1em}
 
-\\tableofcontents
-\\newpage
+${idioms.map((idiom, idx) => `\\noindent\\textbf{\\color{idiomcolor}${escapeLatex(idiom.idiom)}} {\\small\\color{literalcolor}\\textit{${escapeLatex(idiom.literal)}}} --- ${escapeLatex(idiom.meaning)}
 
-${idioms.map((idiom, idx) => `
-\\section{${escapeLatex(idiom.idiom)}}
+{\\scriptsize\\color{metacolor}Diff: ${idiom.difficulty} | Freq: ${idiom.frequency} | ${escapeLatex(idiom.register)}${idiom.category ? ` | ${escapeLatex(idiom.category)}` : ''}}
 
-{\\color{literalcolor}\\textit{${escapeLatex(idiom.literal)}}}
+{\\small\\textit{${escapeLatex(idiom.examples.a?.french || '')}}} {\\scriptsize ${escapeLatex(idiom.examples.a?.english || '')}}
 
-\\vspace{0.5em}
-
-\\textbf{Signification:} ${escapeLatex(idiom.meaning)}
-
-\\vspace{0.5em}
-
-{\\small\\color{metacolor}
-\\textbf{Difficulté:} ${idiom.difficulty}/100 \\quad
-\\textbf{Fréquence:} ${idiom.frequency}/100 \\quad
-\\textbf{Registre:} ${escapeLatex(idiom.register)} \\quad
-\\textbf{Contexte:} ${escapeLatex(idiom.context)}
-${idiom.category ? `\\quad \\textbf{Catégorie:} ${escapeLatex(idiom.category)}` : ''}
-}
-
-\\vspace{0.5em}
-
-\\textbf{Exemples:}
-
-\\begin{enumerate}[leftmargin=*, label=\\textbf{\\alph*.}, itemsep=0.3em]
-${idiom.examples.a ? `
-  \\item \\textit{${escapeLatex(idiom.examples.a.french)}}
-
-  ${escapeLatex(idiom.examples.a.english)}
-` : ''}
-${idiom.examples.b ? `
-  \\item \\textit{${escapeLatex(idiom.examples.b.french)}}
-
-  ${escapeLatex(idiom.examples.b.english)}
-` : ''}
-${idiom.examples.c ? `
-  \\item \\textit{${escapeLatex(idiom.examples.c.french)}}
-
-  ${escapeLatex(idiom.examples.c.english)}
-` : ''}
-\\end{enumerate}
-
-${idx < idioms.length - 1 ? '\\vspace{1em}\n' : ''}
-`).join('\n')}
+`).join('')}
 
 \\end{document}`;
 
@@ -390,7 +340,7 @@ function generatePDF(idioms, outputPath) {
     fs.copyFileSync(pdfPath, outputPath);
 
     console.log(`✓ PDF generated successfully: ${outputPath}`);
-    console.log(`  Total pages: ~${Math.ceil(idioms.length / 2)}`);
+    console.log(`  Total pages: ~${Math.ceil(idioms.length / 12)}`);
 
   } catch (error) {
     console.error('\nFailed to generate PDF.');
