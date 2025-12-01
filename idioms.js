@@ -74,15 +74,26 @@ function parseYAML(yamlContent) {
 function filterIdioms(idioms, filters) {
   if (!filters || filters.length === 0) return idioms;
 
+  // Validate filter properties first
+  const validProperties = ['freq', 'diff', 'context', 'register', 'category'];
+  for (const filter of filters) {
+    const match = filter.match(/^(\w+):(.+)$/);
+    if (!match) {
+      console.error(`Error: Invalid filter format: ${filter}`);
+      console.error(`Expected format: property:value (e.g., freq:<20, category:emotions)`);
+      process.exit(1);
+    }
+    const [, property] = match;
+    if (!validProperties.includes(property)) {
+      console.error(`Error: Unknown filter property: ${property}`);
+      console.error(`Valid properties: ${validProperties.join(', ')}`);
+      process.exit(1);
+    }
+  }
+
   return idioms.filter(idiom => {
     for (const filter of filters) {
-      // Parse filter: property:value or property:min-max or property:<value or property:>value
       const match = filter.match(/^(\w+):(.+)$/);
-      if (!match) {
-        console.error(`Invalid filter format: ${filter}`);
-        continue;
-      }
-
       const [, property, value] = match;
 
       // Handle numeric ranges and comparisons
@@ -116,9 +127,6 @@ function filterIdioms(idioms, filters) {
         const idiomValue = idiom[property] || '';
         // Case-insensitive partial match
         if (!idiomValue.toLowerCase().includes(value.toLowerCase())) return false;
-      }
-      else {
-        console.error(`Unknown filter property: ${property}`);
       }
     }
 
@@ -307,17 +315,20 @@ Examples:
   // Apply sorting
   idioms = sortIdioms(idioms, sortBy);
 
-  // Determine if we should print idioms or just count
-  const shouldPrintIdioms = template !== null || jsonOutput || ankiOutput;
+  // Determine if we have no arguments at all
+  const hasNoArgs = args.length === 0;
+
+  // Determine if we should print idioms (default is yes, unless ONLY --count is specified)
+  const onlyCount = showCount && !jsonOutput && !ankiOutput && template === null && filters.length === 0 && sortBy === null;
 
   // Show count
   if (showCount) {
     console.log(`Count: ${idioms.length}`);
-    if (!shouldPrintIdioms || idioms.length === 0) return;
+    if (onlyCount || idioms.length === 0) return;
     console.log('');
   }
 
-  // Output idioms if requested
+  // Output idioms (default behavior unless only --count was specified)
   if (jsonOutput) {
     console.log(JSON.stringify(idioms, null, 2));
   } else if (ankiOutput) {
@@ -327,7 +338,8 @@ Examples:
       const back = `${idiom.meaning}\n\nExample: ${idiom.examples.b?.french || idiom.examples.a?.french || ''}\nTranslation: ${idiom.examples.b?.english || idiom.examples.a?.english || ''}`;
       console.log(`${front};${back.replace(/\n/g, '<br>')}`);
     }
-  } else if (shouldPrintIdioms) {
+  } else if (!onlyCount) {
+    // Print idioms by default unless only --count was specified
     console.log(formatOutput(idioms, template));
   }
 }
