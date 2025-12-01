@@ -14081,3 +14081,1924 @@ ait des équations complexes avec aisance."
       c:
         french: "Se désintéressant de son travail, il devint improductif."
         english: "Losing interest in his work, he became unproductive."
+  # OPTIMISM & PESSIMISM MORE IDIOMS
+  - idiom: "voir le bon côté des choses"
+    literal: "to see the good side of things"
+    meaning: "to look on the bright side"
+    difficulty: 41
+    frequency: 43
+    context: "general"
+    register: "neutral"
+    category: "optimism"
+    examples:
+      a:
+        french: "Il faut voir le bon côté des choses."
+        english: "We must look on the bright side."
+      b:
+        french: "Elle voit toujours le bon côté des choses."
+        english: "She always looks on the bright side."
+      c:
+        french: "Voyant le bon côté des choses, il garda son moral."
+        english: "Looking on the bright side, he kept his morale up."
+
+  - idiom: "garder espoir"
+    literal: "to keep hope"
+    meaning: "to keep hoping"
+    difficulty: 28
+    frequency: 26
+    context: "general"
+    register: "neutral"
+    category: "optimism"
+    examples:
+      a:
+        french: "Il faut garder espoir."
+        english: "We must keep hoping."
+      b:
+        french: "Elle garde espoir."
+        english: "She keeps hoping."
+      c:
+        french: "Gardant espoir malgré tout, ils continuèrent."
+        english: "Keeping hope despite everything, they continued."
+
+  - idiom: "voir tout en noir"
+    literal: "to see everything in black"
+    meaning: "to see everything negatively"
+    difficulty: 47
+    frequency: 49
+    context: "general"
+    register: "informal"
+    category: "pessimism"
+    examples:
+      a:
+        french: "Il voit tout en noir."
+        english: "He sees everything negatively."
+      b:
+        french: "Elle voit tout en noir en ce moment."
+        english: "She's seeing everything negatively at the moment."
+      c:
+        french: "Voyant tout en noir après l'échec, il sombra dans la dépression."
+        english: "Seeing everything negatively after the failure, he sank into depression."
+
+  - idiom: "broyer du noir"
+    literal: "to grind black"
+    meaning: "to be down in the dumps"
+    difficulty: 57
+    frequency: 59
+    context: "general"
+    register: "informal"
+    category: "pessimism"
+    examples:
+      a:
+        french: "Il broie du noir."
+        english: "He's down in the dumps."
+      b:
+        french: "Elle broie du noir depuis des jours."
+        english: "She's been down in the dumps for days."
+      c:
+        french: "Broyant du noir, il s'isola de ses amis."
+        english: "Being down in the dumps, he isolated himself from his friends."
+
+  # INITIATIVE & PASSIVITY IDIOMS
+  - idiom: "prendre l'initiative"
+    literal: "to take the initiative"
+    meaning: "to take the initiative"
+    difficulty: 35
+    frequency: 33
+    context: "general"
+    register: "neutral"
+    category: "initiative"
+    examples:
+      a:
+        french: "Il faut prendre l'initiative."
+        english: "We must take the initiative."
+      b:
+        french: "Elle prend toujours l'initiative."
+        english: "She always takes the initiative."
+      c:
+        french: "Prenant l'initiative du projet, elle en devint la responsable."
+        english: "Taking the initiative on the project, she became its leader."
+
+  - idiom: "faire le premier pas"
+    literal: "to make the first step"
+    meaning: "to make the first move"
+    difficulty: 37
+    frequency: 39
+    context: "general"
+    register: "neutral"
+    category: "initiative"
+    examples:
+      a:
+        french: "Il a fait le premier pas."
+        english: "He made the first move."
+      b:
+        french: "C'est à toi de faire le premier pas."
+        english: "It's up to you to make the first move."
+      c:
+        french: "Faisant le premier pas vers la réconciliation, elle tendit la main."
+        english: "Making the first move toward reconciliation, she reached out."
+
+  - idiom: "rester passif"
+    literal: "to remain passive"
+    meaning: "to remain passive"
+    difficulty: 32
+    frequency: 34
+    context: "general"
+    register: "neutral"
+    category: "passivity"
+    examples:
+      a:
+        french: "Il est resté passif."
+        english: "He remained passive."
+      b:
+        french: "Elle reste passive face au problème."
+        english: "She remains passive in the face of the problem."
+      c:
+        french: "Restant passif durant la crise, il fut critiqué."
+        english: "Remaining passive during the crisis, he was criticized."
+
+  - idiom: "attendre que ça passe"
+    literal: "to wait for it to pass"
+    meaning: "to wait it out"
+    difficulty: 39
+    frequency: 41
+    context: "general"
+    register: "informal"
+    category: "passivity"
+    examples:
+      a:
+        french: "Il attend que ça passe."
+        english: "He's waiting it out."
+      b:
+        french: "Elle attend que ça passe sans agir."
+        english: "She's waiting it out without acting."
+      c:
+        french: "Attendant que ça passe, ils ne résolurent rien."
+        english: "Waiting it out, they solved nothing."
+
+  # DIRECTNESS & INDIRECTNESS IDIOMS
+  - idiom: "aller droit au but"
+    literal: "to go straight to the goal"
+    meaning: "to get straight to the point"
+    difficulty: 42
+    frequency: 44
+    context: "general"
+    register: "neutral"
+    category: "directness"
+    examples:
+      a:
+        french: "Allons droit au but."
+        english: "Let's get straight to the point."
+      b:
+        french: "Il va toujours droit au but."
+        english: "He always gets straight to the point."
+      c:
+        french: "Allant droit au but, elle annonça la mauvaise nouvelle."
+        english: "Getting straight to the point, she announced the bad news."
+
+  - idiom: "ne pas y aller par quatre chemins"
+    literal: "not to go there by four paths"
+    meaning: "not to beat around the bush"
+    difficulty: 58
+    frequency: 60
+    context: "general"
+    register: "informal"
+    category: "directness"
+    examples:
+      a:
+        french: "Il n'y va pas par quatre chemins."
+        english: "He doesn't beat around the bush."
+      b:
+        french: "Elle n'y va jamais par quatre chemins."
+        english: "She never beats around the bush."
+      c:
+        french: "N'y allant pas par quatre chemins, il dit ce qu'il pensait."
+        english: "Not beating around the bush, he said what he thought."
+
+  - idiom: "prendre des détours"
+    literal: "to take detours"
+    meaning: "to beat around the bush"
+    difficulty: 45
+    frequency: 47
+    context: "general"
+    register: "neutral"
+    category: "indirectness"
+    examples:
+      a:
+        french: "Il prend des détours."
+        english: "He's beating around the bush."
+      b:
+        french: "Arrête de prendre des détours."
+        english: "Stop beating around the bush."
+      c:
+        french: "Prenant des détours, il n'osa pas dire la vérité."
+        english: "Beating around the bush, he didn't dare tell the truth."
+
+  - idiom: "dire entre les lignes"
+    literal: "to say between the lines"
+    meaning: "to read between the lines"
+    difficulty: 50
+    frequency: 52
+    context: "general"
+    register: "neutral"
+    category: "indirectness"
+    examples:
+      a:
+        french: "Il faut lire entre les lignes."
+        english: "You must read between the lines."
+      b:
+        french: "Elle dit toujours les choses entre les lignes."
+        english: "She always says things between the lines."
+      c:
+        french: "Disant entre les lignes ce qu'il pensait, il resta diplomatique."
+        english: "Saying between the lines what he thought, he remained diplomatic."
+
+  # CONCENTRATION & DISTRACTION IDIOMS
+  - idiom: "se concentrer sur"
+    literal: "to concentrate on"
+    meaning: "to focus on"
+    difficulty: 26
+    frequency: 24
+    context: "general"
+    register: "neutral"
+    category: "concentration"
+    examples:
+      a:
+        french: "Il faut se concentrer sur l'essentiel."
+        english: "We must focus on the essential."
+      b:
+        french: "Elle se concentre sur son travail."
+        english: "She focuses on her work."
+      c:
+        french: "Se concentrant sur l'objectif, il ignora les distractions."
+        english: "Focusing on the objective, he ignored distractions."
+
+  - idiom: "être absorbé par"
+    literal: "to be absorbed by"
+    meaning: "to be absorbed in"
+    difficulty: 38
+    frequency: 40
+    context: "general"
+    register: "neutral"
+    category: "concentration"
+    examples:
+      a:
+        french: "Il est absorbé par son travail."
+        english: "He's absorbed in his work."
+      b:
+        french: "Elle était complètement absorbée par sa lecture."
+        english: "She was completely absorbed in her reading."
+      c:
+        french: "Étant absorbé par ses pensées, il ne remarqua rien."
+        english: "Being absorbed in his thoughts, he noticed nothing."
+
+  - idiom: "avoir l'esprit ailleurs"
+    literal: "to have the mind elsewhere"
+    meaning: "to have one's mind elsewhere"
+    difficulty: 44
+    frequency: 46
+    context: "general"
+    register: "neutral"
+    category: "distraction"
+    examples:
+      a:
+        french: "Il a l'esprit ailleurs."
+        english: "His mind is elsewhere."
+      b:
+        french: "Elle a l'esprit ailleurs aujourd'hui."
+        english: "Her mind is elsewhere today."
+      c:
+        french: "Ayant l'esprit ailleurs, il commit plusieurs erreurs."
+        english: "Having his mind elsewhere, he made several mistakes."
+
+  - idiom: "être distrait"
+    literal: "to be distracted"
+    meaning: "to be distracted"
+    difficulty: 29
+    frequency: 27
+    context: "general"
+    register: "neutral"
+    category: "distraction"
+    examples:
+      a:
+        french: "Il est très distrait."
+        english: "He's very distracted."
+      b:
+        french: "Elle est facilement distraite."
+        english: "She's easily distracted."
+      c:
+        french: "Étant distrait, il oublia ses clés."
+        english: "Being distracted, he forgot his keys."
+
+  # AWARENESS & UNAWARENESS IDIOMS
+  - idiom: "être conscient de"
+    literal: "to be conscious of"
+    meaning: "to be aware of"
+    difficulty: 30
+    frequency: 28
+    context: "general"
+    register: "neutral"
+    category: "awareness"
+    examples:
+      a:
+        french: "Je suis conscient du problème."
+        english: "I'm aware of the problem."
+      b:
+        french: "Il est conscient des risques."
+        english: "He's aware of the risks."
+      c:
+        french: "Étant conscient de ses limites, il demanda de l'aide."
+        english: "Being aware of his limits, he asked for help."
+
+  - idiom: "ouvrir les yeux"
+    literal: "to open the eyes"
+    meaning: "to open one's eyes, wake up"
+    difficulty: 40
+    frequency: 42
+    context: "general"
+    register: "neutral"
+    category: "awareness"
+    examples:
+      a:
+        french: "Il faut ouvrir les yeux."
+        english: "We must open our eyes."
+      b:
+        french: "Elle a ouvert les yeux sur la réalité."
+        english: "She opened her eyes to reality."
+      c:
+        french: "Ouvrant les yeux sur la vérité, il changea d'avis."
+        english: "Opening his eyes to the truth, he changed his mind."
+
+  - idiom: "ignorer quelque chose"
+    literal: "to ignore something"
+    meaning: "to be unaware of"
+    difficulty: 27
+    frequency: 25
+    context: "general"
+    register: "neutral"
+    category: "unawareness"
+    examples:
+      a:
+        french: "J'ignore ce détail."
+        english: "I'm unaware of this detail."
+      b:
+        french: "Il ignore la vérité."
+        english: "He's unaware of the truth."
+      c:
+        french: "Ignorant les faits, elle se trompa."
+        english: "Being unaware of the facts, she was mistaken."
+
+  - idiom: "ne pas se rendre compte"
+    literal: "not to render oneself account"
+    meaning: "not to realize"
+    difficulty: 33
+    frequency: 31
+    context: "general"
+    register: "neutral"
+    category: "unawareness"
+    examples:
+      a:
+        french: "Il ne se rend pas compte."
+        english: "He doesn't realize."
+      b:
+        french: "Elle ne se rend pas compte de la gravité."
+        english: "She doesn't realize the seriousness."
+      c:
+        french: "Ne se rendant pas compte du danger, il continua."
+        english: "Not realizing the danger, he continued."
+
+  # REALITY & ILLUSION IDIOMS
+  - idiom: "faire face à la réalité"
+    literal: "to face reality"
+    meaning: "to face reality"
+    difficulty: 36
+    frequency: 38
+    context: "general"
+    register: "neutral"
+    category: "reality"
+    examples:
+      a:
+        french: "Il faut faire face à la réalité."
+        english: "We must face reality."
+      b:
+        french: "Elle fait face à la réalité."
+        english: "She's facing reality."
+      c:
+        french: "Faisant face à la réalité, il accepta l'échec."
+        english: "Facing reality, he accepted the failure."
+
+  - idiom: "les pieds sur terre"
+    literal: "the feet on the ground"
+    meaning: "down to earth"
+    difficulty: 48
+    frequency: 50
+    context: "general"
+    register: "informal"
+    category: "reality"
+    examples:
+      a:
+        french: "Il a les pieds sur terre."
+        english: "He's down to earth."
+      b:
+        french: "Elle garde les pieds sur terre."
+        english: "She keeps her feet on the ground."
+      c:
+        french: "Ayant les pieds sur terre, elle évita les rêveries."
+        english: "Being down to earth, she avoided daydreaming."
+
+  - idiom: "vivre dans l'illusion"
+    literal: "to live in illusion"
+    meaning: "to live in illusion"
+    difficulty: 43
+    frequency: 45
+    context: "general"
+    register: "neutral"
+    category: "illusion"
+    examples:
+      a:
+        french: "Il vit dans l'illusion."
+        english: "He lives in illusion."
+      b:
+        french: "Elle vit dans l'illusion."
+        english: "She lives in illusion."
+      c:
+        french: "Vivant dans l'illusion, il refusa de voir la vérité."
+        english: "Living in illusion, he refused to see the truth."
+
+  - idiom: "se faire des illusions"
+    literal: "to make oneself illusions"
+    meaning: "to fool oneself"
+    difficulty: 46
+    frequency: 48
+    context: "general"
+    register: "neutral"
+    category: "illusion"
+    examples:
+      a:
+        french: "Ne te fais pas d'illusions."
+        english: "Don't fool yourself."
+      b:
+        french: "Il se fait des illusions."
+        english: "He's fooling himself."
+      c:
+        french: "Se faisant des illusions sur ses chances, il fut déçu."
+        english: "Fooling himself about his chances, he was disappointed."
+
+  # EXPECTATION & SURPRISE MORE IDIOMS
+  - idiom: "s'attendre à"
+    literal: "to wait oneself for"
+    meaning: "to expect"
+    difficulty: 28
+    frequency: 26
+    context: "general"
+    register: "neutral"
+    category: "expectation"
+    examples:
+      a:
+        french: "Je m'attends au pire."
+        english: "I expect the worst."
+      b:
+        french: "Il s'attend à réussir."
+        english: "He expects to succeed."
+      c:
+        french: "S'attendant à une réaction, elle prépara ses arguments."
+        english: "Expecting a reaction, she prepared her arguments."
+
+  - idiom: "être pris au dépourvu"
+    literal: "to be taken unprovided"
+    meaning: "to be caught off guard"
+    difficulty: 54
+    frequency: 56
+    context: "general"
+    register: "neutral"
+    category: "surprise"
+    examples:
+      a:
+        french: "J'ai été pris au dépourvu."
+        english: "I was caught off guard."
+      b:
+        french: "Elle a été prise au dépourvu."
+        english: "She was caught off guard."
+      c:
+        french: "Pris au dépourvu par la question, il bégaya."
+        english: "Caught off guard by the question, he stuttered."
+
+  - idiom: "tomber des nues"
+    literal: "to fall from the clouds"
+    meaning: "to be flabbergasted"
+    difficulty: 59
+    frequency: 61
+    context: "general"
+    register: "informal"
+    category: "surprise"
+    examples:
+      a:
+        french: "Je suis tombé des nues."
+        english: "I was flabbergasted."
+      b:
+        french: "Elle est tombée des nues."
+        english: "She was flabbergasted."
+      c:
+        french: "Tombant des nues en apprenant la nouvelle, il resta sans voix."
+        english: "Being flabbergasted learning the news, he was speechless."
+
+  - idiom: "être bouche bée"
+    literal: "to be mouth agape"
+    meaning: "to be dumbfounded"
+    difficulty: 51
+    frequency: 53
+    context: "general"
+    register: "neutral"
+    category: "surprise"
+    examples:
+      a:
+        french: "Je suis resté bouche bée."
+        english: "I was dumbfounded."
+      b:
+        french: "Elle était bouche bée."
+        english: "She was dumbfounded."
+      c:
+        french: "Étant bouche bée devant le spectacle, il ne dit rien."
+        english: "Being dumbfounded by the spectacle, he said nothing."
+
+  # MEMORY & FORGETFULNESS MORE IDIOMS
+  - idiom: "avoir bonne mémoire"
+    literal: "to have good memory"
+    meaning: "to have a good memory"
+    difficulty: 31
+    frequency: 29
+    context: "general"
+    register: "neutral"
+    category: "memory"
+    examples:
+      a:
+        french: "Il a bonne mémoire."
+        english: "He has a good memory."
+      b:
+        french: "Elle a toujours eu bonne mémoire."
+        english: "She's always had a good memory."
+      c:
+        french: "Ayant bonne mémoire, elle se souvenait de tout."
+        english: "Having a good memory, she remembered everything."
+
+  - idiom: "se rappeler de"
+    literal: "to recall oneself of"
+    meaning: "to remember"
+    difficulty: 25
+    frequency: 23
+    context: "general"
+    register: "neutral"
+    category: "memory"
+    examples:
+      a:
+        french: "Je me rappelle de ce jour."
+        english: "I remember that day."
+      b:
+        french: "Il se rappelle de tout."
+        english: "He remembers everything."
+      c:
+        french: "Se rappelant de l'incident, elle frissonna."
+        english: "Remembering the incident, she shivered."
+
+  - idiom: "avoir la mémoire courte"
+    literal: "to have short memory"
+    meaning: "to have a short memory"
+    difficulty: 49
+    frequency: 51
+    context: "general"
+    register: "informal"
+    category: "forgetfulness"
+    examples:
+      a:
+        french: "Il a la mémoire courte."
+        english: "He has a short memory."
+      b:
+        french: "Tu as la mémoire courte!"
+        english: "You have a short memory!"
+      c:
+        french: "Ayant la mémoire courte, il oublia rapidement les promesses."
+        english: "Having a short memory, he quickly forgot the promises."
+
+  - idiom: "ça m'échappe"
+    literal: "it escapes me"
+    meaning: "it escapes me, I can't remember"
+    difficulty: 41
+    frequency: 43
+    context: "general"
+    register: "informal"
+    category: "forgetfulness"
+    examples:
+      a:
+        french: "Son nom m'échappe."
+        english: "His name escapes me."
+      b:
+        french: "Ça m'échappe complètement."
+        english: "It completely escapes me."
+      c:
+        french: "Le détail lui échappant, il ne put répondre."
+        english: "The detail escaping him, he couldn't answer."
+  # IMAGINATION & PRACTICALITY IDIOMS
+  - idiom: "avoir de l'imagination"
+    literal: "to have imagination"
+    meaning: "to have imagination"
+    difficulty: 24
+    frequency: 22
+    context: "general"
+    register: "neutral"
+    category: "imagination"
+    examples:
+      a:
+        french: "Il a beaucoup d'imagination."
+        english: "He has a lot of imagination."
+      b:
+        french: "Elle a une imagination débordante."
+        english: "She has a overflowing imagination."
+      c:
+        french: "Ayant de l'imagination, elle inventa des histoires fascinantes."
+        english: "Having imagination, she invented fascinating stories."
+
+  - idiom: "rêver éveillé"
+    literal: "to dream awake"
+    meaning: "to daydream"
+    difficulty: 47
+    frequency: 49
+    context: "general"
+    register: "neutral"
+    category: "imagination"
+    examples:
+      a:
+        french: "Il rêve éveillé."
+        english: "He's daydreaming."
+      b:
+        french: "Elle rêve éveillée en classe."
+        english: "She daydreams in class."
+      c:
+        french: "Rêvant éveillé, il manqua le bus."
+        english: "Daydreaming, he missed the bus."
+
+  - idiom: "avoir les pieds sur terre"
+    literal: "to have feet on the ground"
+    meaning: "to be practical, down-to-earth"
+    difficulty: 44
+    frequency: 46
+    context: "general"
+    register: "neutral"
+    category: "practicality"
+    examples:
+      a:
+        french: "Il a les pieds sur terre."
+        english: "He's practical."
+      b:
+        french: "Elle a toujours les pieds sur terre."
+        english: "She's always down-to-earth."
+      c:
+        french: "Ayant les pieds sur terre, il choisit une carrière stable."
+        english: "Being practical, he chose a stable career."
+
+  - idiom: "être terre à terre"
+    literal: "to be ground to ground"
+    meaning: "to be down-to-earth"
+    difficulty: 52
+    frequency: 54
+    context: "general"
+    register: "neutral"
+    category: "practicality"
+    examples:
+      a:
+        french: "Il est très terre à terre."
+        english: "He's very down-to-earth."
+      b:
+        french: "Elle est terre à terre."
+        english: "She's down-to-earth."
+      c:
+        french: "Étant terre à terre, elle préféra les solutions pratiques."
+        english: "Being down-to-earth, she preferred practical solutions."
+
+  # PRECISION & VAGUENESS IDIOMS
+  - idiom: "être précis"
+    literal: "to be precise"
+    meaning: "to be precise"
+    difficulty: 27
+    frequency: 25
+    context: "general"
+    register: "neutral"
+    category: "precision"
+    examples:
+      a:
+        french: "Il faut être précis."
+        english: "We must be precise."
+      b:
+        french: "Elle est toujours précise."
+        english: "She's always precise."
+      c:
+        french: "Étant précis dans ses instructions, il évita les erreurs."
+        english: "Being precise in his instructions, he avoided errors."
+
+  - idiom: "entrer dans les détails"
+    literal: "to enter into the details"
+    meaning: "to go into details"
+    difficulty: 35
+    frequency: 37
+    context: "general"
+    register: "neutral"
+    category: "precision"
+    examples:
+      a:
+        french: "Il faut entrer dans les détails."
+        english: "We must go into details."
+      b:
+        french: "Elle entre toujours dans les détails."
+        english: "She always goes into details."
+      c:
+        french: "Entrant dans les détails, il expliqua chaque étape."
+        english: "Going into details, he explained each step."
+
+  - idiom: "rester vague"
+    literal: "to remain vague"
+    meaning: "to remain vague"
+    difficulty: 33
+    frequency: 35
+    context: "general"
+    register: "neutral"
+    category: "vagueness"
+    examples:
+      a:
+        french: "Il est resté vague."
+        english: "He remained vague."
+      b:
+        french: "Elle reste vague sur le sujet."
+        english: "She remains vague on the subject."
+      c:
+        french: "Restant vague, il ne donna aucune information précise."
+        english: "Remaining vague, he gave no precise information."
+
+  - idiom: "parler en termes généraux"
+    literal: "to speak in general terms"
+    meaning: "to speak in general terms"
+    difficulty: 40
+    frequency: 42
+    context: "general"
+    register: "neutral"
+    category: "vagueness"
+    examples:
+      a:
+        french: "Il parle en termes généraux."
+        english: "He speaks in general terms."
+      b:
+        french: "Elle parle toujours en termes généraux."
+        english: "She always speaks in general terms."
+      c:
+        french: "Parlant en termes généraux, il évita les questions précises."
+        english: "Speaking in general terms, he avoided specific questions."
+
+  # HONESTY & DISHONESTY MORE IDIOMS
+  - idiom: "être franc"
+    literal: "to be frank"
+    meaning: "to be frank"
+    difficulty: 26
+    frequency: 24
+    context: "general"
+    register: "neutral"
+    category: "honesty"
+    examples:
+      a:
+        french: "Je vais être franc."
+        english: "I'll be frank."
+      b:
+        french: "Il est toujours franc."
+        english: "He's always frank."
+      c:
+        french: "Étant franc, il dit exactement ce qu'il pensait."
+        english: "Being frank, he said exactly what he thought."
+
+  - idiom: "jouer franc jeu"
+    literal: "to play frank game"
+    meaning: "to play fair"
+    difficulty: 53
+    frequency: 55
+    context: "general"
+    register: "neutral"
+    category: "honesty"
+    examples:
+      a:
+        french: "Il joue franc jeu."
+        english: "He plays fair."
+      b:
+        french: "Elle joue toujours franc jeu."
+        english: "She always plays fair."
+      c:
+        french: "Jouant franc jeu, il gagna le respect de tous."
+        english: "Playing fair, he gained everyone's respect."
+
+  - idiom: "tromper quelqu'un"
+    literal: "to deceive someone"
+    meaning: "to deceive someone"
+    difficulty: 29
+    frequency: 27
+    context: "general"
+    register: "neutral"
+    category: "dishonesty"
+    examples:
+      a:
+        french: "Il m'a trompé."
+        english: "He deceived me."
+      b:
+        french: "Ne me trompe pas."
+        english: "Don't deceive me."
+      c:
+        french: "Trompant tout le monde, il mena une double vie."
+        english: "Deceiving everyone, he led a double life."
+
+  - idiom: "mentir effrontément"
+    literal: "to lie shamelessly"
+    meaning: "to lie shamelessly"
+    difficulty: 43
+    frequency: 45
+    context: "general"
+    register: "neutral"
+    category: "dishonesty"
+    examples:
+      a:
+        french: "Il ment effrontément."
+        english: "He lies shamelessly."
+      b:
+        french: "Elle a menti effrontément."
+        english: "She lied shamelessly."
+      c:
+        french: "Mentant effrontément, il fut rapidement démasqué."
+        english: "Lying shamelessly, he was quickly unmasked."
+
+  # LOYALTY & BETRAYAL MORE IDIOMS
+  - idiom: "être loyal"
+    literal: "to be loyal"
+    meaning: "to be loyal"
+    difficulty: 28
+    frequency: 26
+    context: "general"
+    register: "neutral"
+    category: "loyalty"
+    examples:
+      a:
+        french: "Il est loyal."
+        english: "He's loyal."
+      b:
+        french: "Elle est loyale envers ses amis."
+        english: "She's loyal to her friends."
+      c:
+        french: "Étant loyal, il ne trahit jamais la confiance."
+        english: "Being loyal, he never betrayed trust."
+
+  - idiom: "rester fidèle à"
+    literal: "to remain faithful to"
+    meaning: "to remain faithful to"
+    difficulty: 32
+    frequency: 30
+    context: "general"
+    register: "neutral"
+    category: "loyalty"
+    examples:
+      a:
+        french: "Il est resté fidèle à ses principes."
+        english: "He remained faithful to his principles."
+      b:
+        french: "Elle reste fidèle à ses amis."
+        english: "She remains faithful to her friends."
+      c:
+        french: "Restant fidèle à sa parole, il tint sa promesse."
+        english: "Remaining faithful to his word, he kept his promise."
+
+  - idiom: "trahir quelqu'un"
+    literal: "to betray someone"
+    meaning: "to betray someone"
+    difficulty: 30
+    frequency: 28
+    context: "general"
+    register: "neutral"
+    category: "betrayal"
+    examples:
+      a:
+        french: "Il l'a trahi."
+        english: "He betrayed him."
+      b:
+        french: "Elle a trahi sa confiance."
+        english: "She betrayed his trust."
+      c:
+        french: "Trahissant ses amis, il perdit tout."
+        english: "Betraying his friends, he lost everything."
+
+  - idiom: "poignarder dans le dos"
+    literal: "to stab in the back"
+    meaning: "to stab in the back"
+    difficulty: 50
+    frequency: 52
+    context: "general"
+    register: "informal"
+    category: "betrayal"
+    examples:
+      a:
+        french: "Il m'a poignardé dans le dos."
+        english: "He stabbed me in the back."
+      b:
+        french: "Elle l'a poignardé dans le dos."
+        english: "She stabbed him in the back."
+      c:
+        french: "Poignardé dans le dos par son associé, il fit faillite."
+        english: "Stabbed in the back by his partner, he went bankrupt."
+
+  # PROMISE & BREACH IDIOMS
+  - idiom: "tenir sa promesse"
+    literal: "to hold one's promise"
+    meaning: "to keep one's promise"
+    difficulty: 31
+    frequency: 29
+    context: "general"
+    register: "neutral"
+    category: "promise"
+    examples:
+      a:
+        french: "Il tient toujours ses promesses."
+        english: "He always keeps his promises."
+      b:
+        french: "Elle a tenu sa promesse."
+        english: "She kept her promise."
+      c:
+        french: "Tenant sa promesse malgré les difficultés, il gagna leur respect."
+        english: "Keeping his promise despite difficulties, he gained their respect."
+
+  - idiom: "promettre monts et merveilles"
+    literal: "to promise mountains and wonders"
+    meaning: "to promise the moon"
+    difficulty: 60
+    frequency: 62
+    context: "general"
+    register: "informal"
+    category: "promise"
+    examples:
+      a:
+        french: "Il promet monts et merveilles."
+        english: "He promises the moon."
+      b:
+        french: "Elle promet toujours monts et merveilles."
+        english: "She always promises the moon."
+      c:
+        french: "Promettant monts et merveilles, il ne tint aucune promesse."
+        english: "Promising the moon, he kept no promise."
+
+  - idiom: "manquer à sa parole"
+    literal: "to miss one's word"
+    meaning: "to break one's word"
+    difficulty: 46
+    frequency: 48
+    context: "general"
+    register: "neutral"
+    category: "breach"
+    examples:
+      a:
+        french: "Il a manqué à sa parole."
+        english: "He broke his word."
+      b:
+        french: "Ne manque pas à ta parole."
+        english: "Don't break your word."
+      c:
+        french: "Manquant à sa parole, il perdit toute crédibilité."
+        english: "Breaking his word, he lost all credibility."
+
+  - idiom: "rompre un engagement"
+    literal: "to break an engagement"
+    meaning: "to break a commitment"
+    difficulty: 42
+    frequency: 44
+    context: "general"
+    register: "neutral"
+    category: "breach"
+    examples:
+      a:
+        french: "Il a rompu son engagement."
+        english: "He broke his commitment."
+      b:
+        french: "Elle rompt ses engagements."
+        english: "She breaks her commitments."
+      c:
+        french: "Rompant son engagement, il fut poursuivi en justice."
+        english: "Breaking his commitment, he was sued."
+
+  # RELIABILITY & UNRELIABILITY IDIOMS
+  - idiom: "être fiable"
+    literal: "to be reliable"
+    meaning: "to be reliable"
+    difficulty: 27
+    frequency: 25
+    context: "general"
+    register: "neutral"
+    category: "reliability"
+    examples:
+      a:
+        french: "Il est très fiable."
+        english: "He's very reliable."
+      b:
+        french: "Elle est fiable."
+        english: "She's reliable."
+      c:
+        french: "Étant fiable, on lui confiait les tâches importantes."
+        english: "Being reliable, he was entrusted with important tasks."
+
+  - idiom: "être de confiance"
+    literal: "to be of trust"
+    meaning: "to be trustworthy"
+    difficulty: 37
+    frequency: 39
+    context: "general"
+    register: "neutral"
+    category: "reliability"
+    examples:
+      a:
+        french: "C'est une personne de confiance."
+        english: "He's a trustworthy person."
+      b:
+        french: "Elle est de confiance."
+        english: "She's trustworthy."
+      c:
+        french: "Étant de confiance, elle gardait tous les secrets."
+        english: "Being trustworthy, she kept all secrets."
+
+  - idiom: "faire faux bond"
+    literal: "to make false bond"
+    meaning: "to let someone down"
+    difficulty: 57
+    frequency: 59
+    context: "general"
+    register: "informal"
+    category: "unreliability"
+    examples:
+      a:
+        french: "Il m'a fait faux bond."
+        english: "He let me down."
+      b:
+        french: "Ne me fais pas faux bond."
+        english: "Don't let me down."
+      c:
+        french: "Faisant faux bond au dernier moment, il ruina les plans."
+        english: "Letting them down at the last moment, he ruined the plans."
+
+  - idiom: "ne pas être sérieux"
+    literal: "not to be serious"
+    meaning: "to be unreliable"
+    difficulty: 29
+    frequency: 27
+    context: "general"
+    register: "informal"
+    category: "unreliability"
+    examples:
+      a:
+        french: "Il n'est pas sérieux."
+        english: "He's unreliable."
+      b:
+        french: "Elle n'est pas sérieuse."
+        english: "She's unreliable."
+      c:
+        french: "N'étant pas sérieux, il perdit le contrat."
+        english: "Being unreliable, he lost the contract."
+
+  # CAUTION & RECKLESSNESS MORE IDIOMS
+  - idiom: "être prudent"
+    literal: "to be prudent"
+    meaning: "to be careful"
+    difficulty: 24
+    frequency: 22
+    context: "general"
+    register: "neutral"
+    category: "caution"
+    examples:
+      a:
+        french: "Il faut être prudent."
+        english: "We must be careful."
+      b:
+        french: "Elle est très prudente."
+        english: "She's very careful."
+      c:
+        french: "Étant prudent, il vérifia tout deux fois."
+        english: "Being careful, he checked everything twice."
+
+  - idiom: "ne prendre aucun risque"
+    literal: "to take no risk"
+    meaning: "to take no risks"
+    difficulty: 32
+    frequency: 30
+    context: "general"
+    register: "neutral"
+    category: "caution"
+    examples:
+      a:
+        french: "Il ne prend aucun risque."
+        english: "He takes no risks."
+      b:
+        french: "Elle ne prend jamais aucun risque."
+        english: "She never takes any risks."
+      c:
+        french: "Ne prenant aucun risque, il rata des opportunités."
+        english: "Taking no risks, he missed opportunities."
+
+  - idiom: "agir sans réfléchir"
+    literal: "to act without reflecting"
+    meaning: "to act without thinking"
+    difficulty: 36
+    frequency: 38
+    context: "general"
+    register: "neutral"
+    category: "recklessness"
+    examples:
+      a:
+        french: "Il agit sans réfléchir."
+        english: "He acts without thinking."
+      b:
+        french: "Elle agit toujours sans réfléchir."
+        english: "She always acts without thinking."
+      c:
+        french: "Agissant sans réfléchir, il commit une erreur grave."
+        english: "Acting without thinking, he made a serious mistake."
+
+  - idiom: "jouer avec le feu"
+    literal: "to play with fire"
+    meaning: "to play with fire"
+    difficulty: 45
+    frequency: 47
+    context: "general"
+    register: "informal"
+    category: "recklessness"
+    examples:
+      a:
+        french: "Tu joues avec le feu."
+        english: "You're playing with fire."
+      b:
+        french: "Il joue avec le feu."
+        english: "He's playing with fire."
+      c:
+        french: "Jouant avec le feu, il finit par se brûler."
+        english: "Playing with fire, he ended up getting burned."
+  # WILLINGNESS & RELUCTANCE IDIOMS
+  - idiom: "être disposé à"
+    literal: "to be disposed to"
+    meaning: "to be willing to"
+    difficulty: 39
+    frequency: 41
+    context: "general"
+    register: "neutral"
+    category: "willingness"
+    examples:
+      a:
+        french: "Je suis disposé à aider."
+        english: "I'm willing to help."
+      b:
+        french: "Elle est disposée à négocier."
+        english: "She's willing to negotiate."
+      c:
+        french: "Étant disposé à faire des concessions, il facilita l'accord."
+        english: "Being willing to make concessions, he facilitated the agreement."
+
+  - idiom: "de bon gré"
+    literal: "of good will"
+    meaning: "willingly"
+    difficulty: 51
+    frequency: 53
+    context: "general"
+    register: "neutral"
+    category: "willingness"
+    examples:
+      a:
+        french: "Il l'a fait de bon gré."
+        english: "He did it willingly."
+      b:
+        french: "Elle participe de bon gré."
+        english: "She participates willingly."
+      c:
+        french: "Acceptant de bon gré, il montra sa bonne volonté."
+        english: "Accepting willingly, he showed his goodwill."
+
+  - idiom: "à contrecœur"
+    literal: "against heart"
+    meaning: "reluctantly"
+    difficulty: 48
+    frequency: 50
+    context: "general"
+    register: "neutral"
+    category: "reluctance"
+    examples:
+      a:
+        french: "Il l'a fait à contrecœur."
+        english: "He did it reluctantly."
+      b:
+        french: "Elle accepte à contrecœur."
+        english: "She accepts reluctantly."
+      c:
+        french: "Cédant à contrecœur, il garda son amertume."
+        english: "Giving in reluctantly, he kept his bitterness."
+
+  - idiom: "traîner des pieds"
+    literal: "to drag feet"
+    meaning: "to drag one's feet"
+    difficulty: 54
+    frequency: 56
+    context: "general"
+    register: "informal"
+    category: "reluctance"
+    examples:
+      a:
+        french: "Il traîne des pieds."
+        english: "He's dragging his feet."
+      b:
+        french: "Elle traîne des pieds pour commencer."
+        english: "She's dragging her feet to start."
+      c:
+        french: "Traînant des pieds, il retarda le projet."
+        english: "Dragging his feet, he delayed the project."
+
+  # COMMITMENT & WITHDRAWAL IDIOMS
+  - idiom: "s'engager dans"
+    literal: "to engage oneself in"
+    meaning: "to commit to"
+    difficulty: 34
+    frequency: 36
+    context: "general"
+    register: "neutral"
+    category: "commitment"
+    examples:
+      a:
+        french: "Il s'engage dans ce projet."
+        english: "He commits to this project."
+      b:
+        french: "Elle s'est engagée dans la politique."
+        english: "She committed to politics."
+      c:
+        french: "S'engageant totalement, il consacra sa vie à la cause."
+        english: "Committing totally, he devoted his life to the cause."
+
+  - idiom: "mettre tout son cœur"
+    literal: "to put all one's heart"
+    meaning: "to put one's heart into it"
+    difficulty: 41
+    frequency: 43
+    context: "general"
+    register: "neutral"
+    category: "commitment"
+    examples:
+      a:
+        french: "Il met tout son cœur dans son travail."
+        english: "He puts his heart into his work."
+      b:
+        french: "Elle met tout son cœur dans ce projet."
+        english: "She puts her heart into this project."
+      c:
+        french: "Mettant tout son cœur, elle réussit brillamment."
+        english: "Putting her heart into it, she succeeded brilliantly."
+
+  - idiom: "se retirer de"
+    literal: "to withdraw from"
+    meaning: "to withdraw from"
+    difficulty: 35
+    frequency: 37
+    context: "general"
+    register: "neutral"
+    category: "withdrawal"
+    examples:
+      a:
+        french: "Il s'est retiré du projet."
+        english: "He withdrew from the project."
+      b:
+        french: "Elle se retire de la compétition."
+        english: "She's withdrawing from the competition."
+      c:
+        french: "Se retirant du débat, il laissa les autres décider."
+        english: "Withdrawing from the debate, he let others decide."
+
+  - idiom: "jeter l'éponge"
+    literal: "to throw the sponge"
+    meaning: "to throw in the towel"
+    difficulty: 55
+    frequency: 57
+    context: "general"
+    register: "informal"
+    category: "withdrawal"
+    examples:
+      a:
+        french: "Il a jeté l'éponge."
+        english: "He threw in the towel."
+      b:
+        french: "Ne jette pas l'éponge."
+        english: "Don't throw in the towel."
+      c:
+        french: "Jetant l'éponge après des mois d'efforts, il abandonna."
+        english: "Throwing in the towel after months of effort, he gave up."
+
+  # EAGERNESS & INDIFFERENCE MORE IDIOMS
+  - idiom: "avoir hâte de"
+    literal: "to have haste to"
+    meaning: "to be eager to"
+    difficulty: 30
+    frequency: 28
+    context: "general"
+    register: "neutral"
+    category: "eagerness"
+    examples:
+      a:
+        french: "J'ai hâte de le voir."
+        english: "I'm eager to see him."
+      b:
+        french: "Elle a hâte de commencer."
+        english: "She's eager to start."
+      c:
+        french: "Ayant hâte de découvrir le résultat, il ouvrit l'enveloppe."
+        english: "Being eager to discover the result, he opened the envelope."
+
+  - idiom: "être impatient de"
+    literal: "to be impatient to"
+    meaning: "to be impatient to"
+    difficulty: 28
+    frequency: 26
+    context: "general"
+    register: "neutral"
+    category: "eagerness"
+    examples:
+      a:
+        french: "Je suis impatient de commencer."
+        english: "I'm impatient to start."
+      b:
+        french: "Il est impatient de voir le résultat."
+        english: "He's impatient to see the result."
+      c:
+        french: "Étant impatient de partir, il prépara ses valises la veille."
+        english: "Being impatient to leave, he packed his bags the day before."
+
+  - idiom: "s'en battre l'œil"
+    literal: "to beat oneself the eye of it"
+    meaning: "not to give a damn"
+    difficulty: 58
+    frequency: 60
+    context: "general"
+    register: "vulgar"
+    category: "indifference"
+    examples:
+      a:
+        french: "Je m'en bats l'œil."
+        english: "I don't give a damn."
+      b:
+        french: "Il s'en bat l'œil complètement."
+        english: "He doesn't give a damn at all."
+      c:
+        french: "S'en battant l'œil, il ignora les critiques."
+        english: "Not giving a damn, he ignored the criticism."
+
+  - idiom: "peu importe"
+    literal: "little matters"
+    meaning: "it doesn't matter"
+    difficulty: 25
+    frequency: 23
+    context: "general"
+    register: "neutral"
+    category: "indifference"
+    examples:
+      a:
+        french: "Peu importe."
+        english: "It doesn't matter."
+      b:
+        french: "Peu importe ce qu'ils pensent."
+        english: "It doesn't matter what they think."
+      c:
+        french: "Peu important les obstacles, il poursuivit."
+        english: "The obstacles not mattering, he continued."
+
+  # PROVOCATION & RESTRAINT IDIOMS
+  - idiom: "chercher les ennuis"
+    literal: "to look for troubles"
+    meaning: "to look for trouble"
+    difficulty: 38
+    frequency: 40
+    context: "general"
+    register: "informal"
+    category: "provocation"
+    examples:
+      a:
+        french: "Il cherche les ennuis."
+        english: "He's looking for trouble."
+      b:
+        french: "Ne cherche pas les ennuis."
+        english: "Don't look for trouble."
+      c:
+        french: "Cherchant les ennuis, il provoqua une bagarre."
+        english: "Looking for trouble, he provoked a fight."
+
+  - idiom: "provoquer quelqu'un"
+    literal: "to provoke someone"
+    meaning: "to provoke someone"
+    difficulty: 31
+    frequency: 29
+    context: "general"
+    register: "neutral"
+    category: "provocation"
+    examples:
+      a:
+        french: "Il me provoque."
+        english: "He's provoking me."
+      b:
+        french: "Ne le provoque pas."
+        english: "Don't provoke him."
+      c:
+        french: "Provoquant son adversaire, il espérait le déstabiliser."
+        english: "Provoking his opponent, he hoped to destabilize him."
+
+  - idiom: "garder son calme"
+    literal: "to keep one's calm"
+    meaning: "to keep one's cool"
+    difficulty: 29
+    frequency: 27
+    context: "general"
+    register: "neutral"
+    category: "restraint"
+    examples:
+      a:
+        french: "Il faut garder son calme."
+        english: "We must keep our cool."
+      b:
+        french: "Elle garde toujours son calme."
+        english: "She always keeps her cool."
+      c:
+        french: "Gardant son calme malgré les insultes, il ne répondit pas."
+        english: "Keeping his cool despite the insults, he didn't respond."
+
+  - idiom: "se retenir"
+    literal: "to hold oneself back"
+    meaning: "to restrain oneself"
+    difficulty: 33
+    frequency: 31
+    context: "general"
+    register: "neutral"
+    category: "restraint"
+    examples:
+      a:
+        french: "Je me retiens de répondre."
+        english: "I'm restraining myself from responding."
+      b:
+        french: "Il se retient difficilement."
+        english: "He's restraining himself with difficulty."
+      c:
+        french: "Se retenant de crier, elle respira profondément."
+        english: "Restraining herself from shouting, she breathed deeply."
+
+  # MODERATION & EXCESS IDIOMS
+  - idiom: "faire preuve de modération"
+    literal: "to show moderation"
+    meaning: "to show moderation"
+    difficulty: 44
+    frequency: 46
+    context: "general"
+    register: "neutral"
+    category: "moderation"
+    examples:
+      a:
+        french: "Il faut faire preuve de modération."
+        english: "We must show moderation."
+      b:
+        french: "Elle fait toujours preuve de modération."
+        english: "She always shows moderation."
+      c:
+        french: "Faisant preuve de modération, il évita les excès."
+        english: "Showing moderation, he avoided excesses."
+
+  - idiom: "avec modération"
+    literal: "with moderation"
+    meaning: "in moderation"
+    difficulty: 32
+    frequency: 30
+    context: "general"
+    register: "neutral"
+    category: "moderation"
+    examples:
+      a:
+        french: "À consommer avec modération."
+        english: "To be consumed in moderation."
+      b:
+        french: "Il boit avec modération."
+        english: "He drinks in moderation."
+      c:
+        french: "Vivant avec modération, elle jouissait d'une excellente santé."
+        english: "Living in moderation, she enjoyed excellent health."
+
+  - idiom: "aller trop loin"
+    literal: "to go too far"
+    meaning: "to go too far"
+    difficulty: 27
+    frequency: 25
+    context: "general"
+    register: "neutral"
+    category: "excess"
+    examples:
+      a:
+        french: "Tu vas trop loin."
+        english: "You're going too far."
+      b:
+        french: "Il est allé trop loin."
+        english: "He went too far."
+      c:
+        french: "Allant trop loin dans ses critiques, il blessa profondément."
+        english: "Going too far in his criticism, he deeply hurt."
+
+  - idiom: "en faire trop"
+    literal: "to do too much of it"
+    meaning: "to overdo it"
+    difficulty: 35
+    frequency: 37
+    context: "general"
+    register: "informal"
+    category: "excess"
+    examples:
+      a:
+        french: "Tu en fais trop."
+        english: "You're overdoing it."
+      b:
+        french: "Il en fait toujours trop."
+        english: "He always overdoes it."
+      c:
+        french: "En faisant trop, elle épuisa ses ressources."
+        english: "Overdoing it, she exhausted her resources."
+
+  # BALANCE & IMBALANCE IDIOMS
+  - idiom: "trouver l'équilibre"
+    literal: "to find balance"
+    meaning: "to find balance"
+    difficulty: 36
+    frequency: 38
+    context: "general"
+    register: "neutral"
+    category: "balance"
+    examples:
+      a:
+        french: "Il faut trouver l'équilibre."
+        english: "We must find balance."
+      b:
+        french: "Elle a trouvé l'équilibre."
+        english: "She found balance."
+      c:
+        french: "Trouvant l'équilibre entre travail et vie privée, elle s'épanouit."
+        english: "Finding balance between work and private life, she flourished."
+
+  - idiom: "maintenir l'équilibre"
+    literal: "to maintain balance"
+    meaning: "to maintain balance"
+    difficulty: 38
+    frequency: 40
+    context: "general"
+    register: "neutral"
+    category: "balance"
+    examples:
+      a:
+        french: "Il faut maintenir l'équilibre."
+        english: "We must maintain balance."
+      b:
+        french: "Elle maintient l'équilibre."
+        english: "She maintains balance."
+      c:
+        french: "Maintenant l'équilibre malgré les défis, il resta stable."
+        english: "Maintaining balance despite challenges, he remained stable."
+
+  - idiom: "perdre l'équilibre"
+    literal: "to lose balance"
+    meaning: "to lose balance"
+    difficulty: 30
+    frequency: 28
+    context: "general"
+    register: "neutral"
+    category: "imbalance"
+    examples:
+      a:
+        french: "Il a perdu l'équilibre."
+        english: "He lost balance."
+      b:
+        french: "Elle perd l'équilibre."
+        english: "She's losing balance."
+      c:
+        french: "Perdant l'équilibre, il tomba."
+        english: "Losing balance, he fell."
+
+  - idiom: "être déséquilibré"
+    literal: "to be unbalanced"
+    meaning: "to be unbalanced"
+    difficulty: 37
+    frequency: 39
+    context: "general"
+    register: "neutral"
+    category: "imbalance"
+    examples:
+      a:
+        french: "Il est déséquilibré."
+        english: "He's unbalanced."
+      b:
+        french: "Le système est déséquilibré."
+        english: "The system is unbalanced."
+      c:
+        french: "Étant déséquilibré, il eut du mal à s'adapter."
+        english: "Being unbalanced, he had trouble adapting."
+
+  # SPONTANEITY & PLANNING MORE IDIOMS
+  - idiom: "agir sur un coup de tête"
+    literal: "to act on a head strike"
+    meaning: "to act on a whim"
+    difficulty: 52
+    frequency: 54
+    context: "general"
+    register: "informal"
+    category: "spontaneity"
+    examples:
+      a:
+        french: "Il a agi sur un coup de tête."
+        english: "He acted on a whim."
+      b:
+        french: "Elle agit souvent sur un coup de tête."
+        english: "She often acts on a whim."
+      c:
+        french: "Agissant sur un coup de tête, il démissionna sans réfléchir."
+        english: "Acting on a whim, he resigned without thinking."
+
+  - idiom: "suivre son instinct"
+    literal: "to follow one's instinct"
+    meaning: "to follow one's instinct"
+    difficulty: 34
+    frequency: 36
+    context: "general"
+    register: "neutral"
+    category: "spontaneity"
+    examples:
+      a:
+        french: "Il suit toujours son instinct."
+        english: "He always follows his instinct."
+      b:
+        french: "Elle a suivi son instinct."
+        english: "She followed her instinct."
+      c:
+        french: "Suivant son instinct, il prit la bonne décision."
+        english: "Following his instinct, he made the right decision."
+
+  - idiom: "tout planifier"
+    literal: "to plan everything"
+    meaning: "to plan everything"
+    difficulty: 26
+    frequency: 24
+    context: "general"
+    register: "neutral"
+    category: "planning"
+    examples:
+      a:
+        french: "Il planifie tout."
+        english: "He plans everything."
+      b:
+        french: "Elle planifie tout à l'avance."
+        english: "She plans everything in advance."
+      c:
+        french: "Planifiant tout méticuleusement, il ne laissait rien au hasard."
+        english: "Planning everything meticulously, he left nothing to chance."
+
+  - idiom: "prévoir à l'avance"
+    literal: "to foresee in advance"
+    meaning: "to plan ahead"
+    difficulty: 31
+    frequency: 29
+    context: "general"
+    register: "neutral"
+    category: "planning"
+    examples:
+      a:
+        french: "Il faut prévoir à l'avance."
+        english: "We must plan ahead."
+      b:
+        french: "Elle prévoit toujours à l'avance."
+        english: "She always plans ahead."
+      c:
+        french: "Prévoyant à l'avance, il évita les problèmes."
+        english: "Planning ahead, he avoided problems."
+  # FORMALITY & INFORMALITY IDIOMS
+  - idiom: "être formel"
+    literal: "to be formal"
+    meaning: "to be formal"
+    difficulty: 28
+    frequency: 26
+    context: "general"
+    register: "neutral"
+    category: "formality"
+    examples:
+      a:
+        french: "Il est très formel."
+        english: "He's very formal."
+      b:
+        french: "La réunion sera formelle."
+        english: "The meeting will be formal."
+      c:
+        french: "Étant formel, il utilisa un langage soutenu."
+        english: "Being formal, he used elevated language."
+
+  - idiom: "en grande pompe"
+    literal: "in great pomp"
+    meaning: "with great ceremony"
+    difficulty: 56
+    frequency: 58
+    context: "general"
+    register: "formal"
+    category: "formality"
+    examples:
+      a:
+        french: "Il a été reçu en grande pompe."
+        english: "He was received with great ceremony."
+      b:
+        french: "L'événement s'est déroulé en grande pompe."
+        english: "The event took place with great ceremony."
+      c:
+        french: "Célébrant en grande pompe, ils marquèrent l'occasion."
+        english: "Celebrating with great ceremony, they marked the occasion."
+
+  - idiom: "être décontracté"
+    literal: "to be relaxed"
+    meaning: "to be casual, relaxed"
+    difficulty: 35
+    frequency: 37
+    context: "general"
+    register: "neutral"
+    category: "informality"
+    examples:
+      a:
+        french: "Il est très décontracté."
+        english: "He's very casual."
+      b:
+        french: "L'ambiance est décontractée."
+        english: "The atmosphere is relaxed."
+      c:
+        french: "Étant décontracté, il mit tout le monde à l'aise."
+        english: "Being relaxed, he put everyone at ease."
+
+  - idiom: "sans façon"
+    literal: "without manner"
+    meaning: "informally, casually"
+    difficulty: 47
+    frequency: 49
+    context: "general"
+    register: "neutral"
+    category: "informality"
+    examples:
+      a:
+        french: "Il parle sans façon."
+        english: "He speaks casually."
+      b:
+        french: "Elle agit sans façon."
+        english: "She acts informally."
+      c:
+        french: "Vivant sans façon, ils accueillaient chacun simplement."
+        english: "Living informally, they welcomed everyone simply."
+
+  # PRIORITY & SECONDARY IDIOMS
+  - idiom: "mettre en priorité"
+    literal: "to put in priority"
+    meaning: "to prioritize"
+    difficulty: 33
+    frequency: 31
+    context: "general"
+    register: "neutral"
+    category: "priority"
+    examples:
+      a:
+        french: "Il faut mettre ça en priorité."
+        english: "We must prioritize that."
+      b:
+        french: "Elle met sa famille en priorité."
+        english: "She prioritizes her family."
+      c:
+        french: "Mettant la santé en priorité, il changea son mode de vie."
+        english: "Prioritizing health, he changed his lifestyle."
+
+  - idiom: "passer en premier"
+    literal: "to pass in first"
+    meaning: "to come first"
+    difficulty: 29
+    frequency: 27
+    context: "general"
+    register: "neutral"
+    category: "priority"
+    examples:
+      a:
+        french: "Le travail passe en premier."
+        english: "Work comes first."
+      b:
+        french: "Sa famille passe en premier."
+        english: "His family comes first."
+      c:
+        french: "Passant en premier, le projet urgent mobilisa toute l'équipe."
+        english: "Coming first, the urgent project mobilized the whole team."
+
+  - idiom: "reléguer au second plan"
+    literal: "to relegate to second plan"
+    meaning: "to push into the background"
+    difficulty: 53
+    frequency: 55
+    context: "general"
+    register: "neutral"
+    category: "secondary"
+    examples:
+      a:
+        french: "Il a relégué ce projet au second plan."
+        english: "He pushed this project into the background."
+      b:
+        french: "Cette question est reléguée au second plan."
+        english: "This question is pushed into the background."
+      c:
+        french: "Relégant ses loisirs au second plan, il se concentra sur le travail."
+        english: "Pushing his leisure into the background, he focused on work."
+
+  - idiom: "passer au second plan"
+    literal: "to pass to second plan"
+    meaning: "to take a back seat"
+    difficulty: 46
+    frequency: 48
+    context: "general"
+    register: "neutral"
+    category: "secondary"
+    examples:
+      a:
+        french: "Tout le reste passe au second plan."
+        english: "Everything else takes a back seat."
+      b:
+        french: "Sa vie privée passe au second plan."
+        english: "His private life takes a back seat."
+      c:
+        french: "Passant au second plan durant la crise, ses ambitions attendirent."
+        english: "Taking a back seat during the crisis, his ambitions waited."
+
+  # EMPHASIS & DE-EMPHASIS IDIOMS
+  - idiom: "mettre l'accent sur"
+    literal: "to put the accent on"
+    meaning: "to emphasize"
+    difficulty: 40
+    frequency: 42
+    context: "general"
+    register: "neutral"
+    category: "emphasis"
+    examples:
+      a:
+        french: "Il faut mettre l'accent sur la qualité."
+        english: "We must emphasize quality."
+      b:
+        french: "Elle met l'accent sur l'innovation."
+        english: "She emphasizes innovation."
+      c:
+        french: "Mettant l'accent sur les résultats, il motiva l'équipe."
+        english: "Emphasizing results, he motivated the team."
+
+  - idiom: "insister sur"
+    literal: "to insist on"
+    meaning: "to insist on"
+    difficulty: 27
+    frequency: 25
+    context: "general"
+    register: "neutral"
+    category: "emphasis"
+    examples:
+      a:
+        french: "J'insiste sur ce point."
+        english: "I insist on this point."
+      b:
+        french: "Il insiste sur la ponctualité."
+        english: "He insists on punctuality."
+      c:
+        french: "Insistant sur l'importance, elle répéta trois fois."
+        english: "Insisting on the importance, she repeated three times."
+
+  - idiom: "passer sous silence"
+    literal: "to pass under silence"
+    meaning: "to pass over in silence, hush up"
+    difficulty: 51
+    frequency: 53
+    context: "general"
+    register: "neutral"
+    category: "de-emphasis"
+    examples:
+      a:
+        french: "Il a passé ce détail sous silence."
+        english: "He passed over this detail in silence."
+      b:
+        french: "On a passé l'incident sous silence."
+        english: "The incident was hushed up."
+      c:
+        french: "Passant sous silence ses erreurs, il présenta un rapport positif."
+        english: "Passing over his mistakes in silence, he presented a positive report."
+
+  - idiom: "minimiser l'importance"
+    literal: "to minimize the importance"
+    meaning: "to downplay the importance"
+    difficulty: 42
+    frequency: 44
+    context: "general"
+    register: "neutral"
+    category: "de-emphasis"
+    examples:
+      a:
+        french: "Il minimise l'importance du problème."
+        english: "He downplays the importance of the problem."
+      b:
+        french: "Elle minimise toujours l'importance."
+        english: "She always downplays the importance."
+      c:
+        french: "Minimisant l'importance de la crise, il rassura les investisseurs."
+        english: "Downplaying the importance of the crisis, he reassured investors."
