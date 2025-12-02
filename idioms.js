@@ -243,6 +243,7 @@ function generateLatex(idioms) {
 \\usepackage{fancyhdr}
 \\usepackage{xcolor}
 \\usepackage{parskip}
+\\usepackage{needspace}
 
 % Compact spacing
 \\setlength{\\parindent}{0pt}
@@ -276,7 +277,8 @@ ${idioms.map((idiom, idx) => {
   const literalPart = literalSameAsMeaning ? '' :
     ` {\\small\\color{literalcolor}\\textit{${escapeLatex(idiom.literal)}}}`;
 
-  return `\\noindent\\textbf{\\color{idiomcolor}${escapeLatex(idiom.idiom)}}${literalPart}\\hfill{\\scriptsize\\color{metacolor}Diff: ${idiom.difficulty} | Freq: ${idiom.frequency} | ${escapeLatex(idiom.register)}${idiom.category ? ` | ${escapeLatex(idiom.category)}` : ''}}
+  return `\\needspace{5\\baselineskip}
+\\noindent\\textbf{\\color{idiomcolor}${escapeLatex(idiom.idiom)}}${literalPart}\\hfill{\\scriptsize\\color{metacolor}Diff: ${idiom.difficulty} | Freq: ${idiom.frequency} | ${escapeLatex(idiom.register)}${idiom.category ? ` | ${escapeLatex(idiom.category)}` : ''}}
 
 ${escapeLatex(idiom.meaning)}
 
