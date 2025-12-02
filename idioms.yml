@@ -18827,3 +18827,1812 @@ ait des équations complexes avec aisance."
       c:
         french: "N'étant pas piqué des vers, le spectacle conquit le public."
         english: "Being quite something, the show won over the audience."
+
+# ============================================================
+# HARD-CORE IDIOMS: Strange phrases that make no literal sense
+# ============================================================
+
+  - idiom: "ne pas casser trois pattes à un canard"
+    literal: "not to break three legs of a duck"
+    meaning: "to be nothing special, unremarkable"
+    difficulty: 62
+    frequency: 68
+    context: "general"
+    register: "informal"
+    category: "quality"
+    examples:
+      a:
+        french: "Ce film ne casse pas trois pattes à un canard."
+        english: "This film is nothing special."
+      b:
+        french: "Son discours ne cassait pas trois pattes à un canard."
+        english: "His speech was unremarkable."
+      c:
+        french: "Bien que médiatisée, cette invention ne casse pas trois pattes à un canard."
+        english: "Although hyped, this invention is nothing special."
+
+  - idiom: "quand les poules auront des dents"
+    literal: "when hens have teeth"
+    meaning: "when pigs fly, never"
+    difficulty: 54
+    frequency: 64
+    context: "general"
+    register: "informal"
+    category: "impossibility"
+    examples:
+      a:
+        french: "Il me remboursera quand les poules auront des dents."
+        english: "He'll pay me back when pigs fly."
+      b:
+        french: "Tu réussiras quand les poules auront des dents."
+        english: "You'll succeed when hell freezes over."
+      c:
+        french: "Attendant qu'il change d'avis quand les poules auront des dents, elle prit sa propre décision."
+        english: "Waiting for him to change his mind when pigs fly, she made her own decision."
+
+  - idiom: "avoir le cul bordé de nouilles"
+    literal: "to have one's ass lined with noodles"
+    meaning: "to be extremely lucky"
+    difficulty: 58
+    frequency: 70
+    context: "general"
+    register: "vulgar"
+    category: "luck"
+    examples:
+      a:
+        french: "Il a le cul bordé de nouilles, celui-là!"
+        english: "He's incredibly lucky, that one!"
+      b:
+        french: "Tu as vraiment le cul bordé de nouilles."
+        english: "You're really damn lucky."
+      c:
+        french: "Ayant le cul bordé de nouilles, il échappa à tous les ennuis."
+        english: "Being extremely lucky, he escaped all troubles."
+
+  - idiom: "péter dans la soie"
+    literal: "to fart in silk"
+    meaning: "to live in luxury"
+    difficulty: 60
+    frequency: 72
+    context: "general"
+    register: "vulgar"
+    category: "wealth"
+    examples:
+      a:
+        french: "Ils pètent dans la soie maintenant."
+        english: "They're living in luxury now."
+      b:
+        french: "Avec cet héritage, il pète dans la soie."
+        english: "With this inheritance, he's living the high life."
+      c:
+        french: "Pétant dans la soie depuis sa promotion, il oublia ses origines modestes."
+        english: "Living in luxury since his promotion, he forgot his humble origins."
+
+  - idiom: "avoir les dents du fond qui baignent"
+    literal: "to have back teeth swimming"
+    meaning: "to be stuffed, very full from eating"
+    difficulty: 64
+    frequency: 76
+    context: "general"
+    register: "informal"
+    category: "food"
+    examples:
+      a:
+        french: "J'ai les dents du fond qui baignent."
+        english: "I'm completely stuffed."
+      b:
+        french: "Après ce repas, j'ai les dents du fond qui baignent."
+        english: "After this meal, I'm absolutely full."
+      c:
+        french: "Ayant les dents du fond qui baignent, il refusa le dessert."
+        english: "Being stuffed, he refused dessert."
+
+  - idiom: "en faire tout un fromage"
+    literal: "to make a whole cheese of it"
+    meaning: "to make a big deal out of nothing"
+    difficulty: 56
+    frequency: 66
+    context: "general"
+    register: "informal"
+    category: "exaggeration"
+    examples:
+      a:
+        french: "N'en fais pas tout un fromage."
+        english: "Don't make a big deal out of it."
+      b:
+        french: "Il en fait tout un fromage pour un rien."
+        english: "He makes a mountain out of a molehill."
+      c:
+        french: "En faisant tout un fromage de cette erreur mineure, elle perdit toute crédibilité."
+        english: "Making a big deal out of this minor error, she lost all credibility."
+
+  - idiom: "avoir la frite"
+    literal: "to have the french fry"
+    meaning: "to be full of energy, in great form"
+    difficulty: 52
+    frequency: 60
+    context: "general"
+    register: "informal"
+    category: "energy"
+    examples:
+      a:
+        french: "J'ai la frite aujourd'hui!"
+        english: "I'm full of energy today!"
+      b:
+        french: "Elle a la frite ce matin."
+        english: "She's in great form this morning."
+      c:
+        french: "Ayant la frite malgré le manque de sommeil, il enchaîna les tâches."
+        english: "Being full of energy despite lack of sleep, he tackled task after task."
+
+  - idiom: "avoir la banane"
+    literal: "to have the banana"
+    meaning: "to have a big smile, to be beaming"
+    difficulty: 50
+    frequency: 58
+    context: "general"
+    register: "informal"
+    category: "happiness"
+    examples:
+      a:
+        french: "Il a la banane ce matin."
+        english: "He's beaming this morning."
+      b:
+        french: "Elle a toujours la banane."
+        english: "She's always smiling."
+      c:
+        french: "Ayant la banane depuis son succès, il rayonnait de bonheur."
+        english: "Beaming since his success, he radiated happiness."
+
+  - idiom: "avoir la patate"
+    literal: "to have the potato"
+    meaning: "to be full of energy, feeling great"
+    difficulty: 54
+    frequency: 62
+    context: "general"
+    register: "informal"
+    category: "energy"
+    examples:
+      a:
+        french: "J'ai la patate aujourd'hui!"
+        english: "I'm feeling great today!"
+      b:
+        french: "Il a la patate malgré sa nuit courte."
+        english: "He's full of energy despite his short night."
+      c:
+        french: "Ayant la patate, elle termina tout son travail en une matinée."
+        english: "Being full of energy, she finished all her work in one morning."
+
+  - idiom: "se prendre une veste"
+    literal: "to take a jacket"
+    meaning: "to be rejected, to fail"
+    difficulty: 58
+    frequency: 68
+    context: "general"
+    register: "informal"
+    category: "failure"
+    examples:
+      a:
+        french: "Je me suis pris une veste."
+        english: "I got rejected."
+      b:
+        french: "Il s'est pris une veste au concours."
+        english: "He failed the competition."
+      c:
+        french: "S'étant pris une veste, il dut revoir sa stratégie."
+        english: "Having failed, he had to rethink his strategy."
+
+  - idiom: "se prendre un râteau"
+    literal: "to take a rake"
+    meaning: "to be rejected romantically"
+    difficulty: 56
+    frequency: 66
+    context: "general"
+    register: "informal"
+    category: "romance"
+    examples:
+      a:
+        french: "Je me suis pris un râteau."
+        english: "I got shot down."
+      b:
+        french: "Il s'est pris un râteau par elle."
+        english: "She rejected him."
+      c:
+        french: "S'étant pris un râteau, il n'osa plus l'aborder."
+        english: "Having been rejected, he no longer dared approach her."
+
+  - idiom: "être chocolat"
+    literal: "to be chocolate"
+    meaning: "to be had, fooled, duped"
+    difficulty: 62
+    frequency: 74
+    context: "general"
+    register: "informal"
+    category: "deception"
+    examples:
+      a:
+        french: "Je suis chocolat."
+        english: "I've been had."
+      b:
+        french: "Il est chocolat, encore une fois."
+        english: "He's been fooled, yet again."
+      c:
+        french: "Étant chocolat, il perdit toute sa mise."
+        english: "Having been duped, he lost all his stake."
+
+  - idiom: "avoir du bol"
+    literal: "to have bowl"
+    meaning: "to be lucky"
+    difficulty: 48
+    frequency: 54
+    context: "general"
+    register: "informal"
+    category: "luck"
+    examples:
+      a:
+        french: "Tu as du bol!"
+        english: "You're lucky!"
+      b:
+        french: "J'ai vraiment eu du bol."
+        english: "I was really lucky."
+      c:
+        french: "Ayant du bol, il évita l'accident de justesse."
+        english: "Being lucky, he narrowly avoided the accident."
+
+  - idiom: "avoir du pot"
+    literal: "to have pot"
+    meaning: "to be lucky"
+    difficulty: 46
+    frequency: 52
+    context: "general"
+    register: "informal"
+    category: "luck"
+    examples:
+      a:
+        french: "Il a du pot."
+        english: "He's lucky."
+      b:
+        french: "Tu as du pot d'être tombé sur lui."
+        english: "You're lucky you ran into him."
+      c:
+        french: "Ayant du pot, elle gagna sans même essayer."
+        english: "Being lucky, she won without even trying."
+
+  - idiom: "en avoir ras le bol"
+    literal: "to have it up to the bowl"
+    meaning: "to be fed up, sick and tired"
+    difficulty: 50
+    frequency: 56
+    context: "general"
+    register: "informal"
+    category: "annoyance"
+    examples:
+      a:
+        french: "J'en ai ras le bol!"
+        english: "I'm fed up!"
+      b:
+        french: "Il en a ras le bol de cette situation."
+        english: "He's sick and tired of this situation."
+      c:
+        french: "En ayant ras le bol, elle claqua la porte."
+        english: "Being fed up, she slammed the door."
+
+  - idiom: "en avoir plein le dos"
+    literal: "to have it full on the back"
+    meaning: "to be fed up, have had enough"
+    difficulty: 52
+    frequency: 60
+    context: "general"
+    register: "informal"
+    category: "annoyance"
+    examples:
+      a:
+        french: "J'en ai plein le dos."
+        english: "I've had enough."
+      b:
+        french: "Elle en a plein le dos de ses mensonges."
+        english: "She's fed up with his lies."
+      c:
+        french: "En ayant plein le dos, il démissionna sur-le-champ."
+        english: "Having had enough, he resigned on the spot."
+
+  - idiom: "casser du sucre sur le dos de quelqu'un"
+    literal: "to break sugar on someone's back"
+    meaning: "to badmouth someone, talk behind their back"
+    difficulty: 60
+    frequency: 70
+    context: "general"
+    register: "informal"
+    category: "gossip"
+    examples:
+      a:
+        french: "Ils cassent du sucre sur mon dos."
+        english: "They're talking behind my back."
+      b:
+        french: "Arrête de casser du sucre sur son dos."
+        english: "Stop badmouthing her."
+      c:
+        french: "Cassant du sucre sur le dos de leur patron, ils ne le virent pas arriver."
+        english: "Badmouthing their boss, they didn't see him arrive."
+
+  - idiom: "sucrer les fraises"
+    literal: "to sugar the strawberries"
+    meaning: "to have shaky hands from old age"
+    difficulty: 64
+    frequency: 76
+    context: "general"
+    register: "informal"
+    category: "age"
+    examples:
+      a:
+        french: "Il commence à sucrer les fraises."
+        english: "He's starting to get the shakes from old age."
+      b:
+        french: "Mon grand-père sucre les fraises."
+        english: "My grandfather has shaky hands from old age."
+      c:
+        french: "Sucrant les fraises, elle avait du mal à tenir sa tasse."
+        english: "Having shaky hands from age, she had trouble holding her cup."
+
+  - idiom: "appeler un chat un chat"
+    literal: "to call a cat a cat"
+    meaning: "to call a spade a spade, speak plainly"
+    difficulty: 48
+    frequency: 56
+    context: "general"
+    register: "neutral"
+    category: "honesty"
+    examples:
+      a:
+        french: "J'appelle un chat un chat."
+        english: "I call a spade a spade."
+      b:
+        french: "Il faut appeler un chat un chat."
+        english: "We must speak plainly."
+      c:
+        french: "Appelant un chat un chat, elle dénonça la corruption."
+        english: "Calling a spade a spade, she denounced the corruption."
+
+  - idiom: "avoir un chat dans la gorge"
+    literal: "to have a cat in the throat"
+    meaning: "to have a frog in one's throat"
+    difficulty: 50
+    frequency: 58
+    context: "general"
+    register: "informal"
+    category: "voice"
+    examples:
+      a:
+        french: "J'ai un chat dans la gorge."
+        english: "I have a frog in my throat."
+      b:
+        french: "Il a un chat dans la gorge ce matin."
+        english: "He has a frog in his throat this morning."
+      c:
+        french: "Ayant un chat dans la gorge, elle toussa avant de parler."
+        english: "Having a frog in her throat, she coughed before speaking."
+
+  - idiom: "il n'y a pas un chat"
+    literal: "there isn't a cat"
+    meaning: "there's nobody, not a soul"
+    difficulty: 46
+    frequency: 52
+    context: "general"
+    register: "informal"
+    category: "absence"
+    examples:
+      a:
+        french: "Il n'y a pas un chat dans la rue."
+        english: "There's not a soul in the street."
+      b:
+        french: "Il n'y a pas un chat au bureau."
+        english: "There's nobody at the office."
+      c:
+        french: "N'y ayant pas un chat, il ferma boutique plus tôt."
+        english: "There being nobody around, he closed shop early."
+
+  - idiom: "avoir d'autres chiens à fouetter"
+    literal: "to have other dogs to whip"
+    meaning: "to have bigger fish to fry"
+    difficulty: 58
+    frequency: 68
+    context: "general"
+    register: "informal"
+    category: "priorities"
+    examples:
+      a:
+        french: "J'ai d'autres chiens à fouetter."
+        english: "I have bigger fish to fry."
+      b:
+        french: "Il a d'autres chiens à fouetter."
+        english: "He has more important things to do."
+      c:
+        french: "Ayant d'autres chiens à fouetter, elle ignora ses reproches."
+        english: "Having bigger fish to fry, she ignored his reproaches."
+
+  - idiom: "entre chien et loup"
+    literal: "between dog and wolf"
+    meaning: "at twilight, at dusk"
+    difficulty: 66
+    frequency: 78
+    context: "general"
+    register: "literary"
+    category: "time"
+    examples:
+      a:
+        french: "Il est arrivé entre chien et loup."
+        english: "He arrived at twilight."
+      b:
+        french: "C'était entre chien et loup."
+        english: "It was at dusk."
+      c:
+        french: "Arrivant entre chien et loup, il profita de la pénombre."
+        english: "Arriving at twilight, he took advantage of the dimness."
+
+  - idiom: "se regarder en chiens de faïence"
+    literal: "to look at each other like china dogs"
+    meaning: "to glare at each other with hostility"
+    difficulty: 68
+    frequency: 82
+    context: "general"
+    register: "informal"
+    category: "hostility"
+    examples:
+      a:
+        french: "Ils se regardent en chiens de faïence."
+        english: "They're glaring daggers at each other."
+      b:
+        french: "Nous nous sommes regardés en chiens de faïence."
+        english: "We glared at each other with hostility."
+      c:
+        french: "Se regardant en chiens de faïence, ils n'échangèrent pas un mot."
+        english: "Glaring at each other like china dogs, they didn't exchange a word."
+
+  - idiom: "avoir une araignée au plafond"
+    literal: "to have a spider on the ceiling"
+    meaning: "to have a screw loose, to be crazy"
+    difficulty: 58
+    frequency: 68
+    context: "general"
+    register: "informal"
+    category: "madness"
+    examples:
+      a:
+        french: "Il a une araignée au plafond."
+        english: "He has a screw loose."
+      b:
+        french: "Elle a une araignée au plafond, celle-là."
+        english: "She's crazy, that one."
+      c:
+        french: "Ayant une araignée au plafond, il tenait des propos incohérents."
+        english: "Being crazy, he spoke incoherently."
+
+  - idiom: "être myope comme une taupe"
+    literal: "to be myopic like a mole"
+    meaning: "to be blind as a bat"
+    difficulty: 54
+    frequency: 64
+    context: "general"
+    register: "informal"
+    category: "vision"
+    examples:
+      a:
+        french: "Je suis myope comme une taupe."
+        english: "I'm blind as a bat."
+      b:
+        french: "Il est myope comme une taupe sans ses lunettes."
+        english: "He's blind as a bat without his glasses."
+      c:
+        french: "Étant myope comme une taupe, elle rata la sortie."
+        english: "Being blind as a bat, she missed the exit."
+
+  - idiom: "pleurer comme une madeleine"
+    literal: "to cry like a madeleine"
+    meaning: "to cry one's eyes out"
+    difficulty: 56
+    frequency: 66
+    context: "general"
+    register: "informal"
+    category: "crying"
+    examples:
+      a:
+        french: "Elle pleure comme une madeleine."
+        english: "She's crying her eyes out."
+      b:
+        french: "J'ai pleuré comme une madeleine."
+        english: "I cried my eyes out."
+      c:
+        french: "Pleurant comme une madeleine, elle ne pouvait plus parler."
+        english: "Crying her eyes out, she couldn't speak anymore."
+
+  - idiom: "sauter du coq à l'âne"
+    literal: "to jump from the rooster to the donkey"
+    meaning: "to jump from one subject to another"
+    difficulty: 62
+    frequency: 74
+    context: "general"
+    register: "informal"
+    category: "conversation"
+    examples:
+      a:
+        french: "Il saute du coq à l'âne."
+        english: "He jumps from one subject to another."
+      b:
+        french: "Arrête de sauter du coq à l'âne."
+        english: "Stop jumping around topics."
+      c:
+        french: "Sautant du coq à l'âne, il perdit son auditoire."
+        english: "Jumping from topic to topic, he lost his audience."
+
+  - idiom: "être un bouc émissaire"
+    literal: "to be a scapegoat"
+    meaning: "to be a scapegoat, fall guy"
+    difficulty: 52
+    frequency: 62
+    context: "general"
+    register: "neutral"
+    category: "blame"
+    examples:
+      a:
+        french: "Je suis le bouc émissaire."
+        english: "I'm the scapegoat."
+      b:
+        french: "Il sert de bouc émissaire."
+        english: "He serves as the fall guy."
+      c:
+        french: "Étant le bouc émissaire, il endossa toutes les fautes."
+        english: "Being the scapegoat, he took the blame for all mistakes."
+
+  - idiom: "avoir des fourmis dans les jambes"
+    literal: "to have ants in the legs"
+    meaning: "to have pins and needles in one's legs"
+    difficulty: 50
+    frequency: 58
+    context: "general"
+    register: "informal"
+    category: "sensation"
+    examples:
+      a:
+        french: "J'ai des fourmis dans les jambes."
+        english: "I have pins and needles in my legs."
+      b:
+        french: "Il a des fourmis dans les jambes."
+        english: "His legs have fallen asleep."
+      c:
+        french: "Ayant des fourmis dans les jambes, elle se leva pour marcher."
+        english: "Having pins and needles, she stood up to walk."
+
+  - idiom: "prendre ses jambes à son cou"
+    literal: "to take one's legs to one's neck"
+    meaning: "to run away, take to one's heels"
+    difficulty: 54
+    frequency: 64
+    context: "general"
+    register: "informal"
+    category: "flight"
+    examples:
+      a:
+        french: "Il a pris ses jambes à son cou."
+        english: "He took to his heels."
+      b:
+        french: "J'ai pris mes jambes à mon cou."
+        english: "I ran away."
+      c:
+        french: "Prenant ses jambes à son cou, il disparut en un éclair."
+        english: "Taking to his heels, he disappeared in a flash."
+
+  - idiom: "casser les pieds"
+    literal: "to break the feet"
+    meaning: "to annoy, bother"
+    difficulty: 44
+    frequency: 48
+    context: "general"
+    register: "informal"
+    category: "annoyance"
+    examples:
+      a:
+        french: "Tu me casses les pieds."
+        english: "You're annoying me."
+      b:
+        french: "Il nous casse les pieds avec ses histoires."
+        english: "He's bothering us with his stories."
+      c:
+        french: "Cassant les pieds à tout le monde, il finit par rester seul."
+        english: "Annoying everyone, he ended up alone."
+
+  - idiom: "avoir les chevilles qui enflent"
+    literal: "to have swelling ankles"
+    meaning: "to have a swollen head, be big-headed"
+    difficulty: 56
+    frequency: 66
+    context: "general"
+    register: "informal"
+    category: "pride"
+    examples:
+      a:
+        french: "Il a les chevilles qui enflent."
+        english: "He has a swollen head."
+      b:
+        french: "Attention, tes chevilles enflent."
+        english: "Watch out, you're getting big-headed."
+      c:
+        french: "Ayant les chevilles qui enflent, il devint insupportable."
+        english: "Having a swollen head, he became unbearable."
+
+  - idiom: "se mettre le doigt dans l'œil"
+    literal: "to put one's finger in the eye"
+    meaning: "to be mistaken, delude oneself"
+    difficulty: 54
+    frequency: 64
+    context: "general"
+    register: "informal"
+    category: "error"
+    examples:
+      a:
+        french: "Tu te mets le doigt dans l'œil."
+        english: "You're mistaken."
+      b:
+        french: "Il s'est mis le doigt dans l'œil jusqu'au coude."
+        english: "He was badly mistaken."
+      c:
+        french: "Se mettant le doigt dans l'œil, il perdit tout son argent."
+        english: "Deluding himself, he lost all his money."
+
+  - idiom: "avoir les yeux plus gros que le ventre"
+    literal: "to have eyes bigger than the stomach"
+    meaning: "to bite off more than one can chew"
+    difficulty: 48
+    frequency: 56
+    context: "general"
+    register: "informal"
+    category: "ambition"
+    examples:
+      a:
+        french: "Tu as les yeux plus gros que le ventre."
+        english: "You're biting off more than you can chew."
+      b:
+        french: "J'ai eu les yeux plus gros que le ventre."
+        english: "My eyes were bigger than my stomach."
+      c:
+        french: "Ayant les yeux plus gros que le ventre, il dut abandonner."
+        english: "Biting off more than he could chew, he had to give up."
+
+  - idiom: "avoir le bras long"
+    literal: "to have a long arm"
+    meaning: "to have influence, connections"
+    difficulty: 52
+    frequency: 62
+    context: "general"
+    register: "informal"
+    category: "influence"
+    examples:
+      a:
+        french: "Il a le bras long."
+        english: "He has connections."
+      b:
+        french: "Son père a le bras long."
+        english: "His father has influence."
+      c:
+        french: "Ayant le bras long, il obtint ce qu'il voulait."
+        english: "Having influence, he got what he wanted."
+
+  - idiom: "ne pas avoir la langue dans sa poche"
+    literal: "not to have one's tongue in one's pocket"
+    meaning: "to be outspoken, not mince words"
+    difficulty: 54
+    frequency: 64
+    context: "general"
+    register: "informal"
+    category: "speech"
+    examples:
+      a:
+        french: "Elle n'a pas la langue dans sa poche."
+        english: "She doesn't mince her words."
+      b:
+        french: "Il n'a jamais eu la langue dans sa poche."
+        english: "He's always been outspoken."
+      c:
+        french: "N'ayant pas la langue dans sa poche, elle dit ce qu'elle pensait."
+        english: "Not mincing her words, she said what she thought."
+
+  - idiom: "avoir les dents longues"
+    literal: "to have long teeth"
+    meaning: "to be ambitious, hungry for success"
+    difficulty: 52
+    frequency: 62
+    context: "general"
+    register: "informal"
+    category: "ambition"
+    examples:
+      a:
+        french: "Elle a les dents longues."
+        english: "She's very ambitious."
+      b:
+        french: "Il a toujours eu les dents longues."
+        english: "He's always been hungry for success."
+      c:
+        french: "Ayant les dents longues, elle visa le sommet."
+        english: "Being ambitious, she aimed for the top."
+
+  - idiom: "avoir une dent contre quelqu'un"
+    literal: "to have a tooth against someone"
+    meaning: "to have a grudge against someone"
+    difficulty: 50
+    frequency: 58
+    context: "general"
+    register: "informal"
+    category: "resentment"
+    examples:
+      a:
+        french: "Il a une dent contre moi."
+        english: "He has a grudge against me."
+      b:
+        french: "Elle a toujours eu une dent contre lui."
+        english: "She's always had it in for him."
+      c:
+        french: "Ayant une dent contre son collègue, il cherchait à lui nuire."
+        english: "Having a grudge against his colleague, he sought to harm him."
+
+  - idiom: "se casser les dents sur"
+    literal: "to break one's teeth on"
+    meaning: "to fail at, come up against"
+    difficulty: 56
+    frequency: 66
+    context: "general"
+    register: "informal"
+    category: "failure"
+    examples:
+      a:
+        french: "Je me suis cassé les dents sur ce problème."
+        english: "I failed at this problem."
+      b:
+        french: "Il s'est cassé les dents sur cette affaire."
+        english: "He came up against a brick wall on this matter."
+      c:
+        french: "S'étant cassé les dents, il abandonna le projet."
+        english: "Having failed, he abandoned the project."
+
+  - idiom: "être sur les dents"
+    literal: "to be on the teeth"
+    meaning: "to be rushed off one's feet, swamped"
+    difficulty: 58
+    frequency: 68
+    context: "general"
+    register: "informal"
+    category: "stress"
+    examples:
+      a:
+        french: "Je suis sur les dents."
+        english: "I'm rushed off my feet."
+      b:
+        french: "Nous sommes tous sur les dents."
+        english: "We're all swamped."
+      c:
+        french: "Étant sur les dents, elle n'eut pas le temps de déjeuner."
+        english: "Being swamped, she didn't have time for lunch."
+
+  - idiom: "avoir la grosse tête"
+    literal: "to have the big head"
+    meaning: "to be big-headed, conceited"
+    difficulty: 48
+    frequency: 54
+    context: "general"
+    register: "informal"
+    category: "pride"
+    examples:
+      a:
+        french: "Il a la grosse tête."
+        english: "He's big-headed."
+      b:
+        french: "Ne prends pas la grosse tête."
+        english: "Don't get a big head."
+      c:
+        french: "Ayant la grosse tête, il ne supportait aucune critique."
+        english: "Being conceited, he couldn't take any criticism."
+
+  - idiom: "faire la tête"
+    literal: "to make the head"
+    meaning: "to sulk, be in a huff"
+    difficulty: 42
+    frequency: 46
+    context: "general"
+    register: "informal"
+    category: "mood"
+    examples:
+      a:
+        french: "Arrête de faire la tête."
+        english: "Stop sulking."
+      b:
+        french: "Il fait la tête depuis ce matin."
+        english: "He's been in a huff since this morning."
+      c:
+        french: "Faisant la tête, elle refusa de parler."
+        english: "Sulking, she refused to speak."
+
+  - idiom: "se payer la tête de quelqu'un"
+    literal: "to pay oneself someone's head"
+    meaning: "to make fun of someone, pull someone's leg"
+    difficulty: 52
+    frequency: 60
+    context: "general"
+    register: "informal"
+    category: "mockery"
+    examples:
+      a:
+        french: "Tu te paies ma tête?"
+        english: "Are you pulling my leg?"
+      b:
+        french: "Il se paie notre tête."
+        english: "He's making fun of us."
+      c:
+        french: "Se payant sa tête, ils rirent dans son dos."
+        english: "Making fun of him, they laughed behind his back."
+
+  - idiom: "avoir la tête dans les nuages"
+    literal: "to have one's head in the clouds"
+    meaning: "to have one's head in the clouds, be a daydreamer"
+    difficulty: 46
+    frequency: 52
+    context: "general"
+    register: "informal"
+    category: "distraction"
+    examples:
+      a:
+        french: "Il a la tête dans les nuages."
+        english: "He has his head in the clouds."
+      b:
+        french: "Tu as toujours la tête dans les nuages."
+        english: "You always have your head in the clouds."
+      c:
+        french: "Ayant la tête dans les nuages, il rata son arrêt."
+        english: "Having his head in the clouds, he missed his stop."
+
+  - idiom: "avoir la tête sur les épaules"
+    literal: "to have one's head on one's shoulders"
+    meaning: "to have a level head, be sensible"
+    difficulty: 48
+    frequency: 54
+    context: "general"
+    register: "neutral"
+    category: "wisdom"
+    examples:
+      a:
+        french: "Elle a la tête sur les épaules."
+        english: "She has a level head."
+      b:
+        french: "Il a toujours eu la tête sur les épaules."
+        english: "He's always been sensible."
+      c:
+        french: "Ayant la tête sur les épaules, elle prit la bonne décision."
+        english: "Having a level head, she made the right decision."
+
+  - idiom: "perdre la tête"
+    literal: "to lose one's head"
+    meaning: "to lose one's mind, go crazy"
+    difficulty: 40
+    frequency: 44
+    context: "general"
+    register: "neutral"
+    category: "madness"
+    examples:
+      a:
+        french: "Je perds la tête."
+        english: "I'm losing my mind."
+      b:
+        french: "Il a perdu la tête."
+        english: "He's gone crazy."
+      c:
+        french: "Perdant la tête, elle agit impulsivement."
+        english: "Losing her mind, she acted impulsively."
+
+  - idiom: "casser la tête"
+    literal: "to break the head"
+    meaning: "to drive someone crazy, give a headache"
+    difficulty: 46
+    frequency: 52
+    context: "general"
+    register: "informal"
+    category: "annoyance"
+    examples:
+      a:
+        french: "Tu me casses la tête."
+        english: "You're driving me crazy."
+      b:
+        french: "Ce bruit me casse la tête."
+        english: "This noise is giving me a headache."
+      c:
+        french: "Cassant la tête à tout le monde, il fut prié de partir."
+        english: "Driving everyone crazy, he was asked to leave."
+
+  - idiom: "se creuser la tête"
+    literal: "to dig one's head"
+    meaning: "to rack one's brains"
+    difficulty: 50
+    frequency: 58
+    context: "general"
+    register: "informal"
+    category: "thinking"
+    examples:
+      a:
+        french: "Je me creuse la tête."
+        english: "I'm racking my brains."
+      b:
+        french: "Il s'est creusé la tête pendant des heures."
+        english: "He racked his brains for hours."
+      c:
+        french: "Se creusant la tête, elle finit par trouver la solution."
+        english: "Racking her brains, she finally found the solution."
+
+  - idiom: "se mettre en quatre"
+    literal: "to put oneself in four"
+    meaning: "to bend over backwards, go out of one's way"
+    difficulty: 54
+    frequency: 64
+    context: "general"
+    register: "informal"
+    category: "effort"
+    examples:
+      a:
+        french: "Il s'est mis en quatre pour moi."
+        english: "He bent over backwards for me."
+      b:
+        french: "Elle se met toujours en quatre."
+        english: "She always goes out of her way."
+      c:
+        french: "Se mettant en quatre, il satisfit toutes leurs demandes."
+        english: "Bending over backwards, he satisfied all their requests."
+
+  - idiom: "ne pas faire dans la dentelle"
+    literal: "not to do in lace"
+    meaning: "not to beat around the bush, be blunt"
+    difficulty: 62
+    frequency: 74
+    context: "general"
+    register: "informal"
+    category: "directness"
+    examples:
+      a:
+        french: "Il ne fait pas dans la dentelle."
+        english: "He doesn't beat around the bush."
+      b:
+        french: "Elle ne fait pas dans la dentelle."
+        english: "She's very blunt."
+      c:
+        french: "Ne faisant pas dans la dentelle, il annonça directement la mauvaise nouvelle."
+        english: "Not beating around the bush, he announced the bad news directly."
+
+  - idiom: "filer à l'anglaise"
+    literal: "to leave English-style"
+    meaning: "to leave without saying goodbye, make a French exit"
+    difficulty: 58
+    frequency: 68
+    context: "general"
+    register: "informal"
+    category: "departure"
+    examples:
+      a:
+        french: "Il a filé à l'anglaise."
+        english: "He left without saying goodbye."
+      b:
+        french: "Elle file toujours à l'anglaise."
+        english: "She always makes a French exit."
+      c:
+        french: "Filant à l'anglaise, il évita les adieux."
+        english: "Leaving without saying goodbye, he avoided farewells."
+
+  - idiom: "avoir un verre dans le nez"
+    literal: "to have a glass in the nose"
+    meaning: "to be tipsy, have had one too many"
+    difficulty: 56
+    frequency: 66
+    context: "general"
+    register: "informal"
+    category: "alcohol"
+    examples:
+      a:
+        french: "Il a un verre dans le nez."
+        english: "He's tipsy."
+      b:
+        french: "Elle avait un verre dans le nez."
+        english: "She'd had one too many."
+      c:
+        french: "Ayant un verre dans le nez, il parla trop."
+        english: "Being tipsy, he talked too much."
+
+  - idiom: "raconter des salades"
+    literal: "to tell salads"
+    meaning: "to tell tall tales, make things up"
+    difficulty: 54
+    frequency: 64
+    context: "general"
+    register: "informal"
+    category: "lying"
+    examples:
+      a:
+        french: "Il raconte des salades."
+        english: "He's telling tall tales."
+      b:
+        french: "Ne me raconte pas de salades."
+        english: "Don't make things up."
+      c:
+        french: "Racontant des salades, il perdit toute crédibilité."
+        english: "Telling tall tales, he lost all credibility."
+
+  - idiom: "en faire des tonnes"
+    literal: "to make tons of it"
+    meaning: "to make a big fuss, overdo it"
+    difficulty: 52
+    frequency: 60
+    context: "general"
+    register: "informal"
+    category: "exaggeration"
+    examples:
+      a:
+        french: "Il en fait des tonnes."
+        english: "He's making a big fuss."
+      b:
+        french: "Arrête d'en faire des tonnes."
+        english: "Stop overdoing it."
+      c:
+        french: "En faisant des tonnes, elle agaça tout le monde."
+        english: "Making a big fuss, she annoyed everyone."
+
+  - idiom: "tomber des nues"
+    literal: "to fall from the clouds"
+    meaning: "to be flabbergasted, shocked"
+    difficulty: 58
+    frequency: 68
+    context: "general"
+    register: "literary"
+    category: "surprise"
+    examples:
+      a:
+        french: "Je suis tombé des nues."
+        english: "I was flabbergasted."
+      b:
+        french: "Elle est tombée des nues."
+        english: "She was shocked."
+      c:
+        french: "Tombant des nues, il resta sans voix."
+        english: "Being flabbergasted, he was speechless."
+
+  - idiom: "être dans les nuages"
+    literal: "to be in the clouds"
+    meaning: "to have one's head in the clouds, daydream"
+    difficulty: 44
+    frequency: 50
+    context: "general"
+    register: "informal"
+    category: "distraction"
+    examples:
+      a:
+        french: "Il est dans les nuages."
+        english: "He has his head in the clouds."
+      b:
+        french: "Tu es toujours dans les nuages."
+        english: "You're always daydreaming."
+      c:
+        french: "Étant dans les nuages, elle n'entendit pas la question."
+        english: "Being in the clouds, she didn't hear the question."
+
+  - idiom: "être sur son nuage"
+    literal: "to be on one's cloud"
+    meaning: "to be in one's own world, on cloud nine"
+    difficulty: 48
+    frequency: 56
+    context: "general"
+    register: "informal"
+    category: "happiness"
+    examples:
+      a:
+        french: "Il est sur son nuage."
+        english: "He's on cloud nine."
+      b:
+        french: "Elle est sur son nuage depuis la nouvelle."
+        english: "She's been in her own world since the news."
+      c:
+        french: "Étant sur son nuage, il ne vit pas le danger."
+        english: "Being on cloud nine, he didn't see the danger."
+
+  - idiom: "tomber du ciel"
+    literal: "to fall from the sky"
+    meaning: "to come out of the blue, be a godsend"
+    difficulty: 46
+    frequency: 52
+    context: "general"
+    register: "informal"
+    category: "surprise"
+    examples:
+      a:
+        french: "Tu tombes du ciel!"
+        english: "You're a godsend!"
+      b:
+        french: "Cette opportunité tombe du ciel."
+        english: "This opportunity came out of the blue."
+      c:
+        french: "Tombant du ciel, l'aide arriva au moment parfait."
+        english: "Coming out of the blue, the help arrived at the perfect moment."
+
+  - idiom: "remuer ciel et terre"
+    literal: "to move heaven and earth"
+    meaning: "to move heaven and earth"
+    difficulty: 52
+    frequency: 62
+    context: "general"
+    register: "neutral"
+    category: "effort"
+    examples:
+      a:
+        french: "Il a remué ciel et terre."
+        english: "He moved heaven and earth."
+      b:
+        french: "Je remuerai ciel et terre pour toi."
+        english: "I'll move heaven and earth for you."
+      c:
+        french: "Remuant ciel et terre, elle retrouva l'objet perdu."
+        english: "Moving heaven and earth, she found the lost object."
+
+  - idiom: "décrocher la lune"
+    literal: "to unhook the moon"
+    meaning: "to achieve the impossible, reach for the stars"
+    difficulty: 52
+    frequency: 62
+    context: "general"
+    register: "informal"
+    category: "achievement"
+    examples:
+      a:
+        french: "Il voudrait décrocher la lune."
+        english: "He wants to reach for the stars."
+      b:
+        french: "Elle a décroché la lune."
+        english: "She achieved the impossible."
+      c:
+        french: "Décrochant la lune, il réalisa son rêve."
+        english: "Achieving the impossible, he realized his dream."
+
+  - idiom: "promettre la lune"
+    literal: "to promise the moon"
+    meaning: "to promise the moon, make empty promises"
+    difficulty: 48
+    frequency: 56
+    context: "general"
+    register: "informal"
+    category: "promises"
+    examples:
+      a:
+        french: "Il promet la lune."
+        english: "He promises the moon."
+      b:
+        french: "Ne promets pas la lune."
+        english: "Don't make promises you can't keep."
+      c:
+        french: "Promettant la lune, il déçut tout le monde."
+        english: "Promising the moon, he disappointed everyone."
+
+  - idiom: "être dans la lune"
+    literal: "to be in the moon"
+    meaning: "to have one's head in the clouds, be absent-minded"
+    difficulty: 46
+    frequency: 52
+    context: "general"
+    register: "informal"
+    category: "distraction"
+    examples:
+      a:
+        french: "Il est dans la lune."
+        english: "He has his head in the clouds."
+      b:
+        french: "Tu es toujours dans la lune."
+        english: "You're always absent-minded."
+      c:
+        french: "Étant dans la lune, elle oublia son rendez-vous."
+        english: "Being absent-minded, she forgot her appointment."
+
+  - idiom: "avoir le melon"
+    literal: "to have the melon"
+    meaning: "to be big-headed, full of oneself"
+    difficulty: 58
+    frequency: 68
+    context: "general"
+    register: "informal"
+    category: "pride"
+    examples:
+      a:
+        french: "Il a le melon."
+        english: "He's full of himself."
+      b:
+        french: "Depuis son succès, il a le melon."
+        english: "Since his success, he's been big-headed."
+      c:
+        french: "Ayant le melon, il ne parlait que de lui."
+        english: "Being full of himself, he only talked about himself."
+
+  - idiom: "avoir la pêche"
+    literal: "to have the peach"
+    meaning: "to be full of energy, in great shape"
+    difficulty: 50
+    frequency: 58
+    context: "general"
+    register: "informal"
+    category: "energy"
+    examples:
+      a:
+        french: "J'ai la pêche aujourd'hui!"
+        english: "I'm full of energy today!"
+      b:
+        french: "Elle a la pêche ce matin."
+        english: "She's in great shape this morning."
+      c:
+        french: "Ayant la pêche, il termina tout en avance."
+        english: "Being full of energy, he finished everything early."
+
+  - idiom: "ramener sa fraise"
+    literal: "to bring back one's strawberry"
+    meaning: "to show up uninvited, butt in"
+    difficulty: 60
+    frequency: 72
+    context: "general"
+    register: "vulgar"
+    category: "intrusion"
+    examples:
+      a:
+        french: "Il ramène toujours sa fraise."
+        english: "He always butts in."
+      b:
+        french: "Ne ramène pas ta fraise."
+        english: "Don't show up uninvited."
+      c:
+        french: "Ramenant sa fraise, il gâcha la surprise."
+        english: "Showing up uninvited, he ruined the surprise."
+
+  - idiom: "avoir la cerise sur le gâteau"
+    literal: "to have the cherry on the cake"
+    meaning: "to have the icing on the cake"
+    difficulty: 48
+    frequency: 56
+    context: "general"
+    register: "informal"
+    category: "completion"
+    examples:
+      a:
+        french: "Et en plus, la cerise sur le gâteau!"
+        english: "And on top of that, the icing on the cake!"
+      b:
+        french: "C'est la cerise sur le gâteau."
+        english: "It's the cherry on top."
+      c:
+        french: "Ayant la cerise sur le gâteau, elle fut comblée."
+        english: "Having the icing on the cake, she was delighted."
+
+  - idiom: "être haut comme trois pommes"
+    literal: "to be tall as three apples"
+    meaning: "to be knee-high to a grasshopper"
+    difficulty: 52
+    frequency: 62
+    context: "general"
+    register: "informal"
+    category: "size"
+    examples:
+      a:
+        french: "Il était haut comme trois pommes."
+        english: "He was knee-high to a grasshopper."
+      b:
+        french: "Quand j'étais haut comme trois pommes..."
+        english: "When I was knee-high to a grasshopper..."
+      c:
+        french: "Étant haut comme trois pommes, il ne voyait rien."
+        english: "Being knee-high to a grasshopper, he couldn't see anything."
+
+  - idiom: "tourner autour du pot"
+    literal: "to turn around the pot"
+    meaning: "to beat around the bush"
+    difficulty: 50
+    frequency: 58
+    context: "general"
+    register: "informal"
+    category: "directness"
+    examples:
+      a:
+        french: "Arrête de tourner autour du pot."
+        english: "Stop beating around the bush."
+      b:
+        french: "Il tourne autour du pot."
+        english: "He's beating around the bush."
+      c:
+        french: "Tournant autour du pot, il n'osa jamais demander."
+        english: "Beating around the bush, he never dared ask."
+
+  - idiom: "découvrir le pot aux roses"
+    literal: "to discover the pot of roses"
+    meaning: "to uncover the truth, discover the secret"
+    difficulty: 58
+    frequency: 68
+    context: "general"
+    register: "informal"
+    category: "discovery"
+    examples:
+      a:
+        french: "J'ai découvert le pot aux roses."
+        english: "I uncovered the truth."
+      b:
+        french: "Elle a découvert le pot aux roses."
+        english: "She discovered the secret."
+      c:
+        french: "Découvrant le pot aux roses, il confronta les coupables."
+        english: "Uncovering the truth, he confronted the guilty parties."
+
+  - idiom: "mettre les bouchées doubles"
+    literal: "to put double mouthfuls"
+    meaning: "to double one's efforts, work twice as hard"
+    difficulty: 56
+    frequency: 66
+    context: "general"
+    register: "informal"
+    category: "effort"
+    examples:
+      a:
+        french: "Il faut mettre les bouchées doubles."
+        english: "We need to double our efforts."
+      b:
+        french: "Ils ont mis les bouchées doubles."
+        english: "They worked twice as hard."
+      c:
+        french: "Mettant les bouchées doubles, ils finirent à temps."
+        english: "Doubling their efforts, they finished on time."
+
+  - idiom: "en mettre sa main au feu"
+    literal: "to put one's hand in the fire for it"
+    meaning: "to stake one's life on it, be absolutely certain"
+    difficulty: 54
+    frequency: 64
+    context: "general"
+    register: "informal"
+    category: "certainty"
+    examples:
+      a:
+        french: "J'en mettrais ma main au feu."
+        english: "I'd stake my life on it."
+      b:
+        french: "Il ne mettrait pas sa main au feu."
+        english: "He wouldn't bet on it."
+      c:
+        french: "Mettant sa main au feu, elle affirma son innocence."
+        english: "Staking her life on it, she affirmed her innocence."
+
+  - idiom: "mettre son grain de sel"
+    literal: "to put one's grain of salt"
+    meaning: "to put in one's two cents, butt in"
+    difficulty: 52
+    frequency: 62
+    context: "general"
+    register: "informal"
+    category: "intrusion"
+    examples:
+      a:
+        french: "Il met toujours son grain de sel."
+        english: "He always puts in his two cents."
+      b:
+        french: "Ne mets pas ton grain de sel."
+        english: "Don't butt in."
+      c:
+        french: "Mettant son grain de sel, il irrita tout le monde."
+        english: "Putting in his two cents, he irritated everyone."
+
+  - idiom: "prendre avec des pincettes"
+    literal: "to take with tweezers"
+    meaning: "to handle with kid gloves, be very careful"
+    difficulty: 56
+    frequency: 66
+    context: "general"
+    register: "informal"
+    category: "caution"
+    examples:
+      a:
+        french: "Il faut le prendre avec des pincettes."
+        english: "You have to handle him with kid gloves."
+      b:
+        french: "Cette information est à prendre avec des pincettes."
+        english: "This information should be taken with a grain of salt."
+      c:
+        french: "Prenant la situation avec des pincettes, elle évita la catastrophe."
+        english: "Handling the situation carefully, she avoided disaster."
+
+  - idiom: "ne pas être dans son assiette"
+    literal: "not to be in one's plate"
+    meaning: "to feel under the weather, not oneself"
+    difficulty: 52
+    frequency: 62
+    context: "general"
+    register: "informal"
+    category: "health"
+    examples:
+      a:
+        french: "Je ne suis pas dans mon assiette."
+        english: "I'm not feeling myself."
+      b:
+        french: "Il n'est pas dans son assiette aujourd'hui."
+        english: "He's under the weather today."
+      c:
+        french: "N'étant pas dans son assiette, elle rentra tôt."
+        english: "Not feeling herself, she went home early."
+
+  - idiom: "mettre l'eau à la bouche"
+    literal: "to put water in the mouth"
+    meaning: "to make one's mouth water"
+    difficulty: 46
+    frequency: 52
+    context: "general"
+    register: "informal"
+    category: "food"
+    examples:
+      a:
+        french: "Ça me met l'eau à la bouche."
+        english: "It makes my mouth water."
+      b:
+        french: "Cette odeur met l'eau à la bouche."
+        english: "This smell is mouthwatering."
+      c:
+        french: "Mettant l'eau à la bouche, le plat fut dévoré."
+        english: "Making mouths water, the dish was devoured."
+
+  - idiom: "avoir les yeux qui piquent"
+    literal: "to have eyes that sting"
+    meaning: "to have stinging eyes, be sleepy"
+    difficulty: 48
+    frequency: 54
+    context: "general"
+    register: "informal"
+    category: "fatigue"
+    examples:
+      a:
+        french: "J'ai les yeux qui piquent."
+        english: "My eyes are stinging."
+      b:
+        french: "Il a les yeux qui piquent de fatigue."
+        english: "His eyes are stinging from tiredness."
+      c:
+        french: "Ayant les yeux qui piquent, elle se coucha."
+        english: "Her eyes stinging, she went to bed."
+
+  - idiom: "avoir le compas dans l'œil"
+    literal: "to have the compass in the eye"
+    meaning: "to have a good eye for measurement"
+    difficulty: 62
+    frequency: 74
+    context: "general"
+    register: "informal"
+    category: "skill"
+    examples:
+      a:
+        french: "Il a le compas dans l'œil."
+        english: "He has a good eye."
+      b:
+        french: "Tu as le compas dans l'œil."
+        english: "You have perfect judgment."
+      c:
+        french: "Ayant le compas dans l'œil, il mesura sans règle."
+        english: "Having a good eye, he measured without a ruler."
+
+  - idiom: "tourner en eau de boudin"
+    literal: "to turn into boudin water"
+    meaning: "to turn out badly, fizzle out"
+    difficulty: 66
+    frequency: 80
+    context: "general"
+    register: "informal"
+    category: "failure"
+    examples:
+      a:
+        french: "Ça a tourné en eau de boudin."
+        english: "It fizzled out."
+      b:
+        french: "Le projet a tourné en eau de boudin."
+        english: "The project turned out badly."
+      c:
+        french: "Tournant en eau de boudin, la fête fut annulée."
+        english: "Fizzling out, the party was cancelled."
+
+  - idiom: "avoir un cheveu sur la langue"
+    literal: "to have a hair on the tongue"
+    meaning: "to have a lisp"
+    difficulty: 58
+    frequency: 68
+    context: "general"
+    register: "informal"
+    category: "speech"
+    examples:
+      a:
+        french: "Il a un cheveu sur la langue."
+        english: "He has a lisp."
+      b:
+        french: "Elle a un petit cheveu sur la langue."
+        english: "She has a slight lisp."
+      c:
+        french: "Ayant un cheveu sur la langue, il zézayait légèrement."
+        english: "Having a lisp, he spoke with a slight impediment."
+
+  - idiom: "se faire rouler dans la farine"
+    literal: "to get rolled in flour"
+    meaning: "to be taken for a ride, duped"
+    difficulty: 60
+    frequency: 72
+    context: "general"
+    register: "informal"
+    category: "deception"
+    examples:
+      a:
+        french: "Je me suis fait rouler dans la farine."
+        english: "I got taken for a ride."
+      b:
+        french: "Il s'est fait rouler dans la farine."
+        english: "He got duped."
+      c:
+        french: "S'étant fait rouler dans la farine, elle perdit son argent."
+        english: "Having been taken for a ride, she lost her money."
+
+  - idiom: "mettre de l'huile sur le feu"
+    literal: "to put oil on the fire"
+    meaning: "to add fuel to the fire"
+    difficulty: 52
+    frequency: 62
+    context: "general"
+    register: "neutral"
+    category: "conflict"
+    examples:
+      a:
+        french: "Tu mets de l'huile sur le feu."
+        english: "You're adding fuel to the fire."
+      b:
+        french: "N'ajoute pas d'huile sur le feu."
+        english: "Don't make things worse."
+      c:
+        french: "Mettant de l'huile sur le feu, il envenima la dispute."
+        english: "Adding fuel to the fire, he made the argument worse."
+
+  - idiom: "être un panier percé"
+    literal: "to be a pierced basket"
+    meaning: "to be a spendthrift, unable to save money"
+    difficulty: 58
+    frequency: 68
+    context: "general"
+    register: "informal"
+    category: "money"
+    examples:
+      a:
+        french: "Il est un panier percé."
+        english: "He's a spendthrift."
+      b:
+        french: "Elle est un vrai panier percé."
+        english: "She can't save money to save her life."
+      c:
+        french: "Étant un panier percé, il dilapida son héritage."
+        english: "Being a spendthrift, he squandered his inheritance."
+
+  - idiom: "prendre la mouche"
+    literal: "to take the fly"
+    meaning: "to take offense, fly off the handle"
+    difficulty: 56
+    frequency: 66
+    context: "general"
+    register: "informal"
+    category: "anger"
+    examples:
+      a:
+        french: "Il a pris la mouche."
+        english: "He took offense."
+      b:
+        french: "Ne prends pas la mouche."
+        english: "Don't fly off the handle."
+      c:
+        french: "Prenant la mouche, elle quitta la pièce."
+        english: "Taking offense, she left the room."
+
+  - idiom: "faire mouche"
+    literal: "to make fly"
+    meaning: "to hit the mark, score a hit"
+    difficulty: 54
+    frequency: 64
+    context: "general"
+    register: "informal"
+    category: "success"
+    examples:
+      a:
+        french: "Sa remarque a fait mouche."
+        english: "His remark hit the mark."
+      b:
+        french: "Tu as fait mouche."
+        english: "You scored a hit."
+      c:
+        french: "Faisant mouche, son argument convainquit tout le monde."
+        english: "Hitting the mark, his argument convinced everyone."
+
+  - idiom: "avoir un œil qui dit zut à l'autre"
+    literal: "to have one eye that says darn to the other"
+    meaning: "to be cross-eyed, squint"
+    difficulty: 64
+    frequency: 76
+    context: "general"
+    register: "informal"
+    category: "vision"
+    examples:
+      a:
+        french: "Il a un œil qui dit zut à l'autre."
+        english: "He's cross-eyed."
+      b:
+        french: "Elle a un œil qui dit zut à l'autre."
+        english: "She has a lazy eye."
+      c:
+        french: "Ayant un œil qui dit zut à l'autre, il portait un cache."
+        english: "Being cross-eyed, he wore a patch."
+
+  - idiom: "avoir des oursins dans les poches"
+    literal: "to have sea urchins in the pockets"
+    meaning: "to be stingy, tight-fisted"
+    difficulty: 64
+    frequency: 78
+    context: "general"
+    register: "informal"
+    category: "stinginess"
+    examples:
+      a:
+        french: "Il a des oursins dans les poches."
+        english: "He's tight-fisted."
+      b:
+        french: "Tu as des oursins dans les poches?"
+        english: "Are you being stingy?"
+      c:
+        french: "Ayant des oursins dans les poches, il ne paya jamais sa tournée."
+        english: "Being stingy, he never bought a round."
+
+  - idiom: "se faire des cheveux blancs"
+    literal: "to make oneself white hairs"
+    meaning: "to worry oneself sick"
+    difficulty: 54
+    frequency: 64
+    context: "general"
+    register: "informal"
+    category: "worry"
+    examples:
+      a:
+        french: "Je me fais des cheveux blancs."
+        english: "I'm worrying myself sick."
+      b:
+        french: "Ne te fais pas de cheveux blancs."
+        english: "Don't worry yourself sick."
+      c:
+        french: "Se faisant des cheveux blancs, elle ne dormait plus."
+        english: "Worrying herself sick, she couldn't sleep anymore."
+
+  - idiom: "se faire des films"
+    literal: "to make oneself films"
+    meaning: "to imagine things, get carried away"
+    difficulty: 52
+    frequency: 60
+    context: "general"
+    register: "informal"
+    category: "imagination"
+    examples:
+      a:
+        french: "Tu te fais des films."
+        english: "You're imagining things."
+      b:
+        french: "Arrête de te faire des films."
+        english: "Stop getting carried away."
+      c:
+        french: "Se faisant des films, il crut à une relation."
+        english: "Imagining things, he thought there was a relationship."
+
+  - idiom: "prendre ses cliques et ses claques"
+    literal: "to take one's clicks and clacks"
+    meaning: "to pack up and leave, clear out"
+    difficulty: 62
+    frequency: 74
+    context: "general"
+    register: "informal"
+    category: "departure"
+    examples:
+      a:
+        french: "Il a pris ses cliques et ses claques."
+        english: "He packed up and left."
+      b:
+        french: "Je prends mes cliques et mes claques."
+        english: "I'm clearing out."
+      c:
+        french: "Prenant ses cliques et ses claques, elle déménagea."
+        english: "Packing up and leaving, she moved out."
+
+  - idiom: "rouler sur l'or"
+    literal: "to roll on gold"
+    meaning: "to be rolling in money"
+    difficulty: 50
+    frequency: 58
+    context: "general"
+    register: "informal"
+    category: "wealth"
+    examples:
+      a:
+        french: "Ils roulent sur l'or."
+        english: "They're rolling in money."
+      b:
+        french: "Il roule sur l'or maintenant."
+        english: "He's rolling in it now."
+      c:
+        french: "Roulant sur l'or, il acheta tout ce qu'il voulait."
+        english: "Rolling in money, he bought everything he wanted."
+
+  - idiom: "se faire de la bile"
+    literal: "to make oneself bile"
+    meaning: "to worry, fret"
+    difficulty: 56
+    frequency: 66
+    context: "general"
+    register: "informal"
+    category: "worry"
+    examples:
+      a:
+        french: "Ne te fais pas de bile."
+        english: "Don't worry."
+      b:
+        french: "Il se fait de la bile pour rien."
+        english: "He's fretting over nothing."
+      c:
+        french: "Se faisant de la bile, elle ne profita pas du voyage."
+        english: "Worrying, she didn't enjoy the trip."
+
+  - idiom: "avoir un coup dans l'aile"
+    literal: "to have a blow in the wing"
+    meaning: "to be in trouble, shaken"
+    difficulty: 60
+    frequency: 72
+    context: "general"
+    register: "informal"
+    category: "difficulty"
+    examples:
+      a:
+        french: "Il a un coup dans l'aile."
+        english: "He's in trouble."
+      b:
+        french: "L'entreprise a un coup dans l'aile."
+        english: "The company is struggling."
+      c:
+        french: "Ayant un coup dans l'aile, il chercha de l'aide."
+        english: "Being in trouble, he sought help."
+
+  - idiom: "mettre la puce à l'oreille"
+    literal: "to put the flea in the ear"
+    meaning: "to arouse suspicion, tip off"
+    difficulty: 62
+    frequency: 74
+    context: "general"
+    register: "informal"
+    category: "suspicion"
+    examples:
+      a:
+        french: "Ça m'a mis la puce à l'oreille."
+        english: "That aroused my suspicion."
+      b:
+        french: "Son comportement m'a mis la puce à l'oreille."
+        english: "His behavior tipped me off."
+      c:
+        french: "Mettant la puce à l'oreille, ce détail révéla tout."
+        english: "Arousing suspicion, this detail revealed everything."
+
+  - idiom: "se lever du pied gauche"
+    literal: "to get up on the left foot"
+    meaning: "to get up on the wrong side of the bed"
+    difficulty: 52
+    frequency: 62
+    context: "general"
+    register: "informal"
+    category: "mood"
+    examples:
+      a:
+        french: "Il s'est levé du pied gauche."
+        english: "He got up on the wrong side of the bed."
+      b:
+        french: "Je me suis levée du pied gauche."
+        english: "I got up on the wrong side of the bed."
+      c:
+        french: "S'étant levé du pied gauche, il fut grincheux toute la journée."
+        english: "Having gotten up on the wrong side of the bed, he was grumpy all day."
