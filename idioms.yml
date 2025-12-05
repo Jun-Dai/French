@@ -20670,3 +20670,287 @@ ait des équations complexes avec aisance."
       c:
         french: "Glandant au lieu de travailler, il se fit réprimander."
         english: "Loafing instead of working, he was reprimanded."
+  - idiom: "tenter le diable"
+    literal: "to tempt the devil"
+    meaning: "to take a big risk, tempt fate"
+    difficulty: 45
+    frequency: 52
+    context: "general"
+    register: "neutral"
+    category: "risk"
+    examples:
+      a:
+        french: "Ne tente pas le diable en conduisant trop vite."
+        english: "Don't tempt fate by driving too fast."
+      b:
+        french: "Il tente le diable avec ses investissements."
+        english: "He's tempting fate with his investments."
+      c:
+        french: "Tentant le diable, il ignora les avertissements."
+        english: "Tempting fate, he ignored the warnings."
+
+  - idiom: "tenter le tout pour le tout"
+    literal: "to try the all for the all"
+    meaning: "to risk everything, go for broke"
+    difficulty: 50
+    frequency: 58
+    context: "general"
+    register: "neutral"
+    category: "risk"
+    examples:
+      a:
+        french: "Il a tenté le tout pour le tout."
+        english: "He risked everything."
+      b:
+        french: "Nous devons tenter le tout pour le tout."
+        english: "We have to go for broke."
+      c:
+        french: "Tentant le tout pour le tout, elle joua sa dernière carte."
+        english: "Going for broke, she played her last card."
+
+  - idiom: "tenter le coup"
+    literal: "to try the blow"
+    meaning: "to give it a shot, try one's luck"
+    difficulty: 38
+    frequency: 45
+    context: "general"
+    register: "informal"
+    category: "opportunity"
+    examples:
+      a:
+        french: "Je vais tenter le coup."
+        english: "I'm going to give it a shot."
+      b:
+        french: "Tente le coup, on ne sait jamais."
+        english: "Give it a try, you never know."
+      c:
+        french: "Tentant le coup, il envoya sa candidature."
+        english: "Giving it a shot, he sent his application."
+
+  - idiom: "tant pis"
+    literal: "so much worse"
+    meaning: "too bad, never mind"
+    difficulty: 25
+    frequency: 15
+    context: "general"
+    register: "neutral"
+    category: "resignation"
+    examples:
+      a:
+        french: "Tant pis pour eux s'ils ne viennent pas."
+        english: "Too bad for them if they don't come."
+      b:
+        french: "Tant pis, on fera sans."
+        english: "Never mind, we'll do without."
+      c:
+        french: "Tant pis, ce sera pour une autre fois."
+        english: "Oh well, it'll be for another time."
+
+  - idiom: "tant mieux"
+    literal: "so much better"
+    meaning: "so much the better, all the better"
+    difficulty: 25
+    frequency: 15
+    context: "general"
+    register: "neutral"
+    category: "satisfaction"
+    examples:
+      a:
+        french: "S'il est d'accord, tant mieux."
+        english: "If he agrees, so much the better."
+      b:
+        french: "Tant mieux pour toi!"
+        english: "Good for you!"
+      c:
+        french: "Tant mieux si ça marche."
+        english: "All the better if it works."
+
+  - idiom: "tant bien que mal"
+    literal: "as much good as bad"
+    meaning: "somehow, with difficulty, in a makeshift way"
+    difficulty: 48
+    frequency: 55
+    context: "general"
+    register: "neutral"
+    category: "difficulty"
+    examples:
+      a:
+        french: "Il se débrouille tant bien que mal."
+        english: "He's managing somehow."
+      b:
+        french: "On a réparé la voiture tant bien que mal."
+        english: "We fixed the car in a makeshift way."
+      c:
+        french: "Vivant tant bien que mal, il survécut à la crise."
+        english: "Getting by somehow, he survived the crisis."
+
+  - idiom: "un tant soit peu"
+    literal: "a so much be little"
+    meaning: "a little bit, somewhat, at all"
+    difficulty: 62
+    frequency: 75
+    context: "general"
+    register: "formal"
+    category: "degree"
+    examples:
+      a:
+        french: "Si tu es un tant soit peu intelligent..."
+        english: "If you're the least bit intelligent..."
+      b:
+        french: "C'est un tant soit peu compliqué."
+        english: "It's somewhat complicated."
+      c:
+        french: "Un tant soit peu de patience suffirait."
+        english: "A little bit of patience would suffice."
+
+  - idiom: "tant qu'à faire"
+    literal: "as much as to do"
+    meaning: "while we're at it, might as well"
+    difficulty: 52
+    frequency: 62
+    context: "general"
+    register: "neutral"
+    category: "opportunity"
+    examples:
+      a:
+        french: "Tant qu'à faire, autant bien le faire."
+        english: "While we're at it, might as well do it right."
+      b:
+        french: "Tant qu'à faire, prends-en deux."
+        english: "Might as well take two."
+      c:
+        french: "Tant qu'à faire, allons-y ensemble."
+        english: "While we're at it, let's go together."
+
+  - idiom: "être mal foutu"
+    literal: "to be badly done/made"
+    meaning: "to feel unwell, to be poorly designed"
+    difficulty: 42
+    frequency: 48
+    context: "general"
+    register: "vulgar"
+    category: "health"
+    examples:
+      a:
+        french: "Je suis mal foutu aujourd'hui."
+        english: "I'm feeling under the weather today."
+      b:
+        french: "Ce meuble est mal foutu."
+        english: "This furniture is poorly designed."
+      c:
+        french: "Étant mal foutu, il resta au lit."
+        english: "Feeling unwell, he stayed in bed."
+
+  - idiom: "être bien foutu"
+    literal: "to be well done/made"
+    meaning: "to be well-built, attractive, well-designed"
+    difficulty: 40
+    frequency: 46
+    context: "general"
+    register: "vulgar"
+    category: "appearance"
+    examples:
+      a:
+        french: "Elle est bien foutue."
+        english: "She's got a great body."
+      b:
+        french: "C'est un appareil bien foutu."
+        english: "It's a well-designed device."
+      c:
+        french: "Étant bien foutu, le système fonctionna parfaitement."
+        english: "Being well-designed, the system worked perfectly."
+
+  - idiom: "c'est foutu"
+    literal: "it's done"
+    meaning: "it's ruined, it's done for, it's hopeless"
+    difficulty: 35
+    frequency: 40
+    context: "general"
+    register: "vulgar"
+    category: "failure"
+    examples:
+      a:
+        french: "C'est foutu, on ne peut plus rien faire."
+        english: "It's done for, we can't do anything anymore."
+      b:
+        french: "Le projet est foutu."
+        english: "The project is ruined."
+      c:
+        french: "C'est foutu, il est trop tard."
+        english: "It's hopeless, it's too late."
+
+  - idiom: "attacher son chien avec des saucisses"
+    literal: "to tie one's dog with sausages"
+    meaning: "to be wasteful, careless with money"
+    difficulty: 72
+    frequency: 88
+    context: "general"
+    register: "informal"
+    category: "wealth"
+    examples:
+      a:
+        french: "Il attache son chien avec des saucisses, celui-là."
+        english: "He's really careless with money."
+      b:
+        french: "Avec son salaire, il peut attacher son chien avec des saucisses."
+        english: "With his salary, he can afford to be wasteful."
+      c:
+        french: "Attachant son chien avec des saucisses, il dilapida sa fortune."
+        english: "Being wasteful, he squandered his fortune."
+
+  - idiom: "ne pas attacher ses chiens avec des saucisses"
+    literal: "not to tie one's dogs with sausages"
+    meaning: "to be stingy, tight with money"
+    difficulty: 74
+    frequency: 90
+    context: "general"
+    register: "informal"
+    category: "stinginess"
+    examples:
+      a:
+        french: "Il n'attache pas ses chiens avec des saucisses."
+        english: "He's pretty tight with money."
+      b:
+        french: "Elle n'attache pas ses chiens avec des saucisses, crois-moi."
+        english: "She's quite stingy, believe me."
+      c:
+        french: "N'attachant pas ses chiens avec des saucisses, il compta chaque centime."
+        english: "Being tight-fisted, he counted every penny."
+
+  - idiom: "se faire de l'encre"
+    literal: "to make oneself some ink"
+    meaning: "to worry, to fret"
+    difficulty: 68
+    frequency: 82
+    context: "general"
+    register: "informal"
+    category: "worry"
+    examples:
+      a:
+        french: "Ne te fais pas de l'encre pour ça."
+        english: "Don't worry about that."
+      b:
+        french: "Elle se fait de l'encre pour ses enfants."
+        english: "She worries about her children."
+      c:
+        french: "Se faisant de l'encre, il ne dormit pas de la nuit."
+        english: "Worrying himself sick, he didn't sleep all night."
+
+  - idiom: "beaucoup d'encre a coulé"
+    literal: "much ink has flowed"
+    meaning: "much has been written, much has been said"
+    difficulty: 55
+    frequency: 65
+    context: "general"
+    register: "formal"
+    category: "discussion"
+    examples:
+      a:
+        french: "Beaucoup d'encre a coulé sur cette affaire."
+        english: "Much has been written about this matter."
+      b:
+        french: "Depuis, beaucoup d'encre a coulé."
+        english: "Since then, much has been said."
+      c:
+        french: "Beaucoup d'encre ayant coulé, l'affaire fut enfin close."
+        english: "Much having been written, the matter was finally closed."
