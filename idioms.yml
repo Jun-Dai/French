@@ -20062,3 +20062,611 @@ ait des équations complexes avec aisance."
       c:
         french: "S'étant levé du pied gauche, il fut grincheux toute la journée."
         english: "Having gotten up on the wrong side of the bed, he was grumpy all day."
+
+  - idiom: "peigner la girafe"
+    literal: "to comb the giraffe"
+    meaning: "to do nothing, waste time on useless tasks"
+    difficulty: 68
+    frequency: 84
+    context: "general"
+    register: "informal"
+    category: "laziness"
+    examples:
+      a:
+        french: "Il passe son temps à peigner la girafe."
+        english: "He spends his time doing nothing."
+      b:
+        french: "Arrête de peigner la girafe et travaille."
+        english: "Stop wasting time and work."
+      c:
+        french: "Peignant la girafe toute la journée, il n'accomplit rien."
+        english: "Wasting time all day, he accomplished nothing."
+
+  - idiom: "se faire engueuler comme du poisson pourri"
+    literal: "to get yelled at like rotten fish"
+    meaning: "to get severely told off"
+    difficulty: 66
+    frequency: 82
+    context: "general"
+    register: "vulgar"
+    category: "reprimand"
+    examples:
+      a:
+        french: "Je me suis fait engueuler comme du poisson pourri."
+        english: "I got severely chewed out."
+      b:
+        french: "Il s'est fait engueuler comme du poisson pourri."
+        english: "He got royally told off."
+      c:
+        french: "S'étant fait engueuler comme du poisson pourri, il ne recommença plus."
+        english: "Having been severely told off, he didn't do it again."
+
+  - idiom: "avoir des casseroles au cul"
+    literal: "to have saucepans on one's ass"
+    meaning: "to have a shady past, skeletons in the closet"
+    difficulty: 64
+    frequency: 78
+    context: "general"
+    register: "vulgar"
+    category: "scandal"
+    examples:
+      a:
+        french: "Ce politicien a des casseroles au cul."
+        english: "This politician has skeletons in his closet."
+      b:
+        french: "Il a plusieurs casseroles au cul."
+        english: "He has a shady past."
+      c:
+        french: "Ayant des casseroles au cul, il évita les médias."
+        english: "Having skeletons in his closet, he avoided the media."
+
+  - idiom: "avoir les dents qui rayent le parquet"
+    literal: "to have teeth that scratch the floor"
+    meaning: "to be extremely ambitious, ruthless"
+    difficulty: 70
+    frequency: 86
+    context: "general"
+    register: "informal"
+    category: "ambition"
+    examples:
+      a:
+        french: "Elle a les dents qui rayent le parquet."
+        english: "She's ruthlessly ambitious."
+      b:
+        french: "Il a les dents qui rayent le parquet."
+        english: "He has razor-sharp ambition."
+      c:
+        french: "Ayant les dents qui rayent le parquet, elle écrasa ses rivaux."
+        english: "Being ruthlessly ambitious, she crushed her rivals."
+
+  - idiom: "avoir un coup dans le nez"
+    literal: "to have a blow in the nose"
+    meaning: "to be tipsy, drunk"
+    difficulty: 58
+    frequency: 70
+    context: "general"
+    register: "informal"
+    category: "alcohol"
+    examples:
+      a:
+        french: "Il a un coup dans le nez."
+        english: "He's had one too many."
+      b:
+        french: "Elle avait un petit coup dans le nez."
+        english: "She was a bit tipsy."
+      c:
+        french: "Ayant un coup dans le nez, il parla trop."
+        english: "Being tipsy, he talked too much."
+
+  - idiom: "se bourrer la gueule"
+    literal: "to stuff one's face"
+    meaning: "to get drunk, get wasted"
+    difficulty: 60
+    frequency: 74
+    context: "general"
+    register: "vulgar"
+    category: "alcohol"
+    examples:
+      a:
+        french: "Il s'est bourré la gueule."
+        english: "He got wasted."
+      b:
+        french: "Ils se bourrent la gueule tous les week-ends."
+        english: "They get drunk every weekend."
+      c:
+        french: "S'étant bourré la gueule, il ne se souvint de rien."
+        english: "Having gotten wasted, he remembered nothing."
+
+  - idiom: "être rond comme une queue de pelle"
+    literal: "to be round as a shovel handle"
+    meaning: "to be completely drunk"
+    difficulty: 68
+    frequency: 84
+    context: "general"
+    register: "informal"
+    category: "alcohol"
+    examples:
+      a:
+        french: "Il est rond comme une queue de pelle."
+        english: "He's completely plastered."
+      b:
+        french: "Ils étaient ronds comme des queues de pelle."
+        english: "They were totally drunk."
+      c:
+        french: "Étant rond comme une queue de pelle, il trébucha."
+        english: "Being completely drunk, he stumbled."
+
+  - idiom: "ne pas avoir inventé le fil à couper le beurre"
+    literal: "not to have invented the wire to cut butter"
+    meaning: "to not be very bright, not be the sharpest tool"
+    difficulty: 72
+    frequency: 88
+    context: "general"
+    register: "informal"
+    category: "intelligence"
+    examples:
+      a:
+        french: "Il n'a pas inventé le fil à couper le beurre."
+        english: "He's not the sharpest tool in the shed."
+      b:
+        french: "Elle n'a pas inventé le fil à couper le beurre."
+        english: "She's not very bright."
+      c:
+        french: "N'ayant pas inventé le fil à couper le beurre, il rata l'opportunité."
+        english: "Not being very bright, he missed the opportunity."
+
+  - idiom: "ne pas avoir inventé l'eau chaude"
+    literal: "not to have invented hot water"
+    meaning: "to not be very smart"
+    difficulty: 64
+    frequency: 78
+    context: "general"
+    register: "informal"
+    category: "intelligence"
+    examples:
+      a:
+        french: "Il n'a pas inventé l'eau chaude."
+        english: "He's not very smart."
+      b:
+        french: "Elle n'a pas inventé l'eau chaude, celle-là."
+        english: "She's not the brightest, that one."
+      c:
+        french: "N'ayant pas inventé l'eau chaude, il suivit les autres."
+        english: "Not being very smart, he followed the others."
+
+  - idiom: "avoir mangé du lion"
+    literal: "to have eaten lion"
+    meaning: "to be full of energy and courage"
+    difficulty: 62
+    frequency: 76
+    context: "general"
+    register: "informal"
+    category: "energy"
+    examples:
+      a:
+        french: "Il a mangé du lion aujourd'hui!"
+        english: "He's full of beans today!"
+      b:
+        french: "Elle a mangé du lion ce matin."
+        english: "She's fired up this morning."
+      c:
+        french: "Ayant mangé du lion, il affronta tous les défis."
+        english: "Being full of courage, he faced all challenges."
+
+  - idiom: "casser trois pattes à un canard"
+    literal: "to break three legs of a duck"
+    meaning: "to do something extraordinary (usually in negative)"
+    difficulty: 66
+    frequency: 80
+    context: "general"
+    register: "informal"
+    category: "quality"
+    examples:
+      a:
+        french: "Ça ne casse pas trois pattes à un canard."
+        english: "It's nothing to write home about."
+      b:
+        french: "Ce film ne casse pas trois pattes à un canard."
+        english: "This film is nothing special."
+      c:
+        french: "Ne cassant pas trois pattes à un canard, son idée fut rejetée."
+        english: "Being nothing special, his idea was rejected."
+
+  - idiom: "envoyer paître"
+    literal: "to send to pasture"
+    meaning: "to send packing, tell someone to get lost"
+    difficulty: 60
+    frequency: 72
+    context: "general"
+    register: "informal"
+    category: "rejection"
+    examples:
+      a:
+        french: "Il l'a envoyé paître."
+        english: "He sent him packing."
+      b:
+        french: "Je l'ai envoyé paître."
+        english: "I told him to get lost."
+      c:
+        french: "Envoyant paître tous ses détracteurs, elle poursuivit son chemin."
+        english: "Sending all her critics packing, she continued on her way."
+
+  - idiom: "envoyer bouler"
+    literal: "to send rolling"
+    meaning: "to send someone packing, brush off"
+    difficulty: 58
+    frequency: 70
+    context: "general"
+    register: "informal"
+    category: "rejection"
+    examples:
+      a:
+        french: "Je l'ai envoyé bouler."
+        english: "I sent him packing."
+      b:
+        french: "Elle l'a envoyé bouler."
+        english: "She brushed him off."
+      c:
+        french: "Envoyant bouler les importuns, il travailla en paix."
+        english: "Sending busybodies packing, he worked in peace."
+
+  - idiom: "envoyer promener"
+    literal: "to send for a walk"
+    meaning: "to send someone packing, tell off"
+    difficulty: 56
+    frequency: 68
+    context: "general"
+    register: "informal"
+    category: "rejection"
+    examples:
+      a:
+        french: "Je l'ai envoyé promener."
+        english: "I told him where to go."
+      b:
+        french: "Il l'a envoyé promener."
+        english: "He sent her packing."
+      c:
+        french: "Envoyant promener son patron, il démissionna."
+        english: "Telling off his boss, he quit."
+
+  - idiom: "monter sur ses grands chevaux"
+    literal: "to mount one's big horses"
+    meaning: "to get on one's high horse, get angry"
+    difficulty: 64
+    frequency: 78
+    context: "general"
+    register: "informal"
+    category: "anger"
+    examples:
+      a:
+        french: "Il monte sur ses grands chevaux."
+        english: "He's getting on his high horse."
+      b:
+        french: "Ne monte pas sur tes grands chevaux."
+        english: "Don't get all huffy."
+      c:
+        french: "Montant sur ses grands chevaux, elle refusa d'écouter."
+        english: "Getting on her high horse, she refused to listen."
+
+  - idiom: "prendre la grosse tête"
+    literal: "to take the big head"
+    meaning: "to get a swollen head, become conceited"
+    difficulty: 56
+    frequency: 66
+    context: "general"
+    register: "informal"
+    category: "pride"
+    examples:
+      a:
+        french: "Il a pris la grosse tête."
+        english: "He's gotten a big head."
+      b:
+        french: "Ne prends pas la grosse tête."
+        english: "Don't get cocky."
+      c:
+        french: "Prenant la grosse tête, il perdit ses amis."
+        english: "Getting a swollen head, he lost his friends."
+
+  - idiom: "tirer une épine du pied"
+    literal: "to pull a thorn from the foot"
+    meaning: "to help someone out of a jam"
+    difficulty: 62
+    frequency: 74
+    context: "general"
+    register: "informal"
+    category: "help"
+    examples:
+      a:
+        french: "Tu m'as tiré une épine du pied."
+        english: "You helped me out of a jam."
+      b:
+        french: "Il m'a tiré une belle épine du pied."
+        english: "He really bailed me out."
+      c:
+        french: "Tirant une épine du pied à son ami, il le sauva de l'embarras."
+        english: "Helping his friend out of a jam, he saved him from embarrassment."
+
+  - idiom: "avoir un œil de lynx"
+    literal: "to have a lynx eye"
+    meaning: "to have eagle eyes, be very observant"
+    difficulty: 58
+    frequency: 70
+    context: "general"
+    register: "informal"
+    category: "vision"
+    examples:
+      a:
+        french: "Elle a un œil de lynx."
+        english: "She has eagle eyes."
+      b:
+        french: "Il a un œil de lynx pour les détails."
+        english: "He's very observant of details."
+      c:
+        french: "Ayant un œil de lynx, elle repéra l'erreur immédiatement."
+        english: "Having eagle eyes, she spotted the error immediately."
+
+  - idiom: "avoir une mémoire de poisson rouge"
+    literal: "to have a goldfish memory"
+    meaning: "to have a terrible memory"
+    difficulty: 60
+    frequency: 72
+    context: "general"
+    register: "informal"
+    category: "memory"
+    examples:
+      a:
+        french: "J'ai une mémoire de poisson rouge."
+        english: "I have a terrible memory."
+      b:
+        french: "Il a une mémoire de poisson rouge."
+        english: "He has the memory of a goldfish."
+      c:
+        french: "Ayant une mémoire de poisson rouge, elle oublia tout."
+        english: "Having a terrible memory, she forgot everything."
+
+  - idiom: "avoir une langue de vipère"
+    literal: "to have a viper's tongue"
+    meaning: "to be malicious, spiteful"
+    difficulty: 62
+    frequency: 74
+    context: "general"
+    register: "informal"
+    category: "malice"
+    examples:
+      a:
+        french: "Elle a une langue de vipère."
+        english: "She has a vicious tongue."
+      b:
+        french: "Il a une vraie langue de vipère."
+        english: "He's really malicious."
+      c:
+        french: "Ayant une langue de vipère, elle blessait tout le monde."
+        english: "Being spiteful, she hurt everyone."
+
+  - idiom: "être con comme un balai"
+    literal: "to be as stupid as a broom"
+    meaning: "to be really stupid"
+    difficulty: 64
+    frequency: 78
+    context: "general"
+    register: "vulgar"
+    category: "stupidity"
+    examples:
+      a:
+        french: "Il est con comme un balai."
+        english: "He's dumb as a post."
+      b:
+        french: "Elle est conne comme un balai."
+        english: "She's really stupid."
+      c:
+        french: "Étant con comme un balai, il répéta la même erreur."
+        english: "Being stupid as a broom, he repeated the same mistake."
+
+  - idiom: "être bête à manger du foin"
+    literal: "to be stupid enough to eat hay"
+    meaning: "to be incredibly stupid"
+    difficulty: 66
+    frequency: 82
+    context: "general"
+    register: "informal"
+    category: "stupidity"
+    examples:
+      a:
+        french: "Il est bête à manger du foin."
+        english: "He's dumb as rocks."
+      b:
+        french: "Elle est bête à manger du foin."
+        english: "She's incredibly stupid."
+      c:
+        french: "Étant bête à manger du foin, il ne comprit jamais."
+        english: "Being dumb as rocks, he never understood."
+
+  - idiom: "être laid comme un pou"
+    literal: "to be ugly as a louse"
+    meaning: "to be very ugly"
+    difficulty: 62
+    frequency: 76
+    context: "general"
+    register: "informal"
+    category: "appearance"
+    examples:
+      a:
+        french: "Il est laid comme un pou."
+        english: "He's ugly as sin."
+      b:
+        french: "Ce bâtiment est laid comme un pou."
+        english: "This building is really ugly."
+      c:
+        french: "Étant laid comme un pou, le monument fut démoli."
+        english: "Being ugly as sin, the monument was demolished."
+
+  - idiom: "être fauché comme les blés"
+    literal: "to be mown like wheat"
+    meaning: "to be flat broke"
+    difficulty: 64
+    frequency: 78
+    context: "general"
+    register: "informal"
+    category: "poverty"
+    examples:
+      a:
+        french: "Je suis fauché comme les blés."
+        english: "I'm flat broke."
+      b:
+        french: "Il est fauché comme les blés."
+        english: "He's completely broke."
+      c:
+        french: "Étant fauché comme les blés, il ne sortit plus."
+        english: "Being flat broke, he stopped going out."
+
+  - idiom: "dormir comme un loir"
+    literal: "to sleep like a dormouse"
+    meaning: "to sleep like a log"
+    difficulty: 58
+    frequency: 70
+    context: "general"
+    register: "informal"
+    category: "sleep"
+    examples:
+      a:
+        french: "Il dort comme un loir."
+        english: "He sleeps like a log."
+      b:
+        french: "J'ai dormi comme un loir."
+        english: "I slept like a baby."
+      c:
+        french: "Dormant comme un loir, il n'entendit rien."
+        english: "Sleeping like a log, he heard nothing."
+
+  - idiom: "dormir comme une souche"
+    literal: "to sleep like a tree stump"
+    meaning: "to sleep like a log"
+    difficulty: 60
+    frequency: 72
+    context: "general"
+    register: "informal"
+    category: "sleep"
+    examples:
+      a:
+        french: "Il dort comme une souche."
+        english: "He's out like a light."
+      b:
+        french: "J'ai dormi comme une souche."
+        english: "I slept like a log."
+      c:
+        french: "Dormant comme une souche, elle ne se réveilla pas."
+        english: "Sleeping like a log, she didn't wake up."
+
+  - idiom: "ronfler comme un sonneur"
+    literal: "to snore like a bell-ringer"
+    meaning: "to snore loudly"
+    difficulty: 62
+    frequency: 76
+    context: "general"
+    register: "informal"
+    category: "sleep"
+    examples:
+      a:
+        french: "Il ronfle comme un sonneur."
+        english: "He snores like a freight train."
+      b:
+        french: "Mon père ronfle comme un sonneur."
+        english: "My father snores really loudly."
+      c:
+        french: "Ronflant comme un sonneur, il empêcha tout le monde de dormir."
+        english: "Snoring like a bell-ringer, he kept everyone awake."
+
+  - idiom: "avoir un poil dans la main"
+    literal: "to have a hair in the hand"
+    meaning: "to be bone lazy"
+    difficulty: 64
+    frequency: 78
+    context: "general"
+    register: "informal"
+    category: "laziness"
+    examples:
+      a:
+        french: "Il a un poil dans la main."
+        english: "He's bone lazy."
+      b:
+        french: "Elle a un poil dans la main."
+        english: "She's incredibly lazy."
+      c:
+        french: "Ayant un poil dans la main, il ne faisait jamais rien."
+        english: "Being bone lazy, he never did anything."
+
+  - idiom: "ne rien foutre"
+    literal: "to do nothing fuck"
+    meaning: "to do absolutely nothing, slack off"
+    difficulty: 56
+    frequency: 68
+    context: "general"
+    register: "vulgar"
+    category: "laziness"
+    examples:
+      a:
+        french: "Il ne fout rien."
+        english: "He does absolutely nothing."
+      b:
+        french: "Tu ne fous rien de la journée."
+        english: "You slack off all day."
+      c:
+        french: "Ne foutant rien, il se fit virer."
+        english: "Doing nothing, he got fired."
+
+  - idiom: "se les rouler"
+    literal: "to roll them"
+    meaning: "to do nothing, loaf around"
+    difficulty: 62
+    frequency: 76
+    context: "general"
+    register: "vulgar"
+    category: "laziness"
+    examples:
+      a:
+        french: "Il se les roule."
+        english: "He's doing nothing."
+      b:
+        french: "Arrête de te les rouler."
+        english: "Stop loafing around."
+      c:
+        french: "Se les roulant toute la journée, il ne progressa jamais."
+        english: "Loafing around all day, he never progressed."
+
+  - idiom: "se tourner les pouces"
+    literal: "to turn one's thumbs"
+    meaning: "to twiddle one's thumbs, be idle"
+    difficulty: 58
+    frequency: 70
+    context: "general"
+    register: "informal"
+    category: "laziness"
+    examples:
+      a:
+        french: "Il se tourne les pouces."
+        english: "He's twiddling his thumbs."
+      b:
+        french: "Arrête de te tourner les pouces."
+        english: "Stop sitting idle."
+      c:
+        french: "Se tournant les pouces, il perdit son temps."
+        english: "Twiddling his thumbs, he wasted his time."
+
+  - idiom: "glander"
+    literal: "to acorn"
+    meaning: "to loaf around, do nothing"
+    difficulty: 60
+    frequency: 74
+    context: "general"
+    register: "vulgar"
+    category: "laziness"
+    examples:
+      a:
+        french: "Il glande toute la journée."
+        english: "He loafs around all day."
+      b:
+        french: "Arrête de glander."
+        english: "Stop doing nothing."
+      c:
+        french: "Glandant au lieu de travailler, il se fit réprimander."
+        english: "Loafing instead of working, he was reprimanded."
