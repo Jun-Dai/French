@@ -4397,25 +4397,6 @@ ait des équations complexes avec aisance."
         english: "Getting all members' agreement was mission impossible within the allotted time."
 
   # OPINION & JUDGMENT IDIOMS
-  - idiom: "à mon avis"
-    literal: "to my opinion"
-    meaning: "in my opinion"
-    difficulty: 20
-    frequency: 15
-    context: "general"
-    register: "neutral"
-    category: "opinion"
-    examples:
-      a:
-        french: "À mon avis, c'est une bonne idée."
-        english: "In my opinion, it's a good idea."
-      b:
-        french: "À mon avis, il devrait accepter cette offre."
-        english: "In my opinion, he should accept this offer."
-      c:
-        french: "À mon avis, cette stratégie comportait trop de risques pour être viable à long terme."
-        english: "In my opinion, this strategy carried too many risks to be viable long-term."
-
   - idiom: "ne pas être de cet avis"
     literal: "not to be of this opinion"
     meaning: "to disagree"
@@ -5455,25 +5436,6 @@ ait des équations complexes avec aisance."
         french: "Ayant la patience d'un ange, l'enseignante expliqua le concept pour la dixième fois."
         english: "Having the patience of a saint, the teacher explained the concept for the tenth time."
 
-  - idiom: "perdre patience"
-    literal: "to lose patience"
-    meaning: "to lose patience"
-    difficulty: 30
-    frequency: 28
-    context: "general"
-    register: "neutral"
-    category: "impatience"
-    examples:
-      a:
-        french: "Je perds patience."
-        english: "I'm losing patience."
-      b:
-        french: "Il a perdu patience avec son ordinateur."
-        english: "He lost patience with his computer."
-      c:
-        french: "Après des heures d'attente, les clients commencèrent à perdre patience."
-        english: "After hours of waiting, customers began to lose patience."
-
   - idiom: "être à bout de nerfs"
     literal: "to be at the end of nerves"
     meaning: "to be at the end of one's tether"
@@ -5802,25 +5764,6 @@ ait des équations complexes avec aisance."
         english: "The doctor had warned him, but he didn't listen and continued smoking."
 
   # HOPE & DESPAIR IDIOMS
-  - idiom: "garder espoir"
-    literal: "to keep hope"
-    meaning: "to keep hope, remain hopeful"
-    difficulty: 28
-    frequency: 25
-    context: "general"
-    register: "neutral"
-    category: "hope"
-    examples:
-      a:
-        french: "Il faut garder espoir."
-        english: "We must keep hope."
-      b:
-        french: "Malgré tout, elle garde espoir."
-        english: "Despite everything, she remains hopeful."
-      c:
-        french: "Gardant espoir contre toute attente, ils continuèrent les recherches même après une semaine."
-        english: "Keeping hope against all odds, they continued the search even after a week."
-
   - idiom: "toucher le fond"
     literal: "to touch the bottom"
     meaning: "to hit rock bottom"
@@ -6149,44 +6092,6 @@ ait des équations complexes avec aisance."
         english: "Having her hands tied by management directives, she couldn't help despite her willingness."
 
   # ATTENTION & NEGLIGENCE IDIOMS
-  - idiom: "faire attention"
-    literal: "to make attention"
-    meaning: "to pay attention, be careful"
-    difficulty: 18
-    frequency: 15
-    context: "general"
-    register: "neutral"
-    category: "attention"
-    examples:
-      a:
-        french: "Fais attention!"
-        english: "Be careful!"
-      b:
-        french: "Il faut faire attention aux détails."
-        english: "You must pay attention to details."
-      c:
-        french: "Faisant attention à chaque mot, elle relut le contrat avant de signer."
-        english: "Paying attention to every word, she reread the contract before signing."
-
-  - idiom: "prêter attention"
-    literal: "to lend attention"
-    meaning: "to pay attention"
-    difficulty: 36
-    frequency: 34
-    context: "general"
-    register: "neutral"
-    category: "attention"
-    examples:
-      a:
-        french: "Prête attention à ce qu'il dit."
-        english: "Pay attention to what he's saying."
-      b:
-        french: "Personne ne prête attention à mes suggestions."
-        english: "Nobody pays attention to my suggestions."
-      c:
-        french: "Prêtant attention aux moindres signaux, le détective remarqua un détail crucial."
-        english: "Paying attention to the slightest signals, the detective noticed a crucial detail."
-
   - idiom: "négliger quelque chose"
     literal: "to neglect something"
     meaning: "to neglect, overlook"
@@ -6725,25 +6630,6 @@ ait des équations complexes avec aisance."
         french: "Ayant fait ses preuves dans plusieurs projets, elle obtint la promotion tant attendue."
         english: "Having proven herself in several projects, she got the long-awaited promotion."
 
-  - idiom: "apporter la preuve"
-    literal: "to bring the proof"
-    meaning: "to provide proof"
-    difficulty: 37
-    frequency: 35
-    context: "general"
-    register: "neutral"
-    category: "proof"
-    examples:
-      a:
-        french: "Il faut apporter la preuve."
-        english: "You must provide proof."
-      b:
-        french: "Elle a apporté la preuve de son innocence."
-        english: "She provided proof of her innocence."
-      c:
-        french: "Apportant la preuve irréfutable de la fraude, le lanceur d'alerte déclencha l'enquête."
-        english: "Providing irrefutable proof of fraud, the whistleblower triggered the investigation."
-
   - idiom: "prendre quelqu'un la main dans le sac"
     literal: "to catch someone hand in the bag"
     meaning: "to catch someone red-handed"
@@ -7205,64 +7091,6 @@ ait des équations complexes avec aisance."
         french: "Prenant ses jambes à son cou dès l'alarme, le voleur disparut avant l'arrivée de la police."
         english: "Taking to his heels at the alarm, the thief vanished before the police arrived."
 
-  - idiom: "aller à toute vitesse"
-    literal: "to go at all speed"
-    meaning: "to go at full speed"
-    difficulty: 26
-    frequency: 24
-    context: "general"
-    register: "neutral"
-    category: "movement"
-    examples:
-      a:
-        french: "Il va à toute vitesse."
-        english: "He's going at full speed."
-      b:
-        french: "La voiture allait à toute vitesse."
-        english: "The car was going at full speed."
-      c:
-        french: "Allant à toute vitesse sur l'autoroute, il fut arrêté par la police."
-        english: "Going at full speed on the highway, he was stopped by the police."
-
-  - idiom: "faire demi-tour"
-    literal: "to make half turn"
-    meaning: "to turn back, make a U-turn"
-    difficulty: 35
-    frequency: 33
-    context: "general"
-    register: "neutral"
-    category: "movement"
-    examples:
-      a:
-        french: "J'ai oublié mes clés, je fais demi-tour."
-        english: "I forgot my keys, I'm turning back."
-      b:
-        french: "En voyant les embouteillages, il a fait demi-tour."
-        english: "Seeing the traffic jam, he made a U-turn."
-      c:
-        french: "Faisant demi-tour au dernier moment, elle évita de se rendre à une réunion inutile."
-        english: "Turning back at the last moment, she avoided going to a useless meeting."
-
-  - idiom: "aller de l'avant"
-    literal: "to go forward"
-    meaning: "to move forward, forge ahead"
-    difficulty: 38
-    frequency: 36
-    context: "general"
-    register: "neutral"
-    category: "movement"
-    examples:
-      a:
-        french: "Il faut aller de l'avant."
-        english: "We must move forward."
-      b:
-        french: "Malgré les difficultés, elle va de l'avant."
-        english: "Despite difficulties, she moves forward."
-      c:
-        french: "Allant de l'avant malgré les échecs passés, il lança une nouvelle entreprise."
-        english: "Moving forward despite past failures, he launched a new business."
-
-  # VISION & SIGHT IDIOMS
   - idiom: "ne pas en croire ses yeux"
     literal: "not to believe one's eyes"
     meaning: "not to believe one's eyes"
@@ -8088,25 +7916,6 @@ ait des équations complexes avec aisance."
         french: "Se faisant comprendre par gestes, elle réussit à obtenir de l'aide."
         english: "Making herself understood through gestures, she managed to get help."
 
-  - idiom: "faire erreur"
-    literal: "to make error"
-    meaning: "to be mistaken"
-    difficulty: 36
-    frequency: 34
-    context: "general"
-    register: "neutral"
-    category: "misunderstanding"
-    examples:
-      a:
-        french: "Je crois que tu fais erreur."
-        english: "I think you're mistaken."
-      b:
-        french: "Il a fait erreur sur la personne."
-        english: "He was mistaken about the person."
-      c:
-        french: "Faisant erreur sur les intentions de son interlocuteur, elle commit un impair."
-        english: "Being mistaken about her interlocutor's intentions, she made a blunder."
-
   - idiom: "prendre quelque chose de travers"
     literal: "to take something sideways"
     meaning: "to take something the wrong way"
@@ -8877,25 +8686,6 @@ ait des équations complexes avec aisance."
         english: "Behaving childishly during the meeting, he lost all credibility."
 
   # POLITENESS & MANNERS IDIOMS
-  - idiom: "avoir de bonnes manières"
-    literal: "to have good manners"
-    meaning: "to have good manners"
-    difficulty: 24
-    frequency: 22
-    context: "general"
-    register: "neutral"
-    category: "manners"
-    examples:
-      a:
-        french: "Il a de bonnes manières."
-        english: "He has good manners."
-      b:
-        french: "Cette enfant a de très bonnes manières."
-        english: "This child has very good manners."
-      c:
-        french: "Ayant de bonnes manières, il impressionna favorablement ses futurs beaux-parents."
-        english: "Having good manners, he favorably impressed his future in-laws."
-
   - idiom: "être bien élevé"
     literal: "to be well raised"
     meaning: "to be well-mannered"
@@ -8954,25 +8744,6 @@ ait des équations complexes avec aisance."
         english: "Making a good impression during the interview, he got the job."
 
   # REPUTATION & IMAGE IDIOMS
-  - idiom: "avoir bonne réputation"
-    literal: "to have good reputation"
-    meaning: "to have a good reputation"
-    difficulty: 33
-    frequency: 31
-    context: "general"
-    register: "neutral"
-    category: "reputation"
-    examples:
-      a:
-        french: "Il a bonne réputation."
-        english: "He has a good reputation."
-      b:
-        french: "Cette entreprise a bonne réputation."
-        english: "This company has a good reputation."
-      c:
-        french: "Ayant bonne réputation, il n'eut aucun mal à trouver des clients."
-        english: "Having a good reputation, he had no trouble finding clients."
-
   - idiom: "ternir sa réputation"
     literal: "to tarnish one's reputation"
     meaning: "to tarnish one's reputation"
@@ -9472,26 +9243,6 @@ ait des équations complexes avec aisance."
         french: "Ne lâchant pas le morceau malgré les obstacles, il finit par réussir."
         english: "Not giving up despite obstacles, he finally succeeded."
 
-  - idiom: "aller jusqu'au bout"
-    literal: "to go until the end"
-    meaning: "to see it through"
-    difficulty: 35
-    frequency: 33
-    context: "general"
-    register: "neutral"
-    category: "persistence"
-    examples:
-      a:
-        french: "Il faut aller jusqu'au bout."
-        english: "We must see it through."
-      b:
-        french: "Elle ira jusqu'au bout."
-        english: "She'll see it through."
-      c:
-        french: "Allant jusqu'au bout de son projet, il prouva sa détermination."
-        english: "Seeing his project through, he proved his determination."
-
-  # INTERRUPTION & STOPPING IDIOMS
   - idiom: "couper court à"
     literal: "to cut short to"
     meaning: "to cut short"
@@ -10835,25 +10586,6 @@ ait des équations complexes avec aisance."
       c:
         french: "Se quittant en bons termes malgré le divorce, ils restèrent amis."
         english: "Parting on good terms despite the divorce, they remained friends."
-
-  - idiom: "se retrouver"
-    literal: "to find oneself again"
-    meaning: "to meet up again, reunite"
-    difficulty: 24
-    frequency: 22
-    context: "general"
-    register: "neutral"
-    category: "reunion"
-    examples:
-      a:
-        french: "On se retrouve demain?"
-        english: "Shall we meet up tomorrow?"
-      b:
-        french: "Ils se sont retrouvés après dix ans."
-        english: "They reunited after ten years."
-      c:
-        french: "Se retrouvant après une longue séparation, ils s'embrassèrent."
-        english: "Reuniting after a long separation, they hugged."
 
   - idiom: "renouer avec"
     literal: "to retie with"
@@ -12297,25 +12029,6 @@ ait des équations complexes avec aisance."
         english: "Biting the hand that fed him, he lost all support."
 
   # ACCEPTANCE & REJECTION MORE IDIOMS
-  - idiom: "accepter de bon cœur"
-    literal: "to accept with good heart"
-    meaning: "to accept willingly"
-    difficulty: 37
-    frequency: 39
-    context: "general"
-    register: "neutral"
-    category: "acceptance"
-    examples:
-      a:
-        french: "J'accepte de bon cœur."
-        english: "I accept willingly."
-      b:
-        french: "Il a accepté de bon cœur."
-        english: "He accepted willingly."
-      c:
-        french: "Acceptant de bon cœur la mission difficile, elle impressionna ses supérieurs."
-        english: "Accepting the difficult mission willingly, she impressed her superiors."
-
   - idiom: "faire contre mauvaise fortune bon cœur"
     literal: "to make against bad fortune good heart"
     meaning: "to make the best of a bad situation"
@@ -12894,25 +12607,6 @@ ait des équations complexes avec aisance."
         french: "Visant haut dès le début, elle devint PDG à quarante ans."
         english: "Aiming high from the start, she became CEO at forty."
 
-  - idiom: "avoir de grandes ambitions"
-    literal: "to have great ambitions"
-    meaning: "to be ambitious"
-    difficulty: 28
-    frequency: 26
-    context: "general"
-    register: "neutral"
-    category: "ambition"
-    examples:
-      a:
-        french: "Il a de grandes ambitions."
-        english: "He's ambitious."
-      b:
-        french: "Elle a toujours eu de grandes ambitions."
-        english: "She's always been ambitious."
-      c:
-        french: "Ayant de grandes ambitions, il n'hésita pas à prendre des risques."
-        english: "Being ambitious, he didn't hesitate to take risks."
-
   - idiom: "ne pas se vanter"
     literal: "not to boast"
     meaning: "not to brag"
@@ -13431,25 +13125,6 @@ ait des équations complexes avec aisance."
         french: "Voyant le bon côté des choses, il garda son moral."
         english: "Looking on the bright side, he kept his morale up."
 
-  - idiom: "garder espoir"
-    literal: "to keep hope"
-    meaning: "to keep hoping"
-    difficulty: 28
-    frequency: 26
-    context: "general"
-    register: "neutral"
-    category: "optimism"
-    examples:
-      a:
-        french: "Il faut garder espoir."
-        english: "We must keep hoping."
-      b:
-        french: "Elle garde espoir."
-        english: "She keeps hoping."
-      c:
-        french: "Gardant espoir malgré tout, ils continuèrent."
-        english: "Keeping hope despite everything, they continued."
-
   - idiom: "voir tout en noir"
     literal: "to see everything in black"
     meaning: "to see everything negatively"
@@ -13508,26 +13183,6 @@ ait des équations complexes avec aisance."
         french: "Faisant le premier pas vers la réconciliation, elle tendit la main."
         english: "Making the first move toward reconciliation, she reached out."
 
-  - idiom: "attendre que ça passe"
-    literal: "to wait for it to pass"
-    meaning: "to wait it out"
-    difficulty: 39
-    frequency: 41
-    context: "general"
-    register: "informal"
-    category: "passivity"
-    examples:
-      a:
-        french: "Il attend que ça passe."
-        english: "He's waiting it out."
-      b:
-        french: "Elle attend que ça passe sans agir."
-        english: "She's waiting it out without acting."
-      c:
-        french: "Attendant que ça passe, ils ne résolurent rien."
-        english: "Waiting it out, they solved nothing."
-
-  # DIRECTNESS & INDIRECTNESS IDIOMS
   - idiom: "aller droit au but"
     literal: "to go straight to the goal"
     meaning: "to get straight to the point"
@@ -13874,25 +13529,6 @@ ait des équations complexes avec aisance."
         english: "Being dumbfounded by the spectacle, he said nothing."
 
   # MEMORY & FORGETFULNESS MORE IDIOMS
-  - idiom: "avoir bonne mémoire"
-    literal: "to have good memory"
-    meaning: "to have a good memory"
-    difficulty: 31
-    frequency: 29
-    context: "general"
-    register: "neutral"
-    category: "memory"
-    examples:
-      a:
-        french: "Il a bonne mémoire."
-        english: "He has a good memory."
-      b:
-        french: "Elle a toujours eu bonne mémoire."
-        english: "She's always had a good memory."
-      c:
-        french: "Ayant bonne mémoire, elle se souvenait de tout."
-        english: "Having a good memory, she remembered everything."
-
   - idiom: "se rappeler de"
     literal: "to recall oneself of"
     meaning: "to remember"
@@ -14259,25 +13895,6 @@ ait des équations complexes avec aisance."
         french: "Ne prenant aucun risque, il rata des opportunités."
         english: "Taking no risks, he missed opportunities."
 
-  - idiom: "agir sans réfléchir"
-    literal: "to act without reflecting"
-    meaning: "to act without thinking"
-    difficulty: 36
-    frequency: 38
-    context: "general"
-    register: "neutral"
-    category: "recklessness"
-    examples:
-      a:
-        french: "Il agit sans réfléchir."
-        english: "He acts without thinking."
-      b:
-        french: "Elle agit toujours sans réfléchir."
-        english: "She always acts without thinking."
-      c:
-        french: "Agissant sans réfléchir, il commit une erreur grave."
-        english: "Acting without thinking, he made a serious mistake."
-
   - idiom: "jouer avec le feu"
     literal: "to play with fire"
     meaning: "to play with fire"
@@ -14545,44 +14162,6 @@ ait des équations complexes avec aisance."
       c:
         french: "Faisant preuve de modération, il évita les excès."
         english: "Showing moderation, he avoided excesses."
-
-  - idiom: "avec modération"
-    literal: "with moderation"
-    meaning: "in moderation"
-    difficulty: 32
-    frequency: 30
-    context: "general"
-    register: "neutral"
-    category: "moderation"
-    examples:
-      a:
-        french: "À consommer avec modération."
-        english: "To be consumed in moderation."
-      b:
-        french: "Il boit avec modération."
-        english: "He drinks in moderation."
-      c:
-        french: "Vivant avec modération, elle jouissait d'une excellente santé."
-        english: "Living in moderation, she enjoyed excellent health."
-
-  - idiom: "aller trop loin"
-    literal: "to go too far"
-    meaning: "to go too far"
-    difficulty: 27
-    frequency: 25
-    context: "general"
-    register: "neutral"
-    category: "excess"
-    examples:
-      a:
-        french: "Tu vas trop loin."
-        english: "You're going too far."
-      b:
-        french: "Il est allé trop loin."
-        english: "He went too far."
-      c:
-        french: "Allant trop loin dans ses critiques, il blessa profondément."
-        english: "Going too far in his criticism, he deeply hurt."
 
   - idiom: "en faire trop"
     literal: "to do too much of it"
@@ -15178,26 +14757,6 @@ ait des équations complexes avec aisance."
         french: "Manquant d'assurance, il hésita à prendre la parole."
         english: "Lacking confidence, he hesitated to speak up."
 
-  - idiom: "être timide"
-    literal: "to be timid"
-    meaning: "to be shy"
-    difficulty: 23
-    frequency: 21
-    context: "general"
-    register: "neutral"
-    category: "timidity"
-    examples:
-      a:
-        french: "Il est très timide."
-        english: "He's very shy."
-      b:
-        french: "Elle est timide avec les inconnus."
-        english: "She's shy with strangers."
-      c:
-        french: "Étant timide, il parlait peu en public."
-        english: "Being shy, he spoke little in public."
-
-  # EXTROVERSION & INTROVERSION IDIOMS
   - idiom: "être extraverti"
     literal: "to be extroverted"
     meaning: "to be outgoing"
@@ -15216,25 +14775,6 @@ ait des équations complexes avec aisance."
       c:
         french: "Étant extraverti, il se faisait facilement des amis."
         english: "Being outgoing, he made friends easily."
-
-  - idiom: "aller vers les autres"
-    literal: "to go toward others"
-    meaning: "to reach out to others"
-    difficulty: 30
-    frequency: 32
-    context: "general"
-    register: "neutral"
-    category: "extroversion"
-    examples:
-      a:
-        french: "Il faut aller vers les autres."
-        english: "You must reach out to others."
-      b:
-        french: "Elle va facilement vers les autres."
-        english: "She easily reaches out to others."
-      c:
-        french: "Allant vers les autres, il élargit son réseau."
-        english: "Reaching out to others, he expanded his network."
 
   - idiom: "être introverti"
     literal: "to be introverted"
@@ -15659,25 +15199,6 @@ ait des équations complexes avec aisance."
         english: "Losing his bearings during the exam, he forgot everything."
 
   # STRESS & RELAXATION MORE IDIOMS
-  - idiom: "être stressé"
-    literal: "to be stressed"
-    meaning: "to be stressed"
-    difficulty: 21
-    frequency: 19
-    context: "general"
-    register: "neutral"
-    category: "stress"
-    examples:
-      a:
-        french: "Je suis très stressé."
-        english: "I'm very stressed."
-      b:
-        french: "Elle est stressée."
-        english: "She's stressed."
-      c:
-        french: "Étant stressé, il dormait mal."
-        english: "Being stressed, he slept poorly."
-
   - idiom: "craquer sous la pression"
     literal: "to crack under pressure"
     meaning: "to crack under pressure"
@@ -15774,25 +15295,6 @@ ait des équations complexes avec aisance."
         french: "Étant plein d'entrain, il motivait son équipe."
         english: "Being full of energy, he motivated his team."
 
-  - idiom: "être épuisé"
-    literal: "to be exhausted"
-    meaning: "to be exhausted"
-    difficulty: 27
-    frequency: 25
-    context: "general"
-    register: "neutral"
-    category: "fatigue"
-    examples:
-      a:
-        french: "Je suis épuisé."
-        english: "I'm exhausted."
-      b:
-        french: "Elle est complètement épuisée."
-        english: "She's completely exhausted."
-      c:
-        french: "Étant épuisé, il s'endormit immédiatement."
-        english: "Being exhausted, he fell asleep immediately."
-
   - idiom: "n'en pouvoir plus"
     literal: "not to be able more of it"
     meaning: "can't take it anymore"
@@ -15851,25 +15353,6 @@ ait des équations complexes avec aisance."
         french: "Étant en forme, elle courait tous les jours."
         english: "Being in shape, she ran every day."
 
-  - idiom: "être faible"
-    literal: "to be weak"
-    meaning: "to be weak"
-    difficulty: 22
-    frequency: 20
-    context: "general"
-    register: "neutral"
-    category: "weakness"
-    examples:
-      a:
-        french: "Il est faible."
-        english: "He's weak."
-      b:
-        french: "Elle se sent faible."
-        english: "She feels weak."
-      c:
-        french: "Étant faible, il avait du mal à porter les charges."
-        english: "Being weak, he had trouble carrying loads."
-
   - idiom: "manquer de force"
     literal: "to lack strength"
     meaning: "to lack strength"
@@ -15890,25 +15373,6 @@ ait des équations complexes avec aisance."
         english: "Lacking strength, he couldn't lift the box."
 
   # ENDURANCE & FRAGILITY IDIOMS
-  - idiom: "avoir de l'endurance"
-    literal: "to have endurance"
-    meaning: "to have stamina"
-    difficulty: 35
-    frequency: 37
-    context: "general"
-    register: "neutral"
-    category: "endurance"
-    examples:
-      a:
-        french: "Il a beaucoup d'endurance."
-        english: "He has a lot of stamina."
-      b:
-        french: "Elle a de l'endurance."
-        english: "She has stamina."
-      c:
-        french: "Ayant de l'endurance, il termina le marathon."
-        english: "Having stamina, he finished the marathon."
-
   - idiom: "tenir la distance"
     literal: "to hold the distance"
     meaning: "to go the distance"
@@ -16274,25 +15738,6 @@ ait des équations complexes avec aisance."
         french: "Étant en plein essor, la région attira des investissements."
         english: "Being booming, the region attracted investments."
 
-  - idiom: "accélérer le rythme"
-    literal: "to accelerate the rhythm"
-    meaning: "to pick up the pace"
-    difficulty: 41
-    frequency: 43
-    context: "general"
-    register: "neutral"
-    category: "acceleration"
-    examples:
-      a:
-        french: "Il faut accélérer le rythme."
-        english: "We must pick up the pace."
-      b:
-        french: "Ils accélèrent le rythme."
-        english: "They're picking up the pace."
-      c:
-        french: "Accélérant le rythme, l'équipe termina à temps."
-        english: "Picking up the pace, the team finished on time."
-
   - idiom: "prendre de la vitesse"
     literal: "to take speed"
     meaning: "to gain speed"
@@ -16351,25 +15796,6 @@ ait des équations complexes avec aisance."
         english: "Curbing spending, the government stabilized the budget."
 
   # PEAK & TROUGH IDIOMS
-  - idiom: "atteindre son apogée"
-    literal: "to reach one's apogee"
-    meaning: "to reach one's peak"
-    difficulty: 56
-    frequency: 58
-    context: "general"
-    register: "formal"
-    category: "peak"
-    examples:
-      a:
-        french: "Il a atteint son apogée."
-        english: "He reached his peak."
-      b:
-        french: "L'empire a atteint son apogée."
-        english: "The empire reached its peak."
-      c:
-        french: "Atteignant son apogée au XIXe siècle, la civilisation rayonna."
-        english: "Reaching its peak in the 19th century, the civilization shone."
-
   - idiom: "être au sommet"
     literal: "to be at the summit"
     meaning: "to be at the top"
