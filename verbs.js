@@ -53,10 +53,21 @@ for (let i = 0; i < lines.length; i++) {
 }
 if (currentVerb) verbs.push(currentVerb);
 
+// Normalize function to remove diacritics for matching
+function normalize(str) {
+  return str.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+}
+
 // Filter verbs if specific ones were requested
 let filteredVerbs = verbs;
 if (requestedVerbs.length > 0) {
-  filteredVerbs = verbs.filter(v => requestedVerbs.includes(v.verb.toLowerCase()));
+  const normalizedRequested = requestedVerbs.map(v => normalize(v));
+  filteredVerbs = verbs.filter(v => {
+    const normalizedVerb = normalize(v.verb);
+    // Match if normalized version matches, or if exact lowercase matches
+    return normalizedRequested.includes(normalizedVerb) ||
+           requestedVerbs.includes(v.verb.toLowerCase());
+  });
 }
 
 // Generate compact notation
