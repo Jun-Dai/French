@@ -1,279 +1,280 @@
 - verb: "parler"
   forms:
     intransitive:
-      french: "Il parle trop."
-      english: "He talks too much."
+      french: "Bien qu'il ne parle jamais en public, il est très éloquent en privé."
+      english: "Although he never speaks in public, he's very eloquent in private."
     transitive:
-      french: "Elle parle français couramment."
-      english: "She speaks French fluently."
+      french: "Si j'avais parlé français plus tôt, j'aurais pu mieux communiquer."
+      english: "If I had spoken French earlier, I could have communicated better."
     à_quelqu'un:
-      french: "Je parle à mon professeur."
-      english: "I'm talking to my teacher."
+      french: "Je n'ai pas encore parlé à mon directeur de cette proposition."
+      english: "I haven't yet spoken to my manager about this proposal."
     de_quelque_chose:
-      french: "Nous parlons de politique."
-      english: "We're talking about politics."
+      french: "Nous parlerons de politique une fois que tout le monde sera arrivé."
+      english: "We'll talk about politics once everyone has arrived."
     de_quelqu'un:
-      french: "Ils parlent de leur voisin."
-      english: "They're talking about their neighbor."
+      french: "Il ne faudrait pas qu'ils parlent de lui en son absence."
+      english: "They shouldn't talk about him in his absence."
 
 - verb: "penser"
   note: "penser à = think about (occupy one's thoughts); penser de = have an opinion about"
   forms:
     intransitive:
-      french: "Je pense, donc je suis."
-      english: "I think, therefore I am."
+      french: "Je pensais qu'il serait déjà parti avant minuit."
+      english: "I thought he would have already left before midnight."
     à_quelqu'un:
-      french: "Je pense à toi."
-      english: "I'm thinking of you."
+      french: "Elle n'avait pas pensé à vous en organisant l'événement."
+      english: "She hadn't thought of you when organizing the event."
     à_quelque_chose:
-      french: "Il pense à son avenir."
-      english: "He's thinking about his future."
+      french: "Aurais-tu pensé à réserver les billets si je ne te l'avais pas rappelé?"
+      english: "Would you have thought to book the tickets if I hadn't reminded you?"
     à_verb:
-      french: "N'oublie pas de penser à réserver."
-      english: "Don't forget to think about booking."
+      french: "Il faut que tu penses à vérifier tes e-mails avant de partir."
+      english: "You need to remember to check your emails before leaving."
     de_quelqu'un:
-      french: "Que penses-tu de lui?"
-      english: "What do you think of him?"
+      french: "Que penseraient-ils de lui s'ils connaissaient la vérité?"
+      english: "What would they think of him if they knew the truth?"
     de_quelque_chose:
-      french: "Que pensez-vous de cette idée?"
-      english: "What do you think of this idea?"
+      french: "Je ne pensais pas que vous pensiez de cette manière."
+      english: "I didn't think you thought that way."
 
 - verb: "commencer"
   note: "commencer à + infinitive (to start doing); commencer par + noun/infinitive (to begin with)"
   forms:
     intransitive:
-      french: "Le film commence à huit heures."
-      english: "The movie starts at eight."
+      french: "Le concert aurait commencé à l'heure si le chanteur n'était pas tombé malade."
+      english: "The concert would have started on time if the singer hadn't fallen ill."
     transitive:
-      french: "Il a commencé un nouveau projet."
-      english: "He started a new project."
+      french: "Nous n'aurions jamais commencé ce projet sans votre soutien."
+      english: "We would never have started this project without your support."
     à_verb:
-      french: "Elle commence à comprendre."
-      english: "She's starting to understand."
+      french: "Elle commençait à comprendre pourquoi il avait agi ainsi."
+      english: "She was starting to understand why he had acted that way."
     par_quelque_chose:
-      french: "Commencez par le début."
-      english: "Start with the beginning."
+      french: "Il faudrait que vous commenciez par une introduction plus captivante."
+      english: "You should start with a more captivating introduction."
     par_verb:
-      french: "Je commence par lire les instructions."
-      english: "I start by reading the instructions."
+      french: "Avez-vous commencé par lire les instructions avant d'assembler le meuble?"
+      english: "Did you start by reading the instructions before assembling the furniture?"
 
 - verb: "finir"
   note: "finir de + infinitive (to finish doing); finir par + infinitive (to end up doing)"
   forms:
     intransitive:
-      french: "La classe finit à midi."
-      english: "Class ends at noon."
+      french: "Bien que la réunion finisse tard, tout le monde devra rester."
+      english: "Although the meeting finishes late, everyone will have to stay."
     transitive:
-      french: "J'ai fini mes devoirs."
-      english: "I finished my homework."
+      french: "Si seulement j'avais fini mes devoirs avant que mes amis n'arrivent."
+      english: "If only I had finished my homework before my friends arrived."
     de_verb:
-      french: "Il a fini de manger."
-      english: "He finished eating."
+      french: "Auras-tu fini de préparer le dîner avant qu'ils n'arrivent?"
+      english: "Will you have finished preparing dinner before they arrive?"
     par_quelque_chose:
-      french: "Tout finit par un mariage."
-      english: "Everything ends with a wedding."
+      french: "Tout ne finit pas toujours par un happy end comme dans les films."
+      english: "Everything doesn't always end with a happy ending like in movies."
     par_verb:
-      french: "Elle a fini par accepter."
-      english: "She ended up accepting."
+      french: "Je savais qu'elle finirait par accepter si on insistait assez."
+      english: "I knew she would end up accepting if we insisted enough."
 
 - verb: "demander"
   forms:
     transitive:
-      french: "Je demande l'addition."
-      english: "I'm asking for the bill."
+      french: "Il faudrait que nous demandions l'autorisation avant de procéder."
+      english: "We should ask for permission before proceeding."
     à_quelqu'un:
-      french: "Il demande à son père."
-      english: "He's asking his father."
+      french: "Ne lui demande rien tant qu'elle n'aura pas terminé sa présentation."
+      english: "Don't ask her anything until she has finished her presentation."
     de_verb:
-      french: "Je te demande de m'aider."
-      english: "I'm asking you to help me."
+      french: "Je t'aurais demandé de m'aider si j'avais su que tu étais disponible."
+      english: "I would have asked you to help me if I had known you were available."
     à_quelqu'un_de_verb:
-      french: "Elle demande à Jean de partir."
-      english: "She's asking Jean to leave."
+      french: "Elle lui avait demandé de ne pas mentionner cette affaire."
+      english: "She had asked him not to mention this matter."
 
 - verb: "aider"
   forms:
     transitive:
-      french: "J'aide ma mère."
-      english: "I'm helping my mother."
+      french: "Même si je l'avais aidée, elle n'aurait pas réussi."
+      english: "Even if I had helped her, she wouldn't have succeeded."
     à_quelqu'un:
-      french: "Peux-tu aider à ton frère?"
-      english: "Can you help your brother?"
+      french: "Pourriez-vous aider à votre collègue pendant que je suis en réunion?"
+      english: "Could you help your colleague while I'm in a meeting?"
     quelqu'un_à_verb:
-      french: "Je l'aide à faire ses devoirs."
-      english: "I'm helping him do his homework."
+      french: "Il faut que tu l'aides à comprendre les nuances du subjonctif."
+      english: "You need to help him understand the nuances of the subjunctive."
     à_verb:
-      french: "Cela aide à comprendre."
-      english: "This helps to understand."
+      french: "Cela n'aurait pas aidé à résoudre le problème de toute façon."
+      english: "It wouldn't have helped solve the problem anyway."
 
 - verb: "réussir"
   note: "réussir à + infinitive = to manage to, succeed in doing"
   forms:
     intransitive:
-      french: "Il réussit toujours."
-      english: "He always succeeds."
+      french: "Quoi qu'il arrive, je suis certain qu'elle réussira."
+      english: "Whatever happens, I'm certain she'll succeed."
     transitive:
-      french: "J'ai réussi mon examen."
-      english: "I passed my exam."
+      french: "Auriez-vous réussi votre examen si vous aviez mieux étudié?"
+      english: "Would you have passed your exam if you had studied better?"
     à_quelque_chose:
-      french: "Elle a réussi à l'examen."
-      english: "She succeeded in the exam."
+      french: "Bien qu'il n'ait pas réussi à l'examen, il ne baissera pas les bras."
+      english: "Although he didn't pass the exam, he won't give up."
     à_verb:
-      french: "Il a réussi à s'échapper."
-      english: "He managed to escape."
+      french: "Je doute qu'il réussisse à convaincre le comité sans preuves solides."
+      english: "I doubt he'll manage to convince the committee without solid evidence."
 
 - verb: "essayer"
   forms:
     transitive:
-      french: "J'essaie cette robe."
-      english: "I'm trying on this dress."
+      french: "N'essaie pas cette nouvelle méthode tant que tu n'auras pas consulté un expert."
+      english: "Don't try this new method until you've consulted an expert."
     de_verb:
-      french: "J'essaie de dormir."
-      english: "I'm trying to sleep."
+      french: "J'essayais de dormir quand tu as appelé à trois heures du matin."
+      english: "I was trying to sleep when you called at three in the morning."
     de_quelque_chose:
-      french: "Tu devrais essayer de cette approche."
-      english: "You should try this approach."
+      french: "Il faudrait que vous essayiez de cette approche avant de tout abandonner."
+      english: "You should try this approach before giving up everything."
 
 - verb: "décider"
   forms:
     intransitive:
-      french: "C'est à toi de décider."
-      english: "It's up to you to decide."
+      french: "Même si c'était difficile, il fallait bien que quelqu'un décide."
+      english: "Even if it was difficult, someone had to decide."
     transitive:
-      french: "Ils ont décidé la date."
-      english: "They decided on the date."
+      french: "Nous aurions décidé la date plus tôt si le directeur avait été disponible."
+      english: "We would have decided on the date earlier if the director had been available."
     de_verb:
-      french: "J'ai décidé de partir."
-      english: "I decided to leave."
+      french: "Elle avait décidé de partir avant que la situation ne devienne incontrôlable."
+      english: "She had decided to leave before the situation became uncontrollable."
     de_quelque_chose:
-      french: "Nous avons décidé de notre stratégie."
-      english: "We decided on our strategy."
+      french: "Ils n'ont toujours pas décidé de leur stratégie bien que le délai approche."
+      english: "They still haven't decided on their strategy although the deadline is approaching."
 
 - verb: "jouer"
   note: "jouer à = play a sport/game; jouer de = play a musical instrument"
   forms:
     intransitive:
-      french: "Les enfants jouent dehors."
-      english: "The children are playing outside."
+      french: "Les enfants jouaient dehors lorsqu'il s'est mis à pleuvoir."
+      english: "The children were playing outside when it started to rain."
     transitive:
-      french: "Il joue un rôle important."
-      english: "He plays an important role."
+      french: "Il jouera un rôle crucial dans les négociations à venir."
+      english: "He will play a crucial role in the upcoming negotiations."
     à_quelque_chose:
-      french: "Elle joue au tennis."
-      english: "She plays tennis."
+      french: "Si j'avais su jouer au tennis, j'aurais pu participer au tournoi."
+      english: "If I had known how to play tennis, I could have participated in the tournament."
     de_quelque_chose:
-      french: "Il joue du piano."
-      english: "He plays the piano."
+      french: "Bien qu'elle joue du piano depuis des années, elle ne se produit jamais en public."
+      english: "Although she's been playing piano for years, she never performs in public."
     avec_quelqu'un:
-      french: "Je joue avec mes amis."
-      english: "I'm playing with my friends."
+      french: "Je n'aurais jamais joué avec lui si j'avais connu son vrai caractère."
+      english: "I would never have played with him if I had known his true character."
     avec_quelque_chose:
-      french: "Ne joue pas avec le feu."
-      english: "Don't play with fire."
+      french: "Il ne faut surtout pas que tu joues avec le feu dans ce contexte."
+      english: "You absolutely must not play with fire in this context."
+
 - verb: "savoir"
   forms:
     transitive:
-      french: "Je sais la réponse."
-      english: "I know the answer."
+      french: "Je ne savais pas la réponse avant qu'elle ne me l'explique."
+      english: "I didn't know the answer before she explained it to me."
     verb:
-      french: "Elle sait jouer du piano."
-      english: "She knows how to play the piano."
+      french: "Si elle avait su jouer du piano, elle aurait pu accompagner le chœur."
+      english: "If she had known how to play piano, she could have accompanied the choir."
 
 - verb: "pouvoir"
   forms:
     verb:
-      french: "Je peux venir demain."
-      english: "I can come tomorrow."
+      french: "Aurais-tu pu venir plus tôt si je t'avais prévenu?"
+      english: "Could you have come earlier if I had warned you?"
 
 - verb: "vouloir"
   forms:
     transitive:
-      french: "Je veux du café."
-      english: "I want some coffee."
+      french: "Il ne voulait plus de café après en avoir bu trois tasses."
+      english: "He didn't want any more coffee after having drunk three cups."
     verb:
-      french: "Il veut partir maintenant."
-      english: "He wants to leave now."
+      french: "Elle aurait voulu partir avant la fin, mais c'était impossible."
+      english: "She would have wanted to leave before the end, but it was impossible."
     de_quelqu'un:
-      french: "Que veux-tu de moi?"
-      english: "What do you want from me?"
+      french: "Que voudrais-tu de moi que je ne t'aie pas déjà donné?"
+      english: "What would you want from me that I haven't already given you?"
 
 - verb: "devoir"
   forms:
     transitive:
-      french: "Je dois dix euros à Pierre."
-      english: "I owe Pierre ten euros."
+      french: "Il me devait encore vingt euros quand il est parti à l'étranger."
+      english: "He still owed me twenty euros when he left abroad."
     verb:
-      french: "Tu dois travailler plus dur."
-      english: "You must work harder."
+      french: "Tu aurais dû travailler plus dur si tu voulais réussir l'examen."
+      english: "You should have worked harder if you wanted to pass the exam."
 
 - verb: "aller"
   forms:
     intransitive:
-      french: "Comment allez-vous?"
-      english: "How are you?"
+      french: "Comment irais-tu si tu n'avais plus de voiture?"
+      english: "How would you get around if you no longer had a car?"
     verb:
-      french: "Je vais manger."
-      english: "I'm going to eat."
+      french: "J'allais manger quand le téléphone a sonné."
+      english: "I was about to eat when the phone rang."
     à_quelque_chose:
-      french: "Nous allons à Paris."
-      english: "We're going to Paris."
+      french: "Nous serions allés à Paris si les grèves n'avaient pas bloqué les trains."
+      english: "We would have gone to Paris if the strikes hadn't blocked the trains."
 
 - verb: "faire"
   forms:
     transitive:
-      french: "Je fais mes devoirs."
-      english: "I'm doing my homework."
+      french: "Je n'aurais jamais fait mes devoirs si tu ne m'avais pas encouragé."
+      english: "I would never have done my homework if you hadn't encouraged me."
     verb:
-      french: "Je fais cuire les légumes."
-      english: "I'm cooking the vegetables."
+      french: "Elle faisait cuire les légumes lorsque l'alarme incendie s'est déclenchée."
+      english: "She was cooking the vegetables when the fire alarm went off."
     de_quelque_chose:
-      french: "Il fait du sport."
-      english: "He does sports."
+      french: "Bien qu'il fasse du sport régulièrement, il n'a pas perdu de poids."
+      english: "Although he exercises regularly, he hasn't lost weight."
 
 - verb: "laisser"
   forms:
     transitive:
-      french: "Laisse-moi tranquille."
-      english: "Leave me alone."
+      french: "Ne me laisse pas seul dans cette situation difficile."
+      english: "Don't leave me alone in this difficult situation."
     verb:
-      french: "Laisse-moi réfléchir."
-      english: "Let me think."
+      french: "Laisse-moi réfléchir avant que tu ne prennes une décision hâtive."
+      english: "Let me think before you make a hasty decision."
     quelqu'un_verb:
-      french: "Je le laisse partir."
-      english: "I'm letting him leave."
+      french: "Je ne l'aurais jamais laissé partir si j'avais su ce qui allait arriver."
+      english: "I would never have let him leave if I had known what was going to happen."
 
 - verb: "voir"
   forms:
     transitive:
-      french: "Je vois la mer."
-      english: "I see the sea."
+      french: "Je ne voyais plus la mer à cause du brouillard qui s'était levé."
+      english: "I could no longer see the sea because of the fog that had risen."
     verb:
-      french: "Je vais voir comment faire."
-      english: "I'll see how to do it."
+      french: "Il faudra voir comment faire une fois que nous aurons plus d'informations."
+      english: "We'll have to see how to do it once we have more information."
     quelqu'un_verb:
-      french: "Je l'ai vu partir."
-      english: "I saw him leave."
+      french: "Je l'avais vu partir furieux sans dire au revoir à personne."
+      english: "I had seen him leave furiously without saying goodbye to anyone."
 
 - verb: "entendre"
   forms:
     transitive:
-      french: "J'entends de la musique."
-      english: "I hear music."
+      french: "N'entendais-tu pas la musique pendant que tu travaillais?"
+      english: "Couldn't you hear the music while you were working?"
     quelqu'un_verb:
-      french: "J'ai entendu quelqu'un crier."
-      english: "I heard someone shout."
+      french: "J'ai entendu quelqu'un crier au secours mais je n'ai rien pu faire."
+      english: "I heard someone shouting for help but I couldn't do anything."
     parler_de_quelque_chose:
-      french: "J'ai entendu parler de cette histoire."
-      english: "I've heard about this story."
+      french: "Avant de juger, il faudrait que tu entendes parler de toute l'histoire."
+      english: "Before judging, you should hear about the whole story."
 
 - verb: "sentir"
   forms:
     transitive:
-      french: "Je sens une odeur bizarre."
-      english: "I smell a weird smell."
+      french: "Je sentais une odeur étrange qui provenait de la cuisine."
+      english: "I smelled a strange odor coming from the kitchen."
     verb:
-      french: "Je me sens améliorer."
-      english: "I feel myself improving."
+      french: "Il faut que tu te sentes mieux avant de reprendre le travail."
+      english: "You need to feel better before going back to work."
     quelqu'un_verb:
-      french: "Je le sens hésiter."
-      english: "I sense him hesitating."
+      french: "Je le sentais hésiter bien qu'il n'ait rien dit explicitement."
+      english: "I could sense him hesitating although he hadn't said anything explicitly."
