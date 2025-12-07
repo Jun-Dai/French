@@ -2,24 +2,49 @@
 
 const fs = require('fs');
 
-// Read and parse verbs.yml
+// Parse command line arguments
+const args = process.argv.slice(2);
+const showComplete = args.includes('--complet') || args.includes('-c');
+
+// Read and parse verbs.yml with full details
 const content = fs.readFileSync('verbs.yml', 'utf8');
 const lines = content.split('\n');
 
 const verbs = [];
 let currentVerb = null;
+let currentForm = null;
+let indentLevel = 0;
 
-for (const line of lines) {
+for (let i = 0; i < lines.length; i++) {
+  const line = lines[i];
+
   const verbMatch = line.match(/^- verb:\s*"([^"]+)"/);
   if (verbMatch) {
     if (currentVerb) verbs.push(currentVerb);
     currentVerb = { verb: verbMatch[1], forms: {} };
+    currentForm = null;
     continue;
   }
 
-  const formMatch = line.match(/^\s{4}([^:]+):/);
-  if (formMatch && currentVerb) {
-    currentVerb.forms[formMatch[1].trim()] = true;
+  // Match form names (exactly 4 spaces, then non-whitespace)
+  const formMatch = line.match(/^    ([a-zA-Z_àé']+):/);
+  if (formMatch && currentVerb && !line.match(/^    (french|english):/)) {
+    const formName = formMatch[1].trim();
+    currentForm = formName;
+    currentVerb.forms[formName] = {};
+    continue;
+  }
+
+  const frenchMatch = line.match(/^      french:\s*"([^"]+)"/);
+  if (frenchMatch && currentVerb && currentForm) {
+    currentVerb.forms[currentForm].french = frenchMatch[1];
+    continue;
+  }
+
+  const englishMatch = line.match(/^      english:\s*"([^"]+)"/);
+  if (englishMatch && currentVerb && currentForm) {
+    currentVerb.forms[currentForm].english = englishMatch[1];
+    continue;
   }
 }
 if (currentVerb) verbs.push(currentVerb);
@@ -62,22 +87,44 @@ function generateNotation(forms) {
   return notation;
 }
 
-// Print verbs with notation
-const maxLen = Math.max(...verbs.map(v => v.verb.length));
-
-// Print header
-const headerPadding = ' '.repeat(maxLen - 5); // 5 is length of "verbe"
-console.log(`verbe${headerPadding}  dir à   de  autres`);
-console.log('-'.repeat(maxLen + 2 + 20)); // separator line
-
-for (const v of verbs) {
-  const notation = generateNotation(v.forms);
-  const padding = ' '.repeat(maxLen - v.verb.length);
-  console.log(`${v.verb}${padding}  ${notation}`);
+// Format form name for display
+function formatFormName(formName) {
+  return formName.replace(/_/g, ' ');
 }
 
-console.log(`\nLegend:`);
-console.log(`  First group:  [i]ntransitive [o]bject [v]erb`);
-console.log(`  Second group: à + [p]erson [o]bject [v]erb`);
-console.log(`  Third group:  de + [p]erson [o]bject [v]erb`);
-console.log(`  Then: other prepositions (par, avec, qn+v=perception verb, à+de=complex form)`);
+if (showComplete) {
+  // Complete mode: show all examples
+  for (const v of verbs) {
+    console.log(`\n${v.verb.toUpperCase()}`);
+    console.log('='.repeat(v.verb.length));
+
+    for (const [formName, formData] of Object.entries(v.forms)) {
+      if (formData.french) {
+        console.log(`\n  ${formatFormName(formName)}:`);
+        console.log(`    ${formData.french}`);
+        console.log(`    ${formData.english}`);
+      }
+    }
+  }
+} else {
+  // Compact mode: show notation table
+  const maxLen = Math.max(...verbs.map(v => v.verb.length));
+
+  // Print header
+  const headerPadding = ' '.repeat(maxLen - 5); // 5 is length of "verbe"
+  console.log(`verbe${headerPadding}  dir à   de  autres`);
+  console.log('-'.repeat(maxLen + 2 + 20)); // separator line
+
+  for (const v of verbs) {
+    const notation = generateNotation(v.forms);
+    const padding = ' '.repeat(maxLen - v.verb.length);
+    console.log(`${v.verb}${padding}  ${notation}`);
+  }
+
+  console.log(`\nLegend:`);
+  console.log(`  First group:  [i]ntransitive [o]bject [v]erb`);
+  console.log(`  Second group: à + [p]erson [o]bject [v]erb`);
+  console.log(`  Third group:  de + [p]erson [o]bject [v]erb`);
+  console.log(`  Then: other prepositions (par, avec, qn+v=perception verb, à+de=complex form)`);
+  console.log(`\nUse --complet or -c to see all example sentences`);
+}
