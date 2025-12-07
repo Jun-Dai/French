@@ -165,3 +165,110 @@
     avec_quelque_chose:
       french: "Ne joue pas avec le feu."
       english: "Don't play with fire."
+- verb: "savoir"
+  forms:
+    transitive:
+      french: "Je sais la réponse."
+      english: "I know the answer."
+    verb:
+      french: "Elle sait jouer du piano."
+      english: "She knows how to play the piano."
+
+- verb: "pouvoir"
+  forms:
+    verb:
+      french: "Je peux venir demain."
+      english: "I can come tomorrow."
+
+- verb: "vouloir"
+  forms:
+    transitive:
+      french: "Je veux du café."
+      english: "I want some coffee."
+    verb:
+      french: "Il veut partir maintenant."
+      english: "He wants to leave now."
+    de_quelqu'un:
+      french: "Que veux-tu de moi?"
+      english: "What do you want from me?"
+
+- verb: "devoir"
+  forms:
+    transitive:
+      french: "Je dois dix euros à Pierre."
+      english: "I owe Pierre ten euros."
+    verb:
+      french: "Tu dois travailler plus dur."
+      english: "You must work harder."
+
+- verb: "aller"
+  forms:
+    intransitive:
+      french: "Comment allez-vous?"
+      english: "How are you?"
+    verb:
+      french: "Je vais manger."
+      english: "I'm going to eat."
+    à_quelque_chose:
+      french: "Nous allons à Paris."
+      english: "We're going to Paris."
+
+- verb: "faire"
+  forms:
+    transitive:
+      french: "Je fais mes devoirs."
+      english: "I'm doing my homework."
+    verb:
+      french: "Je fais cuire les légumes."
+      english: "I'm cooking the vegetables."
+    de_quelque_chose:
+      french: "Il fait du sport."
+      english: "He does sports."
+
+- verb: "laisser"
+  forms:
+    transitive:
+      french: "Laisse-moi tranquille."
+      english: "Leave me alone."
+    verb:
+      french: "Laisse-moi réfléchir."
+      english: "Let me think."
+    quelqu'un_verb:
+      french: "Je le laisse partir."
+      english: "I'm letting him leave."
+
+- verb: "voir"
+  forms:
+    transitive:
+      french: "Je vois la mer."
+      english: "I see the sea."
+    verb:
+      french: "Je vais voir comment faire."
+      english: "I'll see how to do it."
+    quelqu'un_verb:
+      french: "Je l'ai vu partir."
+      english: "I saw him leave."
+
+- verb: "entendre"
+  forms:
+    transitive:
+      french: "J'entends de la musique."
+      english: "I hear music."
+    quelqu'un_verb:
+      french: "J'ai entendu quelqu'un crier."
+      english: "I heard someone shout."
+    parler_de_quelque_chose:
+      french: "J'ai entendu parler de cette histoire."
+      english: "I've heard about this story."
+
+- verb: "sentir"
+  forms:
+    transitive:
+      french: "Je sens une odeur bizarre."
+      english: "I smell a weird smell."
+    verb:
+      french: "Je me sens améliorer."
+      english: "I feel myself improving."
+    quelqu'un_verb:
+      french: "Je le sens hésiter."
+      english: "I sense him hesitating."
