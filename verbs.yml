@@ -1,0 +1,167 @@
+- verb: "parler"
+  forms:
+    intransitive:
+      french: "Il parle trop."
+      english: "He talks too much."
+    transitive:
+      french: "Elle parle français couramment."
+      english: "She speaks French fluently."
+    à_quelqu'un:
+      french: "Je parle à mon professeur."
+      english: "I'm talking to my teacher."
+    de_quelque_chose:
+      french: "Nous parlons de politique."
+      english: "We're talking about politics."
+    de_quelqu'un:
+      french: "Ils parlent de leur voisin."
+      english: "They're talking about their neighbor."
+
+- verb: "penser"
+  forms:
+    intransitive:
+      french: "Je pense, donc je suis."
+      english: "I think, therefore I am."
+    à_quelqu'un:
+      french: "Je pense à toi."
+      english: "I'm thinking of you."
+    à_quelque_chose:
+      french: "Il pense à son avenir."
+      english: "He's thinking about his future."
+    à_verb:
+      french: "N'oublie pas de penser à réserver."
+      english: "Don't forget to think about booking."
+    de_quelqu'un:
+      french: "Que penses-tu de lui?"
+      english: "What do you think of him?"
+    de_quelque_chose:
+      french: "Que pensez-vous de cette idée?"
+      english: "What do you think of this idea?"
+
+- verb: "commencer"
+  forms:
+    intransitive:
+      french: "Le film commence à huit heures."
+      english: "The movie starts at eight."
+    transitive:
+      french: "Il a commencé un nouveau projet."
+      english: "He started a new project."
+    à_verb:
+      french: "Elle commence à comprendre."
+      english: "She's starting to understand."
+    par_quelque_chose:
+      french: "Commencez par le début."
+      english: "Start with the beginning."
+    par_verb:
+      french: "Je commence par lire les instructions."
+      english: "I start by reading the instructions."
+
+- verb: "finir"
+  forms:
+    intransitive:
+      french: "La classe finit à midi."
+      english: "Class ends at noon."
+    transitive:
+      french: "J'ai fini mes devoirs."
+      english: "I finished my homework."
+    de_verb:
+      french: "Il a fini de manger."
+      english: "He finished eating."
+    par_quelque_chose:
+      french: "Tout finit par un mariage."
+      english: "Everything ends with a wedding."
+    par_verb:
+      french: "Elle a fini par accepter."
+      english: "She ended up accepting."
+
+- verb: "demander"
+  forms:
+    transitive:
+      french: "Je demande l'addition."
+      english: "I'm asking for the bill."
+    à_quelqu'un:
+      french: "Il demande à son père."
+      english: "He's asking his father."
+    de_verb:
+      french: "Je te demande de m'aider."
+      english: "I'm asking you to help me."
+    à_quelqu'un_de_verb:
+      french: "Elle demande à Jean de partir."
+      english: "She's asking Jean to leave."
+
+- verb: "aider"
+  forms:
+    transitive:
+      french: "J'aide ma mère."
+      english: "I'm helping my mother."
+    à_quelqu'un:
+      french: "Peux-tu aider à ton frère?"
+      english: "Can you help your brother?"
+    quelqu'un_à_verb:
+      french: "Je l'aide à faire ses devoirs."
+      english: "I'm helping him do his homework."
+    à_verb:
+      french: "Cela aide à comprendre."
+      english: "This helps to understand."
+
+- verb: "réussir"
+  forms:
+    intransitive:
+      french: "Il réussit toujours."
+      english: "He always succeeds."
+    transitive:
+      french: "J'ai réussi mon examen."
+      english: "I passed my exam."
+    à_quelque_chose:
+      french: "Elle a réussi à l'examen."
+      english: "She succeeded in the exam."
+    à_verb:
+      french: "Il a réussi à s'échapper."
+      english: "He managed to escape."
+
+- verb: "essayer"
+  forms:
+    transitive:
+      french: "J'essaie cette robe."
+      english: "I'm trying on this dress."
+    de_verb:
+      french: "J'essaie de dormir."
+      english: "I'm trying to sleep."
+    de_quelque_chose:
+      french: "Tu devrais essayer de cette approche."
+      english: "You should try this approach."
+
+- verb: "décider"
+  forms:
+    intransitive:
+      french: "C'est à toi de décider."
+      english: "It's up to you to decide."
+    transitive:
+      french: "Ils ont décidé la date."
+      english: "They decided on the date."
+    de_verb:
+      french: "J'ai décidé de partir."
+      english: "I decided to leave."
+    de_quelque_chose:
+      french: "Nous avons décidé de notre stratégie."
+      english: "We decided on our strategy."
+
+- verb: "jouer"
+  forms:
+    intransitive:
+      french: "Les enfants jouent dehors."
+      english: "The children are playing outside."
+    transitive:
+      french: "Il joue un rôle important."
+      english: "He plays an important role."
+    à_quelque_chose:
+      french: "Elle joue au tennis."
+      english: "She plays tennis."
+    de_quelque_chose:
+      french: "Il joue du piano."
+      english: "He plays the piano."
+    avec_quelqu'un:
+      french: "Je joue avec mes amis."
+      english: "I'm playing with my friends."
+    avec_quelque_chose:
+      french: "Ne joue pas avec le feu."
+      english: "Don't play with fire."
