@@ -17,6 +17,7 @@
       english: "They're talking about their neighbor."
 
 - verb: "penser"
+  note: "penser à = think about (occupy one's thoughts); penser de = have an opinion about"
   forms:
     intransitive:
       french: "Je pense, donc je suis."
@@ -38,6 +39,7 @@
       english: "What do you think of this idea?"
 
 - verb: "commencer"
+  note: "commencer à + infinitive (to start doing); commencer par + noun/infinitive (to begin with)"
   forms:
     intransitive:
       french: "Le film commence à huit heures."
@@ -56,6 +58,7 @@
       english: "I start by reading the instructions."
 
 - verb: "finir"
+  note: "finir de + infinitive (to finish doing); finir par + infinitive (to end up doing)"
   forms:
     intransitive:
       french: "La classe finit à midi."
@@ -104,6 +107,7 @@
       english: "This helps to understand."
 
 - verb: "réussir"
+  note: "réussir à + infinitive = to manage to, succeed in doing"
   forms:
     intransitive:
       french: "Il réussit toujours."
@@ -146,6 +150,7 @@
       english: "We decided on our strategy."
 
 - verb: "jouer"
+  note: "jouer à = play a sport/game; jouer de = play a musical instrument"
   forms:
     intransitive:
       french: "Les enfants jouent dehors."

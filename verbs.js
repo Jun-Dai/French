@@ -25,8 +25,14 @@ for (let i = 0; i < lines.length; i++) {
   const verbMatch = line.match(/^- verb:\s*"([^"]+)"/);
   if (verbMatch) {
     if (currentVerb) verbs.push(currentVerb);
-    currentVerb = { verb: verbMatch[1], forms: {} };
+    currentVerb = { verb: verbMatch[1], forms: {}, note: null };
     currentForm = null;
+    continue;
+  }
+
+  const noteMatch = line.match(/^  note:\s*"([^"]+)"/);
+  if (noteMatch && currentVerb) {
+    currentVerb.note = noteMatch[1];
     continue;
   }
 
@@ -119,6 +125,10 @@ if (showComplete) {
     console.log(`\n${v.verb.toUpperCase()}`);
     console.log('='.repeat(v.verb.length));
     console.log(generateNotation(v.forms));
+
+    if (v.note) {
+      console.log(`\nNote: ${v.note}`);
+    }
 
     for (const [formName, formData] of Object.entries(v.forms)) {
       if (formData.french) {
