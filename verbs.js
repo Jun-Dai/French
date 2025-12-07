@@ -118,6 +118,7 @@ if (showComplete) {
   for (const v of filteredVerbs) {
     console.log(`\n${v.verb.toUpperCase()}`);
     console.log('='.repeat(v.verb.length));
+    console.log(generateNotation(v.forms));
 
     for (const [formName, formData] of Object.entries(v.forms)) {
       if (formData.french) {
