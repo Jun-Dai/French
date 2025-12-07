@@ -4,7 +4,8 @@
   "description": "French idioms collection and parser",
   "main": "idioms.js",
   "scripts": {
-    "idioms": "node idioms.js"
+    "idioms": "node idioms.js",
+    "verbs": "node verbs.js"
   },
   "keywords": [
     "french",

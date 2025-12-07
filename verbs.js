@@ -65,6 +65,11 @@ function generateNotation(forms) {
 // Print verbs with notation
 const maxLen = Math.max(...verbs.map(v => v.verb.length));
 
+// Print header
+const headerPadding = ' '.repeat(maxLen - 5); // 5 is length of "verbe"
+console.log(`verbe${headerPadding}  dir à   de  autres`);
+console.log('-'.repeat(maxLen + 2 + 20)); // separator line
+
 for (const v of verbs) {
   const notation = generateNotation(v.forms);
   const padding = ' '.repeat(maxLen - v.verb.length);
