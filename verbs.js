@@ -6,6 +6,10 @@ const fs = require('fs');
 const args = process.argv.slice(2);
 const showComplete = args.includes('--complet') || args.includes('-c');
 
+// Extract verb filter (any arg that's not a flag)
+const verbFilter = args.filter(arg => !arg.startsWith('-')).join(',');
+const requestedVerbs = verbFilter ? verbFilter.split(',').map(v => v.trim().toLowerCase()) : [];
+
 // Read and parse verbs.yml with full details
 const content = fs.readFileSync('verbs.yml', 'utf8');
 const lines = content.split('\n');
@@ -48,6 +52,12 @@ for (let i = 0; i < lines.length; i++) {
   }
 }
 if (currentVerb) verbs.push(currentVerb);
+
+// Filter verbs if specific ones were requested
+let filteredVerbs = verbs;
+if (requestedVerbs.length > 0) {
+  filteredVerbs = verbs.filter(v => requestedVerbs.includes(v.verb.toLowerCase()));
+}
 
 // Generate compact notation
 function generateNotation(forms) {
@@ -94,7 +104,7 @@ function formatFormName(formName) {
 
 if (showComplete) {
   // Complete mode: show all examples
-  for (const v of verbs) {
+  for (const v of filteredVerbs) {
     console.log(`\n${v.verb.toUpperCase()}`);
     console.log('='.repeat(v.verb.length));
 
@@ -108,14 +118,14 @@ if (showComplete) {
   }
 } else {
   // Compact mode: show notation table
-  const maxLen = Math.max(...verbs.map(v => v.verb.length));
+  const maxLen = Math.max(...filteredVerbs.map(v => v.verb.length));
 
   // Print header
   const headerPadding = ' '.repeat(maxLen - 5); // 5 is length of "verbe"
   console.log(`verbe${headerPadding}  dir à   de  autres`);
   console.log('-'.repeat(maxLen + 2 + 20)); // separator line
 
-  for (const v of verbs) {
+  for (const v of filteredVerbs) {
     const notation = generateNotation(v.forms);
     const padding = ' '.repeat(maxLen - v.verb.length);
     console.log(`${v.verb}${padding}  ${notation}`);
